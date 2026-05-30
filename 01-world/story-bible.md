@@ -27,7 +27,7 @@ energy infrastructure. (This is the Batman-philanthropy argument applied to
 fantasy: the optimal move was never heroism.)
 
 > **Why this wasn't discovered centuries ago — CANON (decided 2026-05-30): lean into
-> it as a fourth-wall break.** Don't explain the gap away with economics; *name* it.
+> it as a fourth-wall break.** {Note: this relates to a slightly messier resolution: the explanation now is that the dung now both needs to be very dry, AND combined with footbee honey. The latter development also led to changes in the world's economy.} Don't explain the gap away with economics; *name* it.
 > Someone asks exactly what the reader is asking — "why was this never discovered
 > before?" — and the only answer is that on every previous raid the entire discipline
 > was *get to the treasure, stay away from the dragon* — and therefore away from its

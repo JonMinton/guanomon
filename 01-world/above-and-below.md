@@ -33,6 +33,11 @@ This is one of the **two things the First Novum produced** (the other being
 [[the-hum|the Hum]]). Together they are the whole revolution: a new *medium* in the air
 and a new *power base* underground.
 
+### A subnote on names
+The dwarves, being engineers and highly functionalist, use very direct names. The terms 'footbees' (bees a foot long), 'humboxes' (boxes that receive the hum) and 'feedpipes' (the pipes that transport the inert dragon slurry) are all new regime and indicate this directness in naming. The term 'feedpipes' also highlights the perspective from which the guano is interpreted: it's an *input* into the human/dwarf economy, even though it's an *output* (the opposite of feed) from the dragon's biological perspective.
+
+(Further to this: the name hummingbird is slightly more poetic, suggesting it's more likely to have been coined above ground)
+
 ## The risk inversion (the third axis of the flip)
 Power flows down and value flows down — and, completing the inversion, **risk flows up.** In
 the old order *below* was the dangerous place: mining and tunnelling were the hazardous,
