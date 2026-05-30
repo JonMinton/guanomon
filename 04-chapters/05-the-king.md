@@ -1,6 +1,4 @@
-# Account the Fourth — The King
-
-*Horror. The coup, narrated only here. Then: a decade on.*
+# The King
 
 ---
 

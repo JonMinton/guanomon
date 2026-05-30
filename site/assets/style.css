@@ -31,6 +31,7 @@ code{font-family:ui-monospace,Menlo,Consolas,monospace; font-size:.86em; backgro
 
 .view{max-width:var(--maxw); margin:0 auto; padding:2rem 1.2rem 4rem}
 .view.experiment{max-width:64rem}
+.view.story{max-width:72rem}
 
 /* ---- story mode ---- */
 .story-title{font-size:2.6rem; margin:.2rem 0 .4rem; letter-spacing:.01em}
@@ -52,11 +53,27 @@ code{font-family:ui-monospace,Menlo,Consolas,monospace; font-size:.86em; backgro
 .toc .genre{display:block; color:var(--muted); font-style:italic; font-size:.86em; margin-top:.1rem}
 .toc-foot{color:var(--muted); font-size:.85rem; font-style:italic; margin-top:1.2rem}
 
-/* ---- story: chapter reader ---- */
-.story-reader{max-width:var(--maxw); margin:0 auto}
+/* ---- story: single page, side nav ---- */
+.story-layout{display:grid; grid-template-columns:15rem 1fr; gap:2.4rem; align-items:start}
+.story-side{position:sticky; top:4.2rem; align-self:start}
+.story-side-brand{display:block; margin:0 0 1rem; padding-left:.5rem}
+.story-side-brand:hover{text-decoration:none}
+.ssb-title{display:block; font-weight:700; font-size:1.1rem; color:var(--ink); letter-spacing:.01em}
+.ssb-sub{display:block; color:var(--muted); font-style:italic; font-size:.8rem; margin-top:.1rem}
+.story-toc ol{list-style:none; margin:0; padding:0}
+.story-toc li{margin:.1rem 0}
+.story-toc a{display:flex; gap:.55rem; align-items:baseline; padding:.32rem .5rem; border-radius:6px; color:var(--ink)}
+.story-toc a:hover{background:#0001; text-decoration:none}
+.story-toc a.active{background:var(--ink); color:var(--paper)}
+.story-toc a.active .ch-tag{color:var(--paper); opacity:.7}
+.ch-tag{flex:0 0 1.7rem; text-align:right; font-size:.72rem; color:var(--muted); font-variant:small-caps; letter-spacing:.05em}
+.ch-name{font-size:.9rem; line-height:1.25}
+.story-side-foot{color:var(--muted); font-size:.76rem; font-style:italic; margin:1rem 0 0 .5rem}
+
+.story-reader{max-width:40rem}
 .chapter-head{border-bottom:1px solid var(--rule); padding-bottom:1rem; margin-bottom:1.7rem}
-.chapter-head h1{font-size:2rem; margin:.2rem 0 .35rem; letter-spacing:.01em}
-.chapter-stand{font-style:italic; color:var(--muted); margin:0}
+.chapter-kicker{text-transform:uppercase; letter-spacing:.13em; font-size:.7rem; color:var(--muted); margin:0 0 .25rem}
+.chapter-head h1{font-size:2rem; margin:0; letter-spacing:.01em}
 .chapter-body{font-size:1.05rem; line-height:1.75}
 .chapter-body p{margin:0 0 1.1rem}
 .chapter-body blockquote{border-left:3px solid var(--rule); margin:1.1rem 0; padding:.3rem 1.1rem; color:var(--muted); font-style:italic}
@@ -106,4 +123,9 @@ code{font-family:ui-monospace,Menlo,Consolas,monospace; font-size:.86em; backgro
   .notes-layout{grid-template-columns:1fr}
   .note-reader{border-left:0; padding-left:0; border-top:1px solid var(--rule); padding-top:1rem}
   .modes a{padding:.3rem .55rem}
+  .story-layout{grid-template-columns:1fr; gap:1.2rem}
+  .story-side{position:static; border-bottom:1px solid var(--rule); padding-bottom:1rem}
+  .story-toc ol{display:flex; flex-wrap:wrap; gap:.2rem .6rem}
+  .story-toc a{padding:.2rem .3rem}
+  .story-reader{max-width:none}
 }

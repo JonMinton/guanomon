@@ -1,6 +1,4 @@
-# Account the Eleventh — The Dragon
-
-*First person. Fable-from-outside, shading to horror. The outer frame. The last word.*
+# The Dragon
 
 ---
 

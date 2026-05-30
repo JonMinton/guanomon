@@ -1,6 +1,4 @@
-# Account the Second — Vesser, I: The Elegy
-
-*Elegy. The same trials, the opposite arc. Beginning of the end.*
+# Vesser — The Elegy
 
 ---
 

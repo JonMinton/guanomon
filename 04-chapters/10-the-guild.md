@@ -1,6 +1,4 @@
-# Account the Ninth — The Guild
-
-*Corporate annual report. The penultimate flattening: every cost above, laundered in one official voice.*
+# The Guild
 
 ---
 

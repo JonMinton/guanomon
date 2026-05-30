@@ -1,6 +1,4 @@
-# Account the Seventh — Garran
-
-*War confession. Opens on the confession. Arc-peak: the Hummingbird demonstration.*
+# Garran
 
 ---
 

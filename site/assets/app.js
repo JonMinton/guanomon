@@ -103,49 +103,58 @@
     }
   }
 
-  /* ---------------- story: contents + chapter reader ---------------- */
+  /* ---------------- story: single page, side nav, auto-numbered ---------------- */
+  // The running number is derived from order, not stored in the files: index 0 is the
+  // prologue; indices 1..n are the numbered accounts.
+  var ROMAN = ["", "I", "II", "III", "IV", "V", "VI", "VII", "VIII", "IX", "X", "XI", "XII", "XIII"];
+  function roman(n) { return ROMAN[n] || String(n); }
+  function chapterKicker(idx) { return idx === 0 ? "Prologue" : "Account " + roman(idx); }
+
   function buildTOC() {
     var ol = qs("toc-list"); if (!ol) return;
-    ol.innerHTML = storyChapters().map(function (n) {
+    ol.innerHTML = storyChapters().map(function (n, i) {
       var c = parseChapter(n.md);
-      return '<li><a href="#story/' + n.slug + '"><strong>' + esc(c.title) + '</strong>' +
-        (c.stand ? '<span class="genre">' + esc(c.stand) + "</span>" : "") + "</a></li>";
+      var name = i === 0 ? "Prologue — " + c.title : c.title;
+      return '<li><a href="#story/' + n.slug + '" data-chap="' + n.slug + '">' +
+        '<span class="ch-tag">' + esc(i === 0 ? "" : roman(i)) + "</span>" +
+        '<span class="ch-name">' + esc(name) + "</span></a></li>";
     }).join("");
   }
 
+  function setStoryActive(slug) {
+    document.querySelectorAll("#toc-list a").forEach(function (a) {
+      a.classList.toggle("active", a.getAttribute("data-chap") === slug);
+    });
+  }
+
   function openStoryChapter(slug) {
-    var home = qs("story-home"), reader = qs("story-reader");
+    var reader = qs("story-reader"); if (!reader) return;
     var chapters = storyChapters();
-    if (!slug) {
-      if (home) home.hidden = false;
-      if (reader) { reader.hidden = true; reader.innerHTML = ""; }
-      return;
+    if (!chapters.length) return;
+    var idx = 0; // default: the prologue
+    if (slug) {
+      for (var i = 0; i < chapters.length; i++) { if (chapters[i].slug === slug) { idx = i; break; } }
     }
-    var idx = -1;
-    for (var i = 0; i < chapters.length; i++) { if (chapters[i].slug === slug) { idx = i; break; } }
-    if (idx < 0) { location.hash = "#story"; return; }
     var n = chapters[idx], c = parseChapter(n.md);
     var prev = chapters[idx - 1], next = chapters[idx + 1];
-    function navlink(ch, cls, suffix, prefix) {
+    function navlink(ch, cls, prefix, suffix) {
       if (!ch) return "<span></span>";
       return '<a class="' + cls + '" href="#story/' + ch.slug + '">' +
         (prefix || "") + esc(parseChapter(ch.md).title) + (suffix || "") + "</a>";
     }
-    if (home) home.hidden = true;
-    reader.hidden = false;
     reader.innerHTML =
-      '<header class="chapter-head"><h1>' + esc(c.title) + "</h1>" +
-      (c.stand ? '<p class="chapter-stand">' + esc(c.stand) + "</p>" : "") + "</header>" +
+      '<header class="chapter-head"><p class="chapter-kicker">' + esc(chapterKicker(idx)) + "</p>" +
+      "<h1>" + esc(c.title) + "</h1></header>" +
       '<div class="chapter-body">' + mdToHtml(c.body) + "</div>" +
       '<nav class="chapter-nav">' +
-      navlink(prev, "cn-prev", "", "‹ ") +
-      '<a class="cn-toc" href="#story">Contents</a>' +
-      navlink(next, "cn-next", " ›", "") +
+      navlink(prev, "cn-prev", "‹ ", "") +
+      navlink(next, "cn-next", "", " ›") +
       "</nav>";
     var body = reader.querySelector(".chapter-body");
     if (body && body.firstElementChild && body.firstElementChild.tagName === "P") {
       body.firstElementChild.classList.add("dropcap");
     }
+    setStoryActive(n.slug);
     if (typeof window.scrollTo === "function") window.scrollTo(0, 0);
   }
 

@@ -1,6 +1,4 @@
-# Account the Third — Dalla, On Air
-
-*Broadcast transcript. The artefact as the public consumed it. Interviewer: Sennet, the Host.*
+# Dalla — On Air
 
 ---
 

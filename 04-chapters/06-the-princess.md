@@ -1,6 +1,4 @@
-# Account the Fifth — The Princess
-
-*Conversion. The same marriage the King mourns — narrated from inside, as belonging.*
+# The Princess
 
 ---
 

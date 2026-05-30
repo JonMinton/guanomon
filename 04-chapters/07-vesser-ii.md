@@ -1,6 +1,4 @@
-# Account the Sixth — Vesser, II: Watching Brask
-
-*Elegy-as-observer. The mourner's voice narrating the builder who buried him. Arc-peak: the Hum.*
+# Vesser — Watching Brask
 
 ---
 

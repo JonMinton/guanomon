@@ -18,21 +18,19 @@
 
 <!-- ============ STORY MODE (default) ============ -->
 <main id="story" class="view story" hidden>
-  <div id="story-home">
-    <section class="story-hero">
-      <h1 class="story-title">The Guano Guild</h1>
-      <p class="story-sub">A Rashomon of the dragon-dung revolution — told from every side the system made and unmade.</p>
-      <p class="story-note">A prologue and eleven accounts of one deterministic process, each in a different genre. The events are fixed; only the meanings disagree. <em>First-iteration draft.</em></p>
-    </section>
-
-    <section class="toc">
-      <h2>Contents</h2>
-      <ol id="toc-list"><!-- filled by app.js --></ol>
-      <p class="toc-foot">The order it was written in — still tunable. Choose any account to begin.</p>
-    </section>
+  <div class="story-layout">
+    <aside class="story-side">
+      <a class="story-side-brand" href="#story">
+        <span class="ssb-title">The Guano Guild</span>
+        <span class="ssb-sub">a Rashomon of the dragon-dung revolution</span>
+      </a>
+      <nav class="story-toc" aria-label="Chapters">
+        <ol id="toc-list"><!-- filled by app.js --></ol>
+      </nav>
+      <p class="story-side-foot">First-iteration draft. Order still tunable.</p>
+    </aside>
+    <article id="story-reader" class="story-reader"><!-- the current chapter, rendered by app.js --></article>
   </div>
-
-  <article id="story-reader" class="story-reader" hidden><!-- a chapter, rendered by app.js --></article>
 </main>
 
 <!-- ============ EXPERIMENT MODE ============ -->

@@ -1,6 +1,4 @@
-# Scene 1 — The Descent
-
-*Unattributed prologue. Present tense.*
+# The Descent
 
 ---
 

@@ -1,6 +1,4 @@
-# Account the Tenth — Marga
-
-*Working-class realism — the un-genre. Scene 1 revealed as her shift. The ground truth.*
+# Marga
 
 ---
 

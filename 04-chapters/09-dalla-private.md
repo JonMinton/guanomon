@@ -1,6 +1,4 @@
-# Account the Eighth — Dalla, Private
-
-*Interior monologue, to no one. The cost of the third account. Rhymed with the Dragon.*
+# Dalla — Private
 
 ---
 

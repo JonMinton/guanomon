@@ -1,6 +1,4 @@
-# Account the First — Grundrak
-
-*Political thriller. Arc-peak: the trials.*
+# Grundrak
 
 ---
 
