@@ -14,6 +14,15 @@ adjacent to, and the system rewarded her with a form of status that **entombs**
 rather than liberates: she becomes the **"Dalla,"** the eponymous unit of energy
 output. A person converted into a measurement.
 
+She is also a **coerced celebrity** — and that word now has machinery behind it. Her
+fame is manufactured and sustained on the [[story-bible|second novum: mass
+communication]], the broadcast apparatus the alchemist-mages built. She is put *on air*,
+paraded as "the discoverer," interviewed in public **speaking-hours** (talk shows in all
+but name). The coercion is the familiar one — she cannot refuse without forfeiting the
+only status she has — but it is now *staged and amplified*: millions, not a market square,
+watch her be the face of something she merely fell into. The leering she notices is a
+**mass audience**. The cage has a transmitter.
+
 ## Arc
 The fall → the leering → celebrity → the celebrity that *encloses* her. Her circle
 closes around her like a cage. There is no clean exit.
@@ -41,6 +50,15 @@ That is the **soft lampshade**: a character saying the quiet part, not the narra
 addressing the reader. The bitterness supplies all the wink the device needs; the
 fictional membrane stays intact (see [[discovery-gating]] for why we landed here rather
 than a literal fourth-wall break).
+
+**Why it lands as a polished routine:** she has *literally performed this bit* on the
+[[story-bible|broadcast]] for years — the dry, self-deprecating origin story is part of
+her on-air persona, sanded smooth by repetition. That is the in-world reason her register
+is practised irony rather than raw grievance: she is a **media veteran** delivering a line
+she has delivered a thousand times. The horror underneath is that even her one true,
+bitter fact has been absorbed into the apparatus and turned into *content*. The system
+didn't suppress her truth — it gave her a show and let her tell it, which was more
+effective.
 
 The line does triple duty: it answers the reader's objection, it characterises Dalla
 (the only "achievement" of her life was an embarrassing accident, now monumentalised),

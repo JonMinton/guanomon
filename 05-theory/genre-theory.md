@@ -128,6 +128,28 @@ lives.
 > industrial novum displaces the artisanal marvel. The hard/soft magic distinction
 > isn't just theory behind the story — it's the story's *engine*.
 
+## 5. The world has *two* novums — and they split hard/soft
+
+The strongest evidence the bridge thesis is doing real work in *this* story: it ends up
+with **two** novums, and they fall on opposite ends of the hard/soft axis. See
+[[story-bible|The second novum]].
+
+| | **Guano** (energy) | **Mass communication** (attention) |
+|---|---|---|
+| Class that owns it | dwarves (extraction/combustion) | mages (resonance/sympathy) |
+| Hard or soft? | **maximally hard** — chemistry, fully legible | **deliberately softer** — mechanism stays a little mysterious |
+| Economy it founds | hard power: fuel, the coup, the tunnels | soft power: celebrity, myth, the official story |
+| Suvin test | passes "cognition as science" | passes "cognition of *rules*," not of science |
+
+This is the hard/soft magic distinction **dramatised as political economy.** The hard
+novum reorganises *matter*; the soft novum reorganises *meaning*. Together they're the
+two faces of one industrial revolution — and they let the book run its
+[[critique-and-direction|Rashomon argument]] at the level of the *world*, not just the
+narrators: the dwarves move reality, the mage-media decides what that movement is *called*.
+That the **softer** novum is the one that manufactures [[dalla|Dalla's]] celebrity and
+launders the [[the-guild|Guild's]] myth is the point — *meaning* is where the soft, less
+legible power lives, exactly as Suvin's "anti-cognitive" register would predict.
+
 ---
 
 ## Sources

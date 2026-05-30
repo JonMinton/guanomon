@@ -52,8 +52,58 @@ fantasy: the optimal move was never heroism.)
   true vs false. This keeps the magic "hard" in the Sanderson sense — its limits are
   legible and economically meaningful.
 - The mage class arc: deny guano's superiority → fail to compete in open trials →
-  capitulate → reinvent themselves as **alchemists trying to reproduce guano**
-  (the doomed incumbent who invents the disruptor and shelves it).
+  capitulate → reinvent themselves as **alchemists trying to reproduce guano** — and
+  **fail at that too.** But the failure is generative: chasing synthetic *power*, they
+  stumble onto synthetic *reach*. Their real industrial destiny was never energy; it was
+  **mass communication.** See *The second novum* below — this is the single biggest
+  upgrade to the mage arc, and it reframes [[vesser|Vesser's]] tragedy.
+
+## The second novum — mass communication (the mages' real legacy)
+
+The world has **two** [[genre-theory|novums]], produced by the two classes the
+revolution sorts into winners. The dwarves get the **energy** economy (guano). The
+mages — in apparent defeat — get the **attention** economy. This is the engine that
+makes [[dalla|Dalla's]] coerced celebrity, the [[the-guild|Guild's]] aired founder-myth,
+and the [[the-princess|Princess's]] saturation in the new culture all *mechanically
+possible* instead of hand-waved.
+
+**The in-world rationale (keep it Sanderson-legible):** **signal is cheap; power is
+expensive.** Carrying a *message* needs fidelity and reach, not bulk throughput. Magic
+was always bad at industrial *power* (the artisanal bottleneck is real and permanent —
+hence the trials were lost) but it was always *good* at the thing dwarven extraction
+can't touch: **resonance, sympathy, connection at a distance.** So the one thing the
+mages cannot industrialise — energy — sits right next to the one thing they *can*:
+**communication.** They were chasing the wrong destiny. Their craft's true scalable
+application was never the forge; it was the **broadcast.**
+
+What it produces:
+- A means of **mass communication** — voice (and perhaps image) carried live to many
+  receivers at once. Something very like radio. With it come the social forms that ride
+  it: public "speaking-hours," staged interviews, manufactured personalities — *talk
+  shows*, in effect, and the manufactured celebrity they create.
+- The **delivery system for the official story.** The Guild's "she discovered it" myth
+  isn't printed and ignored; it is *aired*, repeatedly, in a register of relentless
+  positivity. Dalla is put *on air* and paraded as the discoverer — coercion not by
+  force but by the impossibility of refusing the only status she has.
+
+**Power vs. narrative (the new dyad):** the dwarves hold **hard power** (energy, the
+coup, the [[the-king|tunnels you bow in]]); the mage-built media holds **soft power**
+(who the public believes did what). They are not allies so much as the two halves of a
+single machine — one moves the world, the other tells everyone what the movement
+*meant*. The [[the-king|King's]] "only remaining power is *noticing*" cuts deeper once
+there is a broadcast apparatus deciding what everyone else gets to notice.
+
+**Hard/soft texture:** make the communication novum the deliberately *softer* of the
+two — its inner workings stay a little mysterious (resonance, sympathy), where
+guano-chemistry is fully legible. The world thus runs on **one hard novum and one
+soft one**, which is itself the [[genre-theory|hard/soft magic axis]] dramatised as
+economics. *Boxer guard: never name "radio"/"media"/"propaganda"; carry it by the
+marvel and the mechanism.*
+
+> **Decisions this opens (see Open questions):** who leads the communication pivot
+> (a "mage-Grundrak" pragmatist vs. [[vesser|Vesser]] missing it entirely); whether it
+> carries image or voice only; what it's called; and how mature it is at each timeline
+> beat (it must exist early enough to *build* Dalla's celebrity after her T−6-month fall).
 
 ## Infrastructure & embodied detail
 
@@ -109,11 +159,16 @@ externality nobody priced in — but it is never stated. The mechanism carries i
    dragon and its filth), until [[dalla|someone is soiled for the first time]]. See the
    fourth-wall canon under **The premise** and in [[discovery-gating]].
 2. The trials; Vesser's capitulation.
-3. Normalisation; infrastructure; mages → alchemists.
-4. Scene 1's "present": routine industrial collection.
+3. Normalisation; infrastructure; mages → alchemists. **The alchemists fail to
+   reproduce guano but crack mass communication** — the second novum comes online here,
+   crude at first. Dalla's manufactured celebrity begins to be *built* on it.
+4. Scene 1's "present": routine industrial collection. (Mass communication now an
+   everyday fact; talk-show culture established.)
 5. The throne-room coup.
-6. *+10 years*: colonial expansion, the strategic marriage.
-7. *+30 years*: the dragon's metabolic decline; the gaze turns predatory.
+6. *+10 years*: colonial expansion, the strategic marriage. Media mature and pervasive;
+   the official story is aired continuously.
+7. *+30 years*: the dragon's metabolic decline; the gaze turns predatory. Dalla narrates
+   her account from around here — a long-retrospective media veteran (see [[dalla]]).
 
 > Note the structure narrates these **out of order**, each account entering the
 > timeline where its own arc peaks.
@@ -135,6 +190,20 @@ externality nobody priced in — but it is never stated. The mechanism carries i
 - **Naming the transit:** what is the underground railway *called* in-world? It wants a
   dwarven, downward, workmanlike name (not "subway"). Candidates to react to: *the
   Undercart*, *the Underway*, *the Delvelines*, *the Deeprun*. Decide and record.
+- **The communication novum (new — several decisions):**
+  - *Who leads the pivot?* Recommended: a younger, pragmatic mage — a **"mage-Grundrak"**
+    who seizes communication while [[vesser|Vesser]] keeps chasing energy. This preserves
+    Vesser's elegy *and* gives the second novum a face. Could be a future account or a
+    figure inside Vesser's chapter. (Alt: the alchemists' guild does it facelessly; or
+    Vesser himself does it, which complicates his pure elegy — probably don't.)
+  - *Voice only, or image too?* Voice-only is cheaper, eerier, and more period-radio;
+    image makes Dalla's *face* (already load-bearing) literally broadcastable. Lean
+    voice-first, image arriving later as a second escalation.
+  - *What is it called?* Mage-flavoured, resonance-rooted. Candidates: *the Resonance*,
+    *farspeaking* / *the Farspeak*, *sendings*, *the Hum*, *the Choir*. The talk-show
+    form: *speaking-hours*, *hearings*, *the Hour*.
+  - *How hard/soft?* Keep it the softer novum — mechanism a little mysterious. Record how
+    much the reader is allowed to understand (see [[genre-theory]]).
 - **Discovery gate — DECIDED:** the lampshade (see **The premise**), and **[[dalla|Dalla]]
   speaks it** — bitter about being uniquely clumsy; the discovery happened only because
   she, alone in three centuries, was careless enough to fall in. It's the *soft*

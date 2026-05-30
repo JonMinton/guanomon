@@ -23,6 +23,20 @@ accounts, reads every smooth sentence against the cost it conceals.
 - Founder-myth versions of the discovery (Dalla as discoverer, not faller) and of the
   coup (a "reorganisation of governance," perhaps).
 
+## Its delivery system (the irony tightens)
+The Guild's account is not a document mouldering in an archive — it is **aired**, on the
+[[story-bible|mass-communication novum the alchemist-mages built]]. The official story
+reaches everyone, continuously, in the institution's relentlessly positive register. Two
+consequences worth exploiting:
+- The displaced mages' own invention is the **megaphone for the order that displaced
+  them.** [[vesser|Vesser's]] craft, repurposed, broadcasts the myth that erases
+  Vesser's loss. The instrument of the defeated carries the victors' version.
+- [[dalla|Dalla]] and the Guild are the **same signal at two settings.** She tells the
+  bitter truth (*"I fell"*) on the very apparatus the Guild uses to tell the laundered
+  myth (*"she discovered"*). Same broadcast, opposite meanings — the [[critique-and-direction|Rashomon
+  engine]] running through a single wire. Decide whether they ever share a *speaking-hour*
+  on air (dangerous, delicious) or stay segregated by format.
+
 ## What it cannot see (by design)
 - Anyone's interior. Every human cost above is invisible to it, or rendered as a
   positive externality. The blindness is total and is the source of the irony.
