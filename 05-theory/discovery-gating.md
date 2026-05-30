@@ -34,9 +34,20 @@ Why this is the right call for *this* story (not a cop-out):
   argument]] in miniature: the technology was always latent; only a contingent accident
   released it. The 4th-wall break smuggles the thesis in as a joke.
 
-**Open sub-question:** *who* delivers the meta-line, and to whom — see [[story-bible]]
-open questions. The line should land once and not be revisited; a lampshade hung twice
-becomes an excuse.
+**Who delivers it — DECIDED: [[dalla|Dalla]]**, in her own account, *bitter about being
+uniquely clumsy.* The discovery happened because she alone, in three hundred years, was
+careless enough to fall in the dung; everyone else had the discipline to stay clean.
+She pre-empts the reader's objection as grievance, not exposition — *"someone had to be
+the fool; the post was vacant; I applied without meaning to."*
+
+This also settles the **degree**: it is the **soft lampshade** (a character saying the
+quiet part out loud), **not** a literal fourth-wall break (the narration addressing the
+reader). Dalla's bitterness supplies the whole wink while the fictional membrane stays
+intact — which matters in a Rashomon structure that depends on fully-inhabited,
+unreliable narrators; a true address-to-the-reader would risk puncturing that illusion.
+The line should land **once**, in her account only; the [[the-guild|Guild]] does the
+inverse and launders "she fell" into "she discovered." A lampshade hung twice becomes an
+excuse. See [[dalla]].
 
 > The material below is now **supporting texture, not the mechanism.** Keep it for
 > backstory colour, for the [[the-guild|Guild's]] retroactive rationalisations, and in
@@ -177,12 +188,12 @@ taboo-reinforced lock-in (A + C + D).*
 
 ## Open questions promoted to the bible
 
-- **Who speaks the meta-line, and to whom?** (The live question now — see [[story-bible]]
-  open questions: Dalla / the Guild / Grundrak.)
-- Is the disgust-gate (the "stay away from the dung" habit) made explicit in
-  [[dalla|Dalla's]] account (she crosses it by accident) and laundered in the
-  [[the-guild|Guild's]] (founder-myth)? This is the diegetic residue of the chosen
-  lampshade.
+- ~~Who speaks the meta-line, and to whom?~~ **Resolved: [[dalla|Dalla]], soft
+  lampshade** (see above).
+- Remaining: the exact **register** of Dalla's line (dry vs raw grievance — see
+  [[dalla]] open questions), and whether the [[the-guild|Guild's]] laundering of "she
+  fell → she discovered" is shown in the same beat the reader meets Dalla's truth or
+  held for the Guild's own chapter.
 
 ---
 

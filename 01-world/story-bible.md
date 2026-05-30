@@ -116,8 +116,9 @@ externality nobody priced in — but it is never stated. The mechanism carries i
   "demonstrated to"?
 - What, precisely, do dragons eat in the husbandry regime, and who supplies it?
   (This determines who profits one tier up from the crews.)
-- **Discovery gate — DECIDED:** the fourth-wall lampshade (see **The premise**). Open
-  sub-question: *who* speaks the meta-line, and *to whom* — is it in [[dalla|Dalla's]]
-  account (she says it, bitterly), the [[the-guild|Guild's]] (it tries and fails to
-  dignify the accident), or [[grundrak|Grundrak's]] (he finds the obviousness the most
-  damning thing of all)? See [[discovery-gating]].
+- **Discovery gate — DECIDED:** the lampshade (see **The premise**), and **[[dalla|Dalla]]
+  speaks it** — bitter about being uniquely clumsy; the discovery happened only because
+  she, alone in three centuries, was careless enough to fall in. It's the *soft*
+  lampshade (a character saying the quiet part), not a literal narrator-to-reader break.
+  Hang it **once**, in her account only; the [[the-guild|Guild]] does the opposite and
+  launders "she fell" into "she discovered." See [[dalla]] and [[discovery-gating]].

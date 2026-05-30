@@ -27,9 +27,9 @@ as home. See [[the-princess]].
 Scene 1 stays as an **unattributed prologue** — present tense, genre disorientation,
 the shovelling crew (Marga, Aldric, Kael) treating the treasure with indifference.
 It poses the question the accounts then answer from their several angles. *(It is also
-where the [[discovery-gating|fourth-wall "why was this never found before?" lampshade]]
-is seeded — the crew's trained indifference to the dung is the very habit that gated
-the discovery.)*
+where the [[discovery-gating|"why was this never found before?" lampshade]] is seeded —
+the crew's trained indifference to the dung is the very habit that gated the discovery.
+[[dalla|Dalla]] pays it off later, bitterly, in her own account.)*
 
 ## Ordering logic (a starting proposal, not a verdict)
 
