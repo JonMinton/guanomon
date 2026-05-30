@@ -32,6 +32,7 @@ brief is in [[background]]; the orientation is in the [README](README.md).*
 - [[the-king]] — the deposed sovereign · *horror*
 - [[the-princess]] — old money converted to new · *conversion / bildungsroman*
 - [[dern]] — the slayer made butcher; the Warriors' Guild · *war confession*
+- [[marga]] — the shoveller; the Guano Guild's human face · *working-class realism (the un-genre)*
 - [[the-dragon]] — the source · *undecided / fable-from-outside*
 
 *(**[[brask]]** — the systems-genius who builds the Hum — is **not a POV**: too

@@ -97,6 +97,11 @@ woman's clumsiness — and calls it a founding).
 - The Dragon. She doesn't know the Dragon has an inner life, or that the system has
   done the same thing to both of them. Only the reader, holding both accounts, sees
   it.
+- **[[marga]].** They began identically — a raiding crew, going down into the dung. Dalla
+  *fell once* and became a unit and a star; Marga *kept shovelling*, nameless, for twenty
+  years. The accident lottery sorted two near-identical women into "the Dalla" and a nobody.
+  Dalla likely never thinks of the shovellers she left behind; Marga has a flat, unimpressed
+  view of her. The reader holds both — and Marga's account corrects Dalla's myth *from below.*
 
 ## The unit/source rhyme (load-bearing)
 Dalla and the Dragon are the two **female** characters, both rewarded for a form of

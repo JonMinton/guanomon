@@ -17,6 +17,11 @@
 bureaucratic, smoothing, relentlessly positive; the prose of an institution describing
 itself.
 
+> **Its human counter-voice: [[marga]].** The Guano Guild's *truth* is the shoveller's hands
+> in the dung. The institution thus reaches the reader in **two opposite registers** — this
+> faceless corporate voice (maximal lie) and Marga's plain realism (maximal truth) — placed
+> adjacent in the running order so each indicts the other. Same guild; opposite truth-values.
+
 ## What it is, in the world
 The dominant institution of the new order: it owns the [[guano]] supply chain end to
 end, sets the [[story-bible|Dalla]] as a unit, schedules collection, licenses the crews,

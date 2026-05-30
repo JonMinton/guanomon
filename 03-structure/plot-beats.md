@@ -14,16 +14,19 @@
 | 7 | [[dern\|Dern]]    | war confession / disillusioned memoir | "I once killed a dragon"; the Hummingbird demonstration |
 | 8 | [[dalla\|Dalla]] — *private* | interior monologue, to no one | the weary irony; the cost of chapter 3 |
 | 9 | [[the-guild\|The Guild]] | corporate annual report   | the normalisation montage            |
-| 10| [[the-dragon\|The Dragon]]| undecided / fable-outside | the metabolic decline; gaze reopens; the dragon-Hum |
+| 10| [[marga\|Marga]] | working-class realism — *the un-genre* | the shoveller's truth; Scene 1 revealed as her shift |
+| 11| [[the-dragon\|The Dragon]]| undecided / fable-outside | the metabolic decline; gaze reopens; the dragon-Hum |
 
-**Ten accounts across eight narrators** (counting Scene 1's prologue separately). Two
+**Eleven accounts across nine narrators** (counting Scene 1's prologue separately). Two
 narrators carry **two non-adjacent chapters each** — [[dalla|Dalla]] (on-air persona /
 private monologue) and [[vesser|Vesser]] (his own elegy / observing [[brask]]). **[[brask|
 Brask]] is *not* a POV**: he's the least introspective character, so he is seen from
-outside, in Vesser's second chapter (decided 2026-05-30). Numbering is *illustrative
-order*, not locked — but keep each pair's two chapters **apart** (the gap is the point).
-At this size, **length discipline matters** — some accounts may be short (the Guild
-especially); audit for the "inert glue" failure mode below.
+outside, in Vesser's second chapter. **[[marga|Marga]]** (the shoveller from Scene 1) is the
+newest — the proletarian voice and the human face of the [[the-guild|Guano Guild]], placed
+**right after the Guild's account** so the corporate lie is answered immediately by the
+worker's truth (same institution, opposite truth-values). Numbering is *illustrative order*,
+not locked — but keep each pair's two chapters **apart**. At this size, **length discipline
+matters** — some accounts may be short; audit for the "inert glue" failure mode below.
 
 > **The two structural pairings to protect** (old-world grief ↔ new-world fluency):
 > [[the-king|King]] ↔ [[the-princess|Princess]] (sovereignty) and [[vesser|Vesser]] ↔
@@ -187,10 +190,8 @@ for Vesser. Track each character's circle in their character file as you draft.
 ## Open structural questions
 - Final account order — lock it after the first two chapters are drafted, not before.
 - Guild: single document vs. accreting interludes.
-- Does Scene 1's crew reappear named in any account, or stay anonymous labour? *(Live
-  recommendation — see [[guilds]]: develop one of Marga/Aldric/Kael into the **missing
-  proletarian account**, which also gives the faceless [[the-guild|Guano Guild]] a human
-  body. Strongest of the casting gaps.)*
+- ~~Does Scene 1's crew reappear named?~~ **RESOLVED: yes** — [[marga]] (the shoveller) gets
+  the proletarian account; Aldric and Kael populate it. Scene 1 is revealed as her shift.
 - **Guild → character coverage:** every guild is a concept told through a person; audit and
   gaps live in [[guilds]]. Open casting decisions: the **labourer** (recommended) and a
   **sapper** (strong optional).

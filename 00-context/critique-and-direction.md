@@ -55,6 +55,7 @@ deterministic process:
 | The Princess | conversion / bildungsroman | the new order as home, not as loss  | that there was anything to mourn |
 | Dern      | war confession               | his reduction to remote butcher       | that the heroism was always a lie |
 | The Guild | corporate annual report      | a clean progress narrative            | every human cost above       |
+| Marga     | working-class realism (the un-genre) | the system from the bottom, no myth | her own structural leverage |
 | The Dragon| undecided / fable-from-outside | the cage that comfort built          | the analogy to Dalla         |
 
 *(Two narrators carry two chapters each — Dalla, on-air persona / private monologue; and
