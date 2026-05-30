@@ -7,16 +7,27 @@
 | – | *(Scene 1)* | unattributed cold open  | present-day routine collection       |
 | 1 | [[grundrak\|Grundrak]]  | political thriller        | the trials (vindication)             |
 | 2 | [[vesser\|Vesser]]    | elegy                     | the trials (the beginning of the end)|
-| 3 | [[dalla\|Dalla]]     | satire of commemoration   | the fall → the unit                  |
-| 4 | [[the-king\|The King]]  | horror                    | the throne-room coup                 |
-| 5 | [[the-princess\|The Princess]] | undecided — conversion / bildungsroman | the strategic marriage; her naturalised conversion |
-| 6 | [[the-guild\|The Guild]] | corporate annual report   | the normalisation montage            |
-| 7 | [[the-dragon\|The Dragon]]| undecided / fable-outside | the metabolic decline; gaze reopens  |
+| 3 | [[brask\|Brask]]    | the maker's monologue / technical sublime | building the Hum |
+| 4 | [[dalla\|Dalla]] — *on air* | broadcast interview (unctuous host) | the public personality, performing "I fell" as charm |
+| 5 | [[the-king\|The King]]  | horror                    | the throne-room coup                 |
+| 6 | [[the-princess\|The Princess]] | conversion / bildungsroman | the strategic marriage; her naturalised conversion |
+| 7 | [[dern\|Dern]]    | war confession / disillusioned memoir | "I once killed a dragon"; the Hummingbird demonstration |
+| 8 | [[dalla\|Dalla]] — *private* | interior monologue, to no one | the weary irony; the cost of chapter 4 |
+| 9 | [[the-guild\|The Guild]] | corporate annual report   | the normalisation montage            |
+| 10| [[the-dragon\|The Dragon]]| undecided / fable-outside | the metabolic decline; gaze reopens  |
 
-**Account count is now seven** (the [[the-princess|Princess]] promoted from a detail in
-the King's chapter to a full account — decided 2026-05-30). She is the generational
-counter-voice to her father: the same facts he reads as [[the-king|horror]], she reads
-as home. See [[the-princess]].
+**The cast has grown to ten accounts** (counting Scene 1's prologue separately), via
+three 2026-05-30 decisions: the [[the-princess|Princess]] promoted to a full account;
+[[brask]] and [[dern]] added (the comms-pivot genius and the obsolete slayer); and
+[[dalla|Dalla]] **split into two non-adjacent chapters** (on-air persona / private
+monologue — the gap between them is the point). Numbering above is *illustrative order*,
+not locked. At this size, **length discipline matters** — some accounts may be short
+(the Guild especially); audit for the "inert glue" failure mode below.
+
+> **The two structural pairings to protect** (old-world grief ↔ new-world fluency):
+> [[the-king|King]] ↔ [[the-princess|Princess]] (sovereignty) and [[vesser|Vesser]] ↔
+> [[brask|Brask]] (magecraft). Read each pair *against* itself — same facts, opposite
+> valence.
 
 > **Jon's structural note (carried from the bible/ordering):** the [[the-guild|Guild]]
 > material may not want to be one monolithic account — some of it belongs in the
@@ -86,6 +97,23 @@ Its physical emblem: the [[story-bible|too-low dwarven tunnels]] that make human
 at all, and hopes her children are *born* short enough not to. Submission (the King) →
 assimilation (the Princess) is the whole conquest compressed into the question of how
 tall you are allowed to stand.
+
+### 4. The displaced incumbents vs. the ascendant generation
+The novum sorts the cast into two cohorts, and the book pairs them off:
+
+| Old-world vocation rendered obsolete | Ascendant new-world counterpart |
+|---|---|
+| [[the-king\|King]] — sovereignty | [[grundrak\|Grundrak]] — real power behind the throne |
+| [[vesser\|Vesser]] — magecraft | [[brask\|Brask]] — the Hum's builder |
+| [[dern\|Dern]] — heroism / arms | *(the Hummingbirds themselves — no human heir)* |
+
+The first two pairs have a human on each side; the third is the darkest, because the
+slayer's successor is **not a person but a machine** ([[story-bible|Hummingbirds]]). Heroism doesn't get a
+proud young inheritor the way sovereignty and magecraft do — it just gets *automated
+out*. Note too that [[vesser|Vesser]] and [[dern|Dern]] share the **self-flattering
+elegy** blindness: each mourns a vocation (artisanal magic / "honest" violence) that the
+determinist reading says was always doomed or always a lie. Don't let them sound alike —
+Vesser is lyrical, Dern is flat and guilt-shadowed — but they rhyme.
 
 ## Determinism preserved
 Across all accounts, the technology still wins. The disagreement is never about *what

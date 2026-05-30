@@ -1,12 +1,30 @@
 # Dalla — the accidental discoverer
 
 **Account genre:** satire of commemoration
-**Register:** **dry wit, long-retrospective.** She is telling this from years on, and
-has *largely but not entirely* converted bitterness into irony — the grievance is still
-there, load-bearing, but it now travels as wryness rather than complaint. Watchful,
-alert to being looked at; should formally *rhyme* with the Dragon's account (see below).
-The unconverted residue of bitterness is what keeps the irony from going weightless —
-play the gap between how lightly she says it and how much it cost.
+**Register:** *two registers, two chapters* (see below). Dalla is the one figure split
+across **two non-adjacent accounts** — the public voice and the private one — and the
+*gap between them* is her whole characterisation.
+
+## Two chapters — the public voice and the private (load-bearing structure)
+Dalla appears **twice**, well apart in the running order:
+
+1. **On air — the interview chapter.** Structured as a broadcast [[story-bible|Hum]]
+   interview, in the manner of a *Radio 4 "This Cultural Life"* segment: a **generic,
+   unctuous host** lobbing reverent questions, and Dalla **sounding confident, warm,
+   self-assured** — the practised public personality. Here the lampshade "I fell" line
+   lands as a *charming, polished anecdote* she has clearly told a hundred times; the
+   audience laughs; nothing underneath shows. The chapter is almost entirely *surface*,
+   and the reader may not yet know how little of it is true to her.
+2. **Later — the private account, to no one.** Her interior voice, addressed to nobody,
+   where the **weary irony** finally shows: **dry wit, long-retrospective**, bitterness
+   *largely but not entirely* converted into irony, the grievance still load-bearing
+   underneath. This is where the cost of the first chapter is paid.
+
+The reader meets the **myth before the woman**, then has to reread the confident
+interview through the weary monologue. *(Voice-only Hum is what makes this possible — see
+below: the public knows her assured voice and never the face, so the persona and the
+person can diverge completely.)* Decide the exact running positions, but keep them far
+apart and keep #1 before #2.
 
 ## Role in the system
 She did not discover anything. She **fell**. The discovery was an accident she was
@@ -51,14 +69,18 @@ addressing the reader. The bitterness supplies all the wink the device needs; th
 fictional membrane stays intact (see [[discovery-gating]] for why we landed here rather
 than a literal fourth-wall break).
 
-**Why it lands as a polished routine:** she has *literally performed this bit* on the
-[[story-bible|broadcast]] for years — the dry, self-deprecating origin story is part of
-her on-air persona, sanded smooth by repetition. That is the in-world reason her register
-is practised irony rather than raw grievance: she is a **media veteran** delivering a line
-she has delivered a thousand times. The horror underneath is that even her one true,
-bitter fact has been absorbed into the apparatus and turned into *content*. The system
-didn't suppress her truth — it gave her a show and let her tell it, which was more
-effective.
+**Mapped onto the two chapters:** the lampshade line is performed in **chapter 1 (on
+air)** as the charming, sanded-smooth anecdote — the host cues it, the audience laughs,
+nothing shows. Its true weight only lands in **chapter 2 (private)**, where the same
+fact — *they named the unit of energy after my worst moment* — is turned over without an
+audience and the irony goes weary. She is a **media veteran** delivering, on air, a line
+she has delivered a thousand times; the private chapter is where we learn what saying it
+that many times has cost. The horror is that even her one true, bitter fact got absorbed
+into the apparatus and turned into *content*: the system didn't suppress her truth — it
+gave her a show and let her tell it, which was more effective. *(Note the perverse twist:
+she tells the literal truth on air — "I fell" — and the audience hears a humble founder's
+charming modesty. The [[the-guild|Guild's]] "she discovered it" myth survives even her
+own honest denial, because the format converts confession into charm.)*
 
 The line does triple duty: it answers the reader's objection, it characterises Dalla
 (the only "achievement" of her life was an embarrassing accident, now monumentalised),

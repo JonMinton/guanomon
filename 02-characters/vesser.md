@@ -29,7 +29,7 @@ he goes from denying the new thing's superiority to trying to counterfeit it.
   reproduce *guano's power* — and fails, because magic was never going to win on the
   dwarves' terrain. He never sees that his discipline's *true* industrial destiny was
   the other thing it could always do: **carry signal**. While he chases a better
-  power-source, a younger mage in effect invents the broadcast — and **that** becomes the
+  power-source, [[brask|a younger mage]] in effect invents the broadcast — and **that** becomes the
   second pillar of the new order. He is the handloom weaver who, told to modernise, keeps
   trying to build a faster handloom while the apprentice next door invents the telegraph.
   His tragedy is no longer just *displacement*; it is **misidentifying what his own craft
@@ -40,8 +40,11 @@ Does Vesser *witness* the communication breakthrough (richest: he lives to see t
 bet proven wrong, by his own people, in his own art) or die/withdraw before it (cleaner
 elegy)? Recommended: he sees it, and cannot even take comfort in it, because it vindicates
 the discipline by abandoning everything he valued in it — magic survives as a *megaphone*,
-not a craft. Whether the pivot's leader (the "mage-Grundrak") is his rival, his student,
-or his estranged self is the live casting question.
+not a craft. The pivot's leader is **[[brask]]** (the alchemy-native systems-genius); the
+live casting question is whether Brask is Vesser's **rival, his estranged student, or
+near-strangers**. *Student is richest* — Vesser trained the man who made his life's work
+pointless, and can't even hate him for it. Brask is to Vesser what the
+[[the-princess|Princess]] is to the [[the-king|King]].
 
 ## Key beats
 - The trials — for Grundrak this is triumph; for Vesser the same scene is the

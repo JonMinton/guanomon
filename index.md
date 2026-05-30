@@ -17,14 +17,17 @@ brief is in [[background]]; the orientation is in the [README](README.md).*
 - [[genre-theory]] — novum & cognitive estrangement (Suvin); SF vs fantasy; hard/soft magic (Sanderson); the **bridge thesis**
 - [[discovery-gating]] — "why now, not centuries earlier?" — economic-history mechanisms + the storyboarded fix
 
-## The seven accounts (each a different genre reading of one deterministic process)
+## The accounts (each a different genre reading of one deterministic process)
+*Old-world grief ↔ new-world fluency pairings noted in [[plot-beats]].*
 - [[grundrak]] — dwarf empiricist · *political thriller*
 - [[vesser]] — displaced mage · *elegy*
-- [[dalla]] — the accidental discoverer · *satire of commemoration*
+- [[brask]] — alchemy-native systems-genius; builds the Hum · *the maker's monologue*
+- [[dalla]] — the accidental discoverer · *satire of commemoration* — **split across two chapters: on-air persona / private monologue**
 - [[the-king]] — the deposed sovereign · *horror*
+- [[the-princess]] — old money converted to new · *conversion / bildungsroman*
+- [[dern]] — the slayer made butcher; the Warriors' Guild · *war confession*
 - [[the-guild]] — the institutional voice · *corporate annual report*
 - [[the-dragon]] — the source · *undecided / fable-from-outside*
-- [[the-princess]] — old money converted to new · *undecided* — **a possible 7th account; structural status open (see the note)**
 
 ## Structure
 - [[plot-beats]] — account order, genre map, the two organising rhymes, failure-mode watch-list

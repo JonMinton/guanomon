@@ -37,13 +37,21 @@ fantasy: the optimal move was never heroism.)
 
 - Collection requires specialisation and proximity to extremely dangerous animals,
   which forces a **guild** structure (hence the title). {Not quite: Guilds pre-existed. Their target changed from the treasure to the Guano} {Second note: there are multiple guilds: the magicians' guild, the adventurers' guild, the sappers' guild, etc. Only the Slayers' guild has no place in the new world... maybe. Maybe they're directed to conquering new territories unwilling to change and be bowled over by the new tech?}
+  - **Slayers' (Warriors') Guild — RESOLVED:** redirected to **projecting force abroad** —
+    subjugating less-advanced neighbours who haven't industrialised, using guano
+    firepower. Dragon-*slaying* is now obscene (you don't kill the power source), so the
+    guild's entire heroic premise is dead; force-projection is the consolation role, and
+    even it is threatened by [[story-bible|Hummingbirds]].
+    Given a full account: see [[dern]].
 - Geopolitics reorganises around dragon territory: not conquest but **land rights,
   grazing disputes, breeding programmes**.
 - **The "Dalla"** — the unit of energy output, named after the woman whose
   accidental fall into the dung began the whole thing (see her character file). A
   person becomes a unit of measurement. This is load-bearing for the themes.
 - Military application: guano as **explosive / demolition charge**. Proven at Arrath
-  Keep (retired off-page), deployed against the crown in the throne-room coup.
+  Keep (retired off-page), deployed against the crown in the throne-room coup. *Later
+  escalation: see **Hummingbirds** below — guano explosive + the Hum, fused into guided
+  munitions.*
 
 ## The magic system (hard vs soft, deliberately)
 
@@ -58,7 +66,7 @@ fantasy: the optimal move was never heroism.)
   **mass communication.** See *The second novum* below — this is the single biggest
   upgrade to the mage arc, and it reframes [[vesser|Vesser's]] tragedy.
 
-## The second novum — mass communication (the mages' real legacy)
+## The second novum — the Hum (mass communication; the mages' real legacy)
 
 The world has **two** [[genre-theory|novums]], produced by the two classes the
 revolution sorts into winners. The dwarves get the **energy** economy (guano). The
@@ -66,6 +74,12 @@ mages — in apparent defeat — get the **attention** economy. This is the engi
 makes [[dalla|Dalla's]] coerced celebrity, the [[the-guild|Guild's]] aired founder-myth,
 and the [[the-princess|Princess's]] saturation in the new culture all *mechanically
 possible* instead of hand-waved.
+
+> **NAMED — DECIDED: the Hum.** The medium is *the Hum*; to broadcast is to **hum** a
+> thing (lowercase verb, used casually): *"it was hummed across the provinces by
+> nightfall," "she's humming at the seventh hour," "don't say that, we're still
+> humming."* The lowercase ordinariness is the point — a world-remaking technology worn
+> as a verb so common nobody hears it any more. **Voice only — DECIDED** (see below).
 
 **The in-world rationale (keep it Sanderson-legible):** **signal is cheap; power is
 expensive.** Carrying a *message* needs fidelity and reach, not bulk throughput. Magic
@@ -77,14 +91,23 @@ mages cannot industrialise — energy — sits right next to the one thing they 
 application was never the forge; it was the **broadcast.**
 
 What it produces:
-- A means of **mass communication** — voice (and perhaps image) carried live to many
-  receivers at once. Something very like radio. With it come the social forms that ride
-  it: public "speaking-hours," staged interviews, manufactured personalities — *talk
-  shows*, in effect, and the manufactured celebrity they create.
+- A means of **mass communication** — **voice only**, carried live to many receivers at
+  once. Something very like radio. With it come the social forms that ride it: public
+  "speaking-hours," staged interviews, manufactured personalities — *talk shows*, in
+  effect, and the manufactured celebrity they create.
 - The **delivery system for the official story.** The Guild's "she discovered it" myth
-  isn't printed and ignored; it is *aired*, repeatedly, in a register of relentless
+  isn't printed and ignored; it is *hummed*, repeatedly, in a register of relentless
   positivity. Dalla is put *on air* and paraded as the discoverer — coercion not by
   force but by the impossibility of refusing the only status she has.
+
+**Voice only — and why it matters thematically.** The Hum carries sound, never image.
+There is no current likeness of anyone; the public knows voices, not faces. So a
+broadcast persona can **drift free of the person** and become idealised, frozen,
+mythologised — *the way a monarch's face stays young on the coinage for decades.* This
+is load-bearing for [[dalla|Dalla]]: the nation knows her confident on-air voice and an
+imagined, unageing her; it never sees the weary woman behind it. Voice-only is the
+mechanism that lets the *myth* of a person outrun and outlive the **fact** of them — and
+nobody has to lie to make it happen.
 
 **Power vs. narrative (the new dyad):** the dwarves hold **hard power** (energy, the
 coup, the [[the-king|tunnels you bow in]]); the mage-built media holds **soft power**
@@ -100,10 +123,33 @@ soft one**, which is itself the [[genre-theory|hard/soft magic axis]] dramatised
 economics. *Boxer guard: never name "radio"/"media"/"propaganda"; carry it by the
 marvel and the mechanism.*
 
-> **Decisions this opens (see Open questions):** who leads the communication pivot
-> (a "mage-Grundrak" pragmatist vs. [[vesser|Vesser]] missing it entirely); whether it
-> carries image or voice only; what it's called; and how mature it is at each timeline
-> beat (it must exist early enough to *build* Dalla's celebrity after her T−6-month fall).
+> **Who leads the pivot — DECIDED:** a younger, **alchemy-native** mage who never knew
+> the old courtly regime and would never have had the *airs and graces* to rise in it —
+> a single-minded systems-genius (a John Carmack type) for whom R&D is simply the job,
+> not a humiliating demotion. He is to the mages what [[the-princess|the Princess]] is to
+> the crown: the new-world generation that finds the old world's grief unintelligible.
+> See [[brask]]. This makes a clean parallel pair of old/new disjunctions —
+> [[the-king|King]]/[[the-princess|Princess]] and [[vesser|Vesser]]/[[brask|Brask]].
+
+## The convergence — Hummingbirds (the two novums fused)
+
+The endpoint where the **hard** novum and the **soft** novum stop being separate
+machines and become **one weapon**: guano explosive power (dwarven) guided and
+coordinated by the Hum (alchemist). Small, flying, remotely directed munitions —
+**Hummingbirds** (the name does the work: of the *Hum*, and a small bright lethal flying
+thing). A deliberate parallel to emerging **drone warfare**: war conducted at distance,
+by operators who never face the enemy, with an overwhelming asymmetry of power.
+
+- **Status:** experimental at the story's late beats — "ongoing experiments," with early
+  demonstrations promising enough to frighten the people whose role they would end.
+- **Who they threaten:** the [[dern|Warriors' (Slayers') Guild]]. Force-projection
+  abroad is the slayers' *last* remaining role; Hummingbirds would automate even that,
+  finishing the displacement the novum began — heroism → remote butchery → no human in
+  the loop at all.
+- **Thematic seal:** the two novums, which split the world between hard and soft power,
+  reconverge as the means of killing at a distance. The energy that lights the tunnels
+  and the voice that tells the story turn out to be the same hand, and it is armed.
+  *Boxer guard: never say "drone." Let the Hummingbird carry it.*
 
 ## Infrastructure & embodied detail
 
@@ -190,20 +236,16 @@ externality nobody priced in — but it is never stated. The mechanism carries i
 - **Naming the transit:** what is the underground railway *called* in-world? It wants a
   dwarven, downward, workmanlike name (not "subway"). Candidates to react to: *the
   Undercart*, *the Underway*, *the Delvelines*, *the Deeprun*. Decide and record.
-- **The communication novum (new — several decisions):**
-  - *Who leads the pivot?* Recommended: a younger, pragmatic mage — a **"mage-Grundrak"**
-    who seizes communication while [[vesser|Vesser]] keeps chasing energy. This preserves
-    Vesser's elegy *and* gives the second novum a face. Could be a future account or a
-    figure inside Vesser's chapter. (Alt: the alchemists' guild does it facelessly; or
-    Vesser himself does it, which complicates his pure elegy — probably don't.)
-  - *Voice only, or image too?* Voice-only is cheaper, eerier, and more period-radio;
-    image makes Dalla's *face* (already load-bearing) literally broadcastable. Lean
-    voice-first, image arriving later as a second escalation.
-  - *What is it called?* Mage-flavoured, resonance-rooted. Candidates: *the Resonance*,
-    *farspeaking* / *the Farspeak*, *sendings*, *the Hum*, *the Choir*. The talk-show
-    form: *speaking-hours*, *hearings*, *the Hour*.
-  - *How hard/soft?* Keep it the softer novum — mechanism a little mysterious. Record how
-    much the reader is allowed to understand (see [[genre-theory]]).
+- **The communication novum — mostly DECIDED:**
+  - *Who leads the pivot?* **DECIDED:** [[brask]], a younger alchemy-native systems-genius
+    (Carmack type) — the Vesser/Brask old/new pair mirroring King/Princess.
+  - *Voice only, or image too?* **DECIDED: voice only** (image would date and idealise,
+    like a monarch on coinage — see *The second novum*). Reinforces Dalla's unseen real self.
+  - *What is it called?* **DECIDED: the Hum**; to broadcast = to **hum** (lowercase verb).
+  - *How hard/soft?* The softer novum — mechanism stays a little mysterious. Still open:
+    exactly how much the reader is allowed to understand (see [[genre-theory]]).
+  - *Still open:* the talk-show format's in-world name (*speaking-hours* / *hearings* /
+    *the Hour*?); and whether Brask is a standalone account or seen inside Vesser's.
 - **Discovery gate — DECIDED:** the lampshade (see **The premise**), and **[[dalla|Dalla]]
   speaks it** — bitter about being uniquely clumsy; the discovery happened only because
   she, alone in three centuries, was careless enough to fall in. It's the *soft*
