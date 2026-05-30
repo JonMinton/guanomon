@@ -58,10 +58,12 @@ fantasy: the optimal move was never heroism.)
   Keep (retired off-page), deployed against the crown in the throne-room coup. *Later
   escalation: see **Hummingbirds** below — guano explosive + the Hum, fused into guided
   munitions.*
-- **The dragonfire rule:** guano is **inert to dragonbreath; only human/dwarf fire ignites
-  it** (evolutionary necessity — self-igniting dragons died out). A *casual* fix for "why
-  doesn't the dragon explode itself?", never lectured. Open sub-point (Scene 1 torches): raw
-  vs refined volatility. Full treatment: [[guano]].
+- **Ignition rules (two gates, both casual, never lectured):** (1) **dragonbreath never
+  ignites guano** — evolutionary necessity, self-igniting lineages died out; (2) **only
+  *dried* guano is ignitable** (to human/dwarf fire) — **fresh dung is watery and inert**,
+  which is why "guano" *is* the dried product (etymology). Together these resolve Scene 1's
+  torches (the crews shovel wet *muck*, safe) and sharpen the discovery (Dalla's dung had to
+  **dry** on the clothes before burning them ignited it). Full treatment: [[guano]].
 
 ## The magic system (hard vs soft, deliberately)
 

@@ -6,7 +6,9 @@
 > remain the single source of truth in [[story-bible]].
 
 ## What it is
-Dragon dung, discovered to be an **extraordinarily potent fuel** (and fertiliser). The
+Dragon dung — specifically the **dried** form — discovered to be an **extraordinarily
+potent fuel** (and fertiliser). (Fresh, it's inert wet *muck*; "guano" is the dried,
+ignitable product — see Properties.) The
 discovery inverts the world's relationship to dragons: not slaying but **husbandry** —
 you farm the dragon and collect the output. Hoarded treasure becomes irrelevant; the
 metabolic product outvalues the gold the dragon sleeps on. Dragon-*slayers* become
@@ -36,31 +38,38 @@ rules" and Suvin's "cognition as science." It is the hard pole against which
 [[the-hum|the Hum's]] softness is measured. See [[genre-theory]] §5 (the world's two
 novums).
 
-## Properties — inert to its maker (the dragonfire rule)
-The obvious question — *why doesn't a fire-breathing animal ignite the explosive it
-produces?* — gets a **casual** answer (drop it light, never lecture; cf. the
-[[discovery-gating|discovery-gate lampshade]]): **guano is uniquely stable to dragonbreath;
-only human/dwarf fire ignites it.**
+## Properties — what ignites it, and what doesn't
+Two **casual, legible** gates (deliver light, never lecture — cf. the
+[[discovery-gating|discovery-gate lampshade]]). Together they keep guano the *hardest*
+novum and quietly resolve every "wait, why doesn't…" question:
 
-The implicit reason is **evolutionary necessity**, and it's exactly the legible biology that
-keeps guano the *hardest* novum: any dragon lineage whose dung ignited from its own fire
-would have **self-immolated out of existence**. Extant dragons are the descendants of those
-whose guano was inert to dragonfire — selection did the engineering. (No dragon need *know*
-this; it's just true, the way you don't combust when you digest.) See [[dragons]].
+1. **Dragonbreath never ignites it — in any state.** By **evolutionary necessity**: any
+   dragon lineage whose product ignited from its own fire would have **self-immolated out of
+   existence**. Extant dragons descend from those whose guano was inert to dragonfire —
+   selection did the engineering. (No dragon need *know* this; it's just true, the way you
+   don't combust when you digest.) See [[dragons]].
+2. **Only *dried* guano is ignitable at all** — and only to human/dwarf fire. **Fresh dung
+   is watery and soft: inert.** It has to **dry** before it will burn or blow. This is
+   latent in the word: *guano* is the **dried, aged** product (real-world etymology — cf.
+   the project's taste for grounded terms), not the wet muck the crews shovel. *(Optional
+   naming texture: the crews work "muck"; the Guild sells "guano." Same substance, two
+   states, two values.)*
+
+**What the two gates resolve, casually:**
+- **Scene 1's torches (RESOLVED):** the workable top layers in the lair are fresh and wet,
+  so the crews' torches are safe — they're shovelling *muck*, not fuel. The volatile
+  material is the dried stuff, off-site. No special care needed on the page; it just works.
+- **The discovery (reinforced):** [[dalla|Dalla]] fell in; the dung **dried** onto her
+  clothes; the soiled clothes, **burned** to be rid of the filth, went up. The discovery
+  needed *three* contingencies stacked — **soiling + drying + human fire** — which is exactly
+  why it reads as "obvious in retrospect, unbelievable it took so long" (see
+  [[discovery-gating]]). The drying gate makes the lampshade *more* earned, not less.
 
 > **Optional resonance (don't force it):** the apex predator literally *produces and sits
-> on* a power it cannot ignite — value that was always there and always inert to its owner,
-> released only by a *different, lesser* fire. It rhymes with the founding conceit (the
-> dragons held the gold *and* the fuel and could use neither) and with [[dragons]] (the
-> source that never controls the source).
-
-> **Consistency flag to settle (Scene 1 torches):** if human fire ignites guano, why do the
-> crews swing torches in a chamber full of it ([[plot-beats|Scene 1]])? Cleanest casual fix:
-> **raw guano isn't volatile — it must be processed/dried/refined into the explosive fuel**
-> (the economy already implies a processing tier), so torches near fresh dung are safe and
-> the bang comes after refining. *Alt (ammonium-nitrate model):* even refined guano needs
-> real **initiation** (confinement / a charge), not a stray flame. Pick one; keep it casual.
-> Decide & record.
+> on* a power it cannot ignite — value always present, always inert to its owner, released
+> only by a *different, lesser* fire. It rhymes with the founding conceit (the dragons held
+> the gold *and* the fuel and could use neither) and with [[dragons]] (the source that never
+> controls the source).
 
 ## The resource base is *alive* (the hidden fragility)
 Guano looks like a stock to be mined, but its source is a **population of living,

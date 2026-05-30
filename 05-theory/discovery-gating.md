@@ -25,6 +25,13 @@ Why this is the right call for *this* story (not a cop-out):
   first time anyone broke the one rule everyone always kept. The lampshade retroactively
   makes her accident the *only* way the discovery could ever have happened. That is what
   turns her from a footnote into "the [[dalla|Dalla]]."
+- **The chemistry stacks the contingencies even higher** (see [[guano]], the ignition
+  rules). Fresh dung is wet and inert; it only ignites once **dried** — and only to
+  human/dwarf fire. So the discovery needed *three* things to coincide: someone **soiled**
+  (Dalla), the dung left to **dry** on the clothes, and those clothes meeting **fire**. Each
+  alone is nothing; the stack is the whole industrial age. This makes "obvious in retrospect,
+  unbelievable it took so long" *more* earned, not less — and it's all carried casually, by
+  mechanism, never explained.
 - **It rhymes structurally.** It echoes Scene 1's crew treating the treasure with
   indifference (the inversion already dramatised), and it sets up the
   [[the-guild|Guild's]] founder-myth, which will try to launder "a woman fell in it"
