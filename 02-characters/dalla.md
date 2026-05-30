@@ -11,7 +11,7 @@ Dalla appears **twice**, well apart in the running order:
 1. **On air — the interview chapter.** Rendered as a **broadcast transcript / play-script** —
    the actual [[story-bible|Hum]] artefact as the public consumed it (speaker labels, the
    Host's patter, *[AUDIENCE LAUGHTER]* cues), in the manner of a *Radio 4 "This Cultural
-   Life"* segment. The interviewer is **[[the-host|the Host]]** — a specific character (see
+   Life"* segment. The interviewer is **[[sennet|the Host]]** — a specific character (see
    his note), unctuous and sincere, who **surfaces her front-stage persona**: Dalla
    **confident, warm, self-assured.** Here the lampshade "I fell" line lands as a *charming,
    polished anecdote* he cues and she has told a hundred times; the audience laughs; nothing
@@ -38,7 +38,7 @@ output. A person converted into a measurement.
 She is also a **coerced celebrity** — and that word now has machinery behind it. Her
 fame is manufactured and sustained on the [[story-bible|second novum: mass
 communication]], the broadcast apparatus the alchemist-mages built. She is put *on air*,
-paraded as "the discoverer," interviewed in public **speaking-hours** (talk shows in all
+paraded as "the discoverer," interviewed on **the Hour** (the broadcast interview slot — talk shows in all
 but name). The coercion is the familiar one — she cannot refuse without forfeiting the
 only status she has — but it is now *staged and amplified*: millions, not a market square,
 watch her be the face of something she merely fell into. The leering she notices is a

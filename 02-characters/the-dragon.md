@@ -16,7 +16,7 @@ She is the **only character who lives the whole revolution.** Every human and dw
 inside one segment of the arc; she alone spans discovery → industrialisation → the
 +30-year decline in one continuous consciousness. That is the structural justification for
 her framing position — and it hands her the one thing no other displaced old-world figure
-([[the-king|King]], [[vesser|Vesser]], [[dern|Dern]]) possesses: **living memory of the
+([[the-king|King]], [[vesser|Vesser]], [[garran|Garran]]) possesses: **living memory of the
 world before guano.** See [[dragons]] for the species-level stakes this longevity opens
 (younger dragons, the herd, the possible conspiracy).
 

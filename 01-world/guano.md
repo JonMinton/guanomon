@@ -12,7 +12,7 @@ ignitable product — see Properties.) The
 discovery inverts the world's relationship to dragons: not slaying but **husbandry** —
 you farm the dragon and collect the output. Hoarded treasure becomes irrelevant; the
 metabolic product outvalues the gold the dragon sleeps on. Dragon-*slayers* become
-villains (they destroy critical energy infrastructure — see [[dern]]).
+villains (they destroy critical energy infrastructure — see [[garran|Garran]]).
 
 ## Why it is the engine of everything
 Guano is not just *a* discovery; it is the **cause from which the rest of the world

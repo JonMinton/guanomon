@@ -52,7 +52,7 @@ accounts, reads every smooth sentence against the cost it conceals.
   coup (a "reorganisation of governance," perhaps).
 - **Mortality laundering** (its sharpest single trick — see [[labour-and-order]]): it
   trumpets the *wars not fought* and the falling death rate, and never counts the apiary
-  stings, the drying-station blasts, or the [[dern|Peacekeepers']] truncheons. Net mortality
+  stings, the drying-station blasts, or the [[garran|Peacekeepers']] truncheons. Net mortality
   really *is* down — which is exactly what makes the lie so clean: a true statistic concealing
   a redistributed, recategorised death. "Lives saved" in the headline; the new dead in no
   column at all. *(One of the uncounted is [[marga|Marga's]] husband — a sting — which makes
@@ -69,22 +69,21 @@ consequences worth exploiting:
 - [[dalla|Dalla]] and the Guild are the **same signal at two settings.** She tells the
   bitter truth (*"I fell"*) on the very apparatus the Guild uses to tell the laundered
   myth (*"she discovered"*). Same broadcast, opposite meanings — the [[critique-and-direction|Rashomon
-  engine]] running through a single wire. Decide whether they ever share a *speaking-hour*
+  engine]] running through a single wire. Decide whether they ever share *the Hour*
   on air (dangerous, delicious) or stay segregated by format.
 
 ## What it cannot see (by design)
 - Anyone's interior. Every human cost above is invisible to it, or rendered as a
   positive externality. The blindness is total and is the source of the irony.
 
-## Placement question
-The Guild account can sit:
-- **Late**, as the penultimate flattening before the Dragon's account reopens
-  everything — strongest ironic contrast; the reader has the costs in hand and watches
-  them be laundered; or
-- **Interleaved**, as recurring institutional interludes between human chapters —
-  more relentless, more *Pantheon*-like in its drip of official register.
-
-Decide and record in [[plot-beats]].
+## Form & placement — DECIDED
+**A single document, placed late** (2026-05-30): one Guild account — a charter / anniversary
+address — sitting as the **penultimate flattening**, just before [[marga|Marga's]] worker's
+truth and the [[the-dragon|Dragon's]] outer frame reopen everything. The reader arrives with
+all the costs in hand and watches them laundered in one unbroken official voice. *(The
+rejected alternative — recurring interleaved interludes — was more relentless but would have
+diluted the single-hit irony and complicated the order.)* Recorded in [[plot-beats]] and
+[[decisions]].
 
 ## Voice notes
 - Nominalisations, passive voice, the agentless sentence ("efficiencies were
@@ -93,7 +92,6 @@ Decide and record in [[plot-beats]].
 - Never wink at the reader. The Guild believes itself entirely.
 
 ## Open questions
-- Is it a single document (a charter, an anniversary report) or an accreting set of
-  notices across the decades?
+- ~~Single document vs accreting notices?~~ **DECIDED: single document, late** (above).
 - Does it ever *slip* — one sentence where the cost shows through the euphemism — or
   is its surface perfect?

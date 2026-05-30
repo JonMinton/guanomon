@@ -1,4 +1,4 @@
-# Brask — the alchemy-native mage *(name provisional)*
+# Brask — the alchemy-native mage
 
 > **Not a POV narrator — observed from outside.** Brask is the **least introspective
 > character in the book**, so he gets *no* first-person account; his story is told through
@@ -11,9 +11,8 @@ entirely for the *elegance*, none for the consequence. The chapter's tension is 
 flat brilliance reaches us through Vesser's *elegiac* register: the mourner narrating the
 machine that buried him.
 
-> **Name:** working name *Brask* (blunt, consonant-heavy — deliberately *un*-courtly,
-> unlike [[vesser|Vesser]]'s soft old-world name). Alternatives to react to: *Tace*,
-> *Quill*, *Orn*, *Vire*. Decide and record.
+> **Name — LOCKED: Brask** *(confirmed 2026-05-30).* Blunt, consonant-heavy, deliberately
+> *un*-courtly — unlike [[vesser|Vesser]]'s soft old-world name.
 
 ## Role in the system
 The younger mage who **invents the Hum** — the mass-communication novum the displaced
@@ -90,7 +89,7 @@ can't see the categories.
   [[vesser|Vesser's second chapter]].
 - ~~Relationship to Vesser?~~ **DECIDED: estranged student** — Vesser trained the man who
   made his life's work pointless, and can't even hate him for it.
-- Name (working *Brask*; alternatives *Tace / Quill / Orn / Vire*).
+- ~~Name~~ **LOCKED: Brask** (above).
 - Does he live to see the [[story-bible|Hummingbirds]], and does *that* finally reach him —
   the first time his work kills someone he can picture? Possible single crack in the affect
   (and a rare moment Vesser might glimpse something human under the flatness).

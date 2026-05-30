@@ -18,7 +18,7 @@ cast lives and dies inside one stretch of the timeline; [[the-dragon|the Dragon]
 witnesses discovery → industrialisation → the +30-year decline in a single continuous
 consciousness. This is the structural reason she is the **outermost frame** — and it
 gives her something no other old-world figure ([[the-king|King]], [[vesser|Vesser]],
-[[dern|Dern]]) has: **living memory of the world before.** Memory is the asset the others
+[[garran|Garran]]) has: **living memory of the world before.** Memory is the asset the others
 lacked.
 
 ## The golden cages — and the third old/new parallel
@@ -157,11 +157,11 @@ don't make it). What they threaten instead is the dragons' **physical untouchabi
 > it's too late* — never a passionate, clock-racing uprising.
 
 **The determinist irony to exploit:** the Hummingbird is the humans' hedge — a force they
-build partly to depend *less* on dragons and on [[dern|human soldiers]]. That very hedge is
+build partly to depend *less* on dragons and on [[garran|human soldiers]]. That very hedge is
 what tips the dragons into leaving, which collapses the energy base they were hedging to
 secure. **Their insurance against the foundation is what loses them the foundation.** And
 they never see it coming, because the ones extrapolating are the contented singing livestock.
-*(Same technology, two displaced parties reading the same trajectory: [[dern|Dern]]
+*(Same technology, two displaced parties reading the same trajectory: [[garran|Garran]]
 consciously and mournfully — it ends his role; the dragons coldly — it ends their
 invulnerability. The automated swarm is bad news for both the obsolete killer and the
 uncatchable beast.)*

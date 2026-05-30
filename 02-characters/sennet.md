@@ -1,14 +1,12 @@
-# The Host — Dalla's interviewer *(name provisional)*
+# Sennet — Dalla's interviewer (the Host)
+
+> **Name — LOCKED: Sennet** *(locked 2026-05-30; "the Host" stays usable as his role.)*
 
 > **Not a POV narrator — a character inside [[dalla|Dalla's]] on-air chapter.** That chapter
 > is rendered as a **broadcast transcript / play-script** (the public artefact itself — see
-> below), so the Host appears only in performed dialogue, with no interiority on the page.
+> below), so Sennet appears only in performed dialogue, with no interiority on the page.
 > These notes exist *because* the chapter shows only his surface: know the man behind the
 > patter, even though the reader never will.
-
-> **Name:** working *Corval* — flag; alternatives *Sennet / Bellamy / Wren / Lyle*. (Or keep
-> him "the Host" as a near-title, like the [[the-king|King]] / [[the-dragon|Dragon]] — but the
-> brief asks for a *specific* character, so a name is recommended.)
 
 ## Archetype
 The **unctuous arts-interviewer / chat-show host** — model: Radio 4's *This Cultural Life*
@@ -47,11 +45,10 @@ therefore **load-bearing for the Dalla diptych:** no Host, no front stage to str
   who found his niche in the new order — the man who once sang a king's lineage now interviews
   the new celebrities on the Hum. Another old→new repurposing (see [[guilds]]); his warmth has
   centuries of courtly flattery behind it, which is why it's so frictionless.
-- **The private fact (pick one):** either a **failed maker** — he wanted to *create* the art
-  and settled for interviewing those who do, so the performed intimacy of the broadcast is the
-  nearest he comes to real connection (lonely, a touch envious); or a **bigger star** than most
-  guests, who quietly needs them more than they need him. *Recommended: the failed maker* —
-  sadder and sharper, and it explains the sincerity.
+- **The private fact — LOCKED: a failed maker.** He wanted to *create* the art and settled for
+  interviewing those who do, so the performed intimacy of the broadcast is the nearest he comes
+  to real connection (lonely, a touch envious). Sadder and sharper than the alternative
+  (a bigger star than his guests), and it explains the sincerity.
 - **With Dalla specifically:** she's a **recurring guest, "a national treasure"**; they have a
   practised, almost-married double-act, each performing *at* the other. He is perhaps the one
   person who could puncture her persona and never does — out of kindness, complicity, ratings,
@@ -77,9 +74,9 @@ and only later gets to see behind it.
   of praise-song leave a residue of decoration in the voice.)
 
 ## Open questions
-- Name, or keep him "the Host."
-- How much he knows about the performance (recommended: half-knows, won't look).
-- Failed-bard vs bigger-celebrity (recommended: failed bard).
-- Does he appear *only* in Dalla's chapter, or recur as the Hum's connective voice (a thread of
-  broadcast interludes)? Tread carefully — could over-extend, and dilute the one-transcript
-  formal punch.
+- ~~Name~~ **LOCKED: Sennet** (above).
+- **Private fact — LOCKED: the failed maker** (wanted to create the art, settled for
+  interviewing those who do; the performed intimacy is the closest he gets to connection).
+- *(Drafting-time, leans recorded — see [[decisions]]):* how much he knows about the
+  performance (lean: **half-knows, won't look**); whether he recurs beyond Dalla's chapter
+  (lean: **no** — keep the one-transcript formal punch).

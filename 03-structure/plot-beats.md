@@ -7,11 +7,11 @@
 | – | *(Scene 1)* | unattributed cold open  | present-day routine collection       |
 | 1 | [[grundrak\|Grundrak]]  | political thriller        | the trials (vindication)             |
 | 2 | [[vesser\|Vesser]] — *I, the elegy* | elegy | the trials (the beginning of the end)|
-| 3 | [[dalla\|Dalla]] — *on air* | **broadcast transcript / play-script** (interviewed by [[the-host\|the Host]]) | the public personality, performing "I fell" as charm |
+| 3 | [[dalla\|Dalla]] — *on air* | **broadcast transcript / play-script** (interviewed by [[sennet\|the Host]]) | the public personality, performing "I fell" as charm |
 | 4 | [[the-king\|The King]]  | horror                    | the throne-room coup                 |
 | 5 | [[the-princess\|The Princess]] | conversion / bildungsroman | the strategic marriage; her naturalised conversion |
 | 6 | [[vesser\|Vesser]] — *II, watching [[brask\|Brask]]* | elegy-as-observer narrating the technical sublime | Brask building the Hum |
-| 7 | [[dern\|Dern]]    | war confession / disillusioned memoir | "I once killed a dragon"; the Hummingbird demonstration |
+| 7 | [[garran\|Garran]]    | war confession / disillusioned memoir | "I once killed a dragon"; the Hummingbird demonstration |
 | 8 | [[dalla\|Dalla]] — *private* | interior monologue, to no one | the weary irony; the cost of chapter 3 |
 | 9 | [[the-guild\|The Guild]] | corporate annual report   | the normalisation montage            |
 | 10| [[marga\|Marga]] | working-class realism — *the un-genre* | the shoveller's truth; Scene 1 revealed as her shift |
@@ -21,7 +21,7 @@
 narrators carry **two non-adjacent chapters each** — [[dalla|Dalla]] (on-air persona /
 private monologue) and [[vesser|Vesser]] (his own elegy / observing [[brask]]). **Two strong non-POV characters** appear *inside* others' chapters rather than narrating:
 **[[brask|Brask]]** (seen in Vesser's second chapter — too un-introspective to narrate) and
-**[[the-host|the Host]]** (seen in Dalla's on-air transcript chapter — the unctuous
+**[[sennet|the Host]]** (seen in Dalla's on-air transcript chapter — the unctuous
 interviewer who surfaces her front stage). **[[marga|Marga]]** (the shoveller from Scene 1) is the
 newest — the proletarian voice and the human face of the [[the-guild|Guano Guild]], placed
 **right after the Guild's account** so the corporate lie is answered immediately by the
@@ -102,7 +102,7 @@ doesn't need to choose one mode; it uses whichever fits the subject.
 
 > **Scaled up, this is the whole order's structure** (see [[labour-and-order]]): a
 > **monopoly of violence** with two faces — a **fist** (guano firepower, the
-> [[story-bible|Hummingbirds]], the [[dern|Peacekeepers]]) and a **voice** (the
+> [[story-bible|Hummingbirds]], the [[garran|Peacekeepers]]) and a **voice** (the
 > [[the-hum|Hum]], [[dalla|Dalla's]] celebrity, the [[the-guild|Guild's]] myth). Hard power
 > and soft power aren't just two characters' fates — they're the two arms of the Leviathan,
 > and the hard/soft-magic axis runs right through the politics.
@@ -128,19 +128,19 @@ The novum sorts the cast into two cohorts, and the book pairs them off:
 |---|---|
 | [[the-king\|King]] — sovereignty | [[grundrak\|Grundrak]] — real power behind the throne |
 | [[vesser\|Vesser]] — magecraft | [[brask\|Brask]] — the Hum's builder |
-| [[dern\|Dern]] — heroism / arms | *(the Hummingbirds themselves — no human heir)* |
+| [[garran\|Garran]] — heroism / arms | *(the Hummingbirds themselves — no human heir)* |
 
 The first two pairs have a human on each side; the third is the darkest, because the
 slayer's successor is **not a person but a machine** ([[story-bible|Hummingbirds]]). Heroism doesn't get a
 proud young inheritor the way sovereignty and magecraft do — it just gets *automated
-out*. **The Hummingbird is also the hinge between [[dern|Dern's]] arc and the
+out*. **The Hummingbird is also the hinge between [[garran|Garran's]] arc and the
 [[dragons|dragons']] ending:** the same swarm that ends the slayer's role would be the
 first thing able to kill a dragon, which is the cold trigger for the dragons leaving. One
 technology displaces the old killer *and* spooks the apex predator — the reader connects
-the two; neither party does. Note too that [[vesser|Vesser]] and [[dern|Dern]] share the **self-flattering
+the two; neither party does. Note too that [[vesser|Vesser]] and [[garran|Garran]] share the **self-flattering
 elegy** blindness: each mourns a vocation (artisanal magic / "honest" violence) that the
 determinist reading says was always doomed or always a lie. Don't let them sound alike —
-Vesser is lyrical, Dern is flat and guilt-shadowed — but they rhyme.
+Vesser is lyrical, Garran is flat and guilt-shadowed — but they rhyme.
 
 ### 5. The generational triad (old remembers, young is at home)
 A related but distinct pattern — *generational assimilation*, the old-world figure who
@@ -189,13 +189,15 @@ for Vesser. Track each character's circle in their character file as you draft.
   redundant. Force the disagreement.
 
 ## Open structural questions
-- Final account order — lock it after the first two chapters are drafted, not before.
-- Guild: single document vs. accreting interludes.
+- **Final account order — DEFERRED BY DESIGN:** lock it *after* the first two chapters are
+  drafted, not before (the illustrative order in the genre map is the working hypothesis). See
+  [[decisions]].
+- ~~Guild: single document vs. interludes?~~ **DECIDED: single document, penultimate** (see
+  [[the-guild]]).
 - ~~Does Scene 1's crew reappear named?~~ **RESOLVED: yes** — [[marga]] (the shoveller) gets
   the proletarian account; Aldric and Kael populate it. Scene 1 is revealed as her shift.
 - **Guild → character coverage:** every guild is a concept told through a person; audit and
-  gaps live in [[guilds]]. Open casting decisions: the **labourer** (recommended) and a
-  **sapper** (strong optional).
+  gaps live in [[guilds]]. Casting **DECIDED**: labourer ([[marga]]) added; sapper folded.
 - Where, if anywhere, does the *reader* get more than the sum of the accounts — a
   silent perspective the structure implies but never voices? *(Note: the old "seventh,
   silent perspective" framing predates promoting the [[the-princess|Princess]] to a

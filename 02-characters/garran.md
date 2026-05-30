@@ -1,4 +1,4 @@
-# Dern — the slayer made butcher *(name provisional)*
+# Garran — the slayer made butcher
 
 **Account genre:** war confession / disillusioned soldier's memoir. Bitterer and more
 guilt-shadowed than [[vesser|Vesser's]] craft-elegy — closer to a veteran's reckoning
@@ -6,10 +6,9 @@ than a mourning.
 **Register:** plain, hard, declarative; a man who distrusts fine words because he has
 seen what they dress up. Gallows clarity rather than lyricism.
 
-> **Name:** working name *Dern* (short, soldierly). Alternatives to react to: *Garran*,
-> *Toval*, *Hessric*, *Kade*. Gender flexible — defaulted male to avoid crowding the
-> female-body theme ([[dalla]], [[the-dragon]], [[the-princess]]); a female slayer is a
-> live option. Decide and record.
+> **Name — LOCKED: Garran** (male). Short, soldierly. *(Was working name "Dern"; locked
+> 2026-05-30. Male retained to avoid crowding the female-body theme — [[dalla]],
+> [[the-dragon]], [[the-princess]].)*
 
 ## The opening line (protect this)
 The chapter **opens on a confession**: *he once killed a dragon* — and from where he now
@@ -30,8 +29,8 @@ Hummingbirds).
 
 ## The guild fragments — and the Peacekeepers (subplot)
 The displaced warriors don't find *one* new role; they **splinter into two degraded forms
-of the old heroism**, and Dern's chapter can hold both:
-- **Force-projection abroad** — Dern's own branch; the remote butcher (above).
+of the old heroism**, and Garran's chapter can hold both:
+- **Force-projection abroad** — Garran's own branch; the remote butcher (above).
 - **The Peacekeepers** — a **spin-off guild** turned *inward*, suppressing the
   [[labour-and-order|dissent the upheaval breeds]] (displaced trades, lethal new work, an
   inverted order). They are at times **quite violent** about it — the Leviathan's domestic
@@ -39,7 +38,7 @@ of the old heroism**, and Dern's chapter can hold both:
   by the change now beating the people aggrieved by the same change.
 
 Neither branch is heroic — one is remote slaughter of the weak abroad, the other is
-truncheoning the discontented at home. Dern's feeling *about* the Peacekeepers is live
+truncheoning the discontented at home. Garran's feeling *about* the Peacekeepers is live
 material: does he envy them (at least they fight *people who fight back*), despise them
 (thugs, not warriors), or quietly recognise himself in them (both are the old valour
 rotted into mere force)? Full social context: [[labour-and-order]].
@@ -62,7 +61,7 @@ by the automation that will make *him* unnecessary to killing.
 
 ## The firepower levelling (a plot point — protect this)
 Guano firepower **abolishes physical strength as the warrior's metric.** When killing
-is a matter of ordnance, not muscle, the old basis of martial worth collapses — and Dern
+is a matter of ordnance, not muscle, the old basis of martial worth collapses — and Garran
 is forced to **admit women as equal slayers**, selected on *firepower potential and
 aptitude*, not the strongman's frame the guild always recruited for. He does the
 arithmetic and cannot fault it; the gun does not care who holds it. **And yet he still
@@ -75,26 +74,26 @@ grieving the old* — is the live drama of his arc, and it should never resolve 
 essay *"The Analytical Maxim Gun"* (blog, 2025-11-29; `../quarto-blog/jon-blog/posts/analytical-maxim-gun/`),
 after David Olusoga: the Maxim gun made *training, temperament and strength matter much
 less, logistics much more*, and powered colonial conquest against less-advanced peoples
-(Dern's "projecting force abroad"). The European elites kept **valorising cavalry — the
+(Garran's "projecting force abroad"). The European elites kept **valorising cavalry — the
 romantic "apex warrior" — long after they had themselves rendered it redundant**:
 "doublethink… continuing to heroize and valorise traditions they themselves had rendered
-redundant." *That self-deceit is exactly Dern's blind spot.* Lift the structure, not the
+redundant." *That self-deceit is exactly Garran's blind spot.* Lift the structure, not the
 specifics (Boxer guard: no horses-and-machine-guns on the page; let guano firepower carry
 it).
 
 - **The deeper, unspoken irony** (the essay's real thesis, kept buried for the reader):
   the elites never internalised that the asymmetry would *eventually apply to them too* —
-  which is how you get the Great War. For Dern: the overwhelming firepower edge feels
+  which is how you get the Great War. For Garran: the overwhelming firepower edge feels
   permanent and one-directional, but it isn't. The [[story-bible|Hummingbirds]] are the
   next turn of the same screw — the technology that displaced the strongman is about to
   displace the *gunner.* He senses it without being able to think it.
 
-> **A buried parallel the reader assembles (Dern never does):** the same Hummingbirds that
-> threaten Dern's last role *also* threaten the [[dragons]] — they'd be the first thing
+> **A buried parallel the reader assembles (Garran never does):** the same Hummingbirds that
+> threaten Garran's last role *also* threaten the [[dragons]] — they'd be the first thing
 > able to kill or coerce a dragon, which is the cold trigger for the dragons' decision to
 > leave (see [[dragons]] §"Why now"). One automated swarm, two displaced parties reading
 > the same trajectory: the obsolete killer (mournfully, consciously) and the uncatchable
-> beast (coldly, and acting on it). Dern grieves the future; the dragons quietly act on it.
+> beast (coldly, and acting on it). Garran grieves the future; the dragons quietly act on it.
 > Only the reader holds both.
 
 ## What he's structurally blind to
@@ -111,9 +110,9 @@ He completes a **triad of old-world professionals** the novum renders obsolete, 
 narrating his own redundancy:
 - [[the-king|The King]] — sovereignty
 - [[vesser|Vesser]] — magecraft
-- **Dern** — heroism / arms
+- **Garran** — heroism / arms
 Set against the ascendant new generation ([[grundrak|Grundrak]], [[the-princess|Princess]],
-[[brask|Brask]]). Dern is the *martial* voice of that loss, and the only one who has
+[[brask|Brask]]). Garran is the *martial* voice of that loss, and the only one who has
 personally **killed**, which gives his obsolescence a moral weight the others lack.
 
 ## Voice notes
@@ -122,9 +121,9 @@ personally **killed**, which gives his obsolescence a moral weight the others la
   front, then never pleads.
 
 ## Open questions
-- Name and gender (see above).
-- Does he ever operate / witness a Hummingbird demonstration on-page — the machine that
-  will replace him — and is that the chapter's climax?
-- How much does he understand the [[the-dragon|Dragon]] connection? Probably none; the
-  irony is the reader's. But a single unbidden memory of the dragon he killed, surfacing
-  near the end, could be devastating.
+- ~~Name and gender~~ **LOCKED: Garran, male** (above).
+- *(Drafting-time, lean recorded — see [[decisions]]):* whether he operates/witnesses a
+  Hummingbird demonstration on-page (lean: **yes, as the chapter's climax**); and how much he
+  understands the [[the-dragon|Dragon]] connection (lean: **none** — the irony is the
+  reader's, but a single unbidden memory of the dragon he killed, near the end, could be
+  devastating).

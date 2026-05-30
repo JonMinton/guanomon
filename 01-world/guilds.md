@@ -13,10 +13,10 @@
 | **Guano Guild** — *"The Guild"*, the title institution | absorbed the old adventurers' guild | collection, processing, distribution; the official story | faceless institutional voice ([[the-guild]]) **+ [[marga]] (the shoveller — its human face/truth)**; power held by [[grundrak]] | ✓ covered |
 | **Collection crews** *(ex-Adventurers')* | treasure-raiding parties | shovelling the muck | **[[marga]]** (with Aldric & Kael) | ✓ covered |
 | **Mages' → Alchemists'** | artisanal spellcraft | characterise [[guano]]; build the [[the-hum|Hum]] | [[vesser]] (old) + [[brask]] (new) | ✓ covered — generational pair |
-| **Slayers' / Warriors'** | dragon-slaying / heroism | force-projection abroad | [[dern]] | ✓ covered |
-| **Peacekeepers'** *(Slayers' spin-off)* | — (new) | domestic repression of dissent | subplot inside [[dern]] | folded — own face optional |
+| **Slayers' / Warriors'** | dragon-slaying / heroism | force-projection abroad | [[garran|Garran]] | ✓ covered |
+| **Peacekeepers'** *(Slayers' spin-off)* | — (new) | domestic repression of dissent | subplot inside [[garran|Garran]] | folded — own face optional |
 | **Sappers'** | dwarven mining / demolition | guano explosives: the coup, [[guano|repotentiation]], [[story-bible|Hummingbird]] ordnance | [[grundrak]] *detonated the coup, but no sapper POV* | **GAP** (strong optional) |
-| **Bards' / Entertainers'** | court praise-singers / story-tellers | broadcast hosts & performers on the [[the-hum|Hum]] | [[the-host]] *(non-POV; in Dalla's chapter)* | ✓ covered (old→new repurposing) |
+| **Bards' / Entertainers'** | court praise-singers / story-tellers | broadcast hosts & performers on the [[the-hum|Hum]] | [[sennet|Sennet]] *(non-POV; in Dalla's chapter)* | ✓ covered (old→new repurposing) |
 | **Beekeepers' / Apiarists'** *(new)* | — | farm the honey catalyst (lethal work) | texture in [[labour-and-order]] | folded — not a POV |
 | **Dwarven logistics** *(slurry / repotentiation / transit)* | mining / tunnelling | pipe slurry, arm it on site, run the subway | [[grundrak]] (broadly) | partial |
 
@@ -27,12 +27,12 @@
    faceless [[the-guild|Guano Guild]]. Pays off the cold open; rhymes with [[dalla]] (both
    went into the dung; one fell and became famous, one kept shovelling). Her genre is *the
    un-genre* — plain realism as the truth-check on everyone else's self-dramatisation.
-2. **A sapper (strong optional — still open).** Explosives handling links the coup,
-   [[guano|repotentiation]], the [[story-bible|Hummingbirds]], and the new lethal work.
-   [[grundrak]] detonated the coup but isn't a sapper; a dedicated one carries the
-   dangerous-craft / high-mortality angle from the inside, and rhymes with [[dern]] (another
-   trade whose whole meaning is killing).
-3. **Peacekeeper — fold into [[dern]]** (already a subplot) unless it earns its own face.
+2. **A sapper — DECIDED: not now (folded).** *(2026-05-30.)* A dedicated sapper POV
+   (explosives handling — the coup, [[guano|repotentiation]], the [[story-bible|Hummingbirds]],
+   the new lethal work) was the strong-optional gap; left **unfilled** to hold cast size.
+   [[grundrak]] carries the applied-guano-violence angle for now; revisit only if a chapter
+   genuinely needs a sapper from the inside.
+3. **Peacekeeper — fold into [[garran|Garran]]** (already a subplot) unless it earns its own face.
 4. **Beekeeper — keep as texture** in [[labour-and-order]], not a POV.
 
 > **Cast-size caution:** ~10 accounts / 8 narrators already ([[plot-beats]]). The **labourer**
@@ -41,4 +41,4 @@
 > "inert glue" failure mode.
 
 ## See also
-- [[the-guild]] (the institution / its voice) · [[labour-and-order]] (the reorganised economy) · [[plot-beats]] (cast & order) · reps: [[vesser]] · [[brask]] · [[dern]] · [[grundrak]] · [[dalla]]
+- [[the-guild]] (the institution / its voice) · [[labour-and-order]] (the reorganised economy) · [[plot-beats]] (cast & order) · reps: [[vesser]] · [[brask]] · [[garran|Garran]] · [[grundrak]] · [[dalla]]

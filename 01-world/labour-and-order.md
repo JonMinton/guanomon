@@ -51,7 +51,7 @@ it rises *on the surface*, by design.
 
 ## New enforcers — the Peacekeepers (a Slayers' Guild spin-off)
 The upheaval breeds **dissent** — displaced trades, dangerous new work, a social order
-inverted — and the [[dern|Slayers'/Warriors' Guild]], already hunting for a role, **spins off
+inverted — and the [[garran|Slayers'/Warriors' Guild]], already hunting for a role, **spins off
 a Peacekeepers' Guild** to suppress it. They are the Leviathan's **domestic fist**: at times
 quite violent in putting down unrest. The bitter circuitry: **the displaced policing the
 displaced** — warriors made obsolete by the change now beating the people aggrieved by the
@@ -64,4 +64,4 @@ turned on sovereignty — see [[plot-beats|the taxonomy of submission]]).
 > hard/soft-power split runs right through it.
 
 ## See also
-- [[guilds]] (guild → character map; the principle that guilds are concepts told through people) · [[guano]] (slurry / catalyst / wet–dried) · [[above-and-below]] (dwarven activation points) · [[dern]] (the guild fragments) · [[the-guild]] (counts the saved, not the killed) · [[plot-beats]] (taxonomy of submission)
+- [[guilds]] (guild → character map; the principle that guilds are concepts told through people) · [[guano]] (slurry / catalyst / wet–dried) · [[above-and-below]] (dwarven activation points) · [[garran|Garran]] (the guild fragments) · [[the-guild]] (counts the saved, not the killed) · [[plot-beats]] (taxonomy of submission)

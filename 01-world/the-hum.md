@@ -62,7 +62,7 @@ Hum).
 Fused with guano explosive, the Hum becomes guidance: **[[story-bible|Hummingbirds]]** —
 remotely directed munitions (a drone-warfare parallel). The two novums, split between
 hard and soft power, reconverge as the means of killing at a distance, and threaten to
-end [[dern|the slayer's]] last role.
+end [[garran|the slayer's]] last role.
 
 ## Discovered twice — the mages, then the dragons
 The Hum is not a one-off invention. The displaced **mages** find it; later the suppressed

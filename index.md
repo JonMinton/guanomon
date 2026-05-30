@@ -31,17 +31,18 @@ brief is in [[background]]; the orientation is in the [README](README.md).*
 - [[dalla]] — the accidental discoverer · *satire of commemoration* — **two chapters: on-air persona / private monologue**
 - [[the-king]] — the deposed sovereign · *horror*
 - [[the-princess]] — old money converted to new · *conversion / bildungsroman*
-- [[dern]] — the slayer made butcher; the Warriors' Guild · *war confession*
+- [[garran|Garran]] — the slayer made butcher; the Warriors' Guild · *war confession*
 - [[marga]] — the shoveller; the Guano Guild's human face · *working-class realism (the un-genre)*
 - [[the-dragon]] — the source · *undecided / fable-from-outside*
 
 *Non-POV characters (seen inside others' chapters): **[[brask]]** — the systems-genius who
-builds the Hum — in Vesser's second chapter; and **[[the-host]]** — Dalla's unctuous
+builds the Hum — in Vesser's second chapter; and **[[sennet|Sennet]]** — Dalla's unctuous
 interviewer — in her on-air transcript chapter. The **Guild** likewise supplies a voice but
 is an institution (filed under World above), not a person.*
 
 ## Structure
 - [[plot-beats]] — account order, genre map, the two organising rhymes, failure-mode watch-list
+- [[decisions]] — the decisions ledger: every locked call and every deliberate deferral
 
 ## Drafting
 - [[_chapter-template]] — copy per account into `04-chapters/` when (and only when) drafting begins

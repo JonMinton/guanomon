@@ -70,7 +70,7 @@ The risks, and the guards:
 
 ## What she sees (the clearest eyes in the book)
 - The **actual cost**: the bodies, the [[labour-and-order|new lethal work]] (drying-station
-  blasts, the apiary dead, the [[dern|Peacekeepers']] truncheons) seen from the tier that
+  blasts, the apiary dead, the [[garran|Peacekeepers']] truncheons) seen from the tier that
   absorbs it. Her account is where the abstractions of [[labour-and-order]] become specific
   funerals.
 - The system **from the bottom, without myth.** No founder-story to protect, no craft to
@@ -107,7 +107,7 @@ old/new motif. Flag and decide later.
 - How much does her account *correct* the others vs simply *ignore* them? (Recommend: she
   rarely engages the grand narratives head-on — the gap between her plainness and their drama
   does the work.)
-- One brushed encounter with a named principal (a [[dern|Peacekeeper]] action, [[dalla|Dalla]]
+- One brushed encounter with a named principal (a [[garran|Peacekeeper]] action, [[dalla|Dalla]]
   in person, a [[grundrak|Guild]] inspection) could be devastating; more would over-connect.
 - Placement: she pairs powerfully **right after [[the-guild|the Guild's]] laundered account**
   — the corporate lie immediately answered by the worker's truth, same institution. See

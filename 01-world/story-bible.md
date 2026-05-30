@@ -51,7 +51,7 @@ fantasy: the optimal move was never heroism.)
     firepower. Dragon-*slaying* is now obscene (you don't kill the power source), so the
     guild's entire heroic premise is dead; force-projection is the consolation role, and
     even it is threatened by [[story-bible|Hummingbirds]].
-    Given a full account: see [[dern]]. It also **spins off a Peacekeepers' Guild** that
+    Given a full account: see [[garran|Garran]]. It also **spins off a Peacekeepers' Guild** that
     turns *inward* — violently suppressing the dissent the upheaval breeds. See
     [[labour-and-order]].
 - Geopolitics reorganises around dragon territory: not conquest but **land rights,
@@ -134,9 +134,9 @@ application was never the forge; it was the **broadcast.**
 
 What it produces:
 - A means of **mass communication** — **voice only**, carried live to many receivers at
-  once. Something very like radio. With it come the social forms that ride it: public
-  "speaking-hours," staged interviews, manufactured personalities — *talk shows*, in
-  effect, and the manufactured celebrity they create.
+  once. Something very like radio. With it come the social forms that ride it: **the Hour**
+  (the public interview slot), staged conversations, manufactured personalities — *talk
+  shows*, in effect, and the manufactured celebrity they create.
 - The **delivery system for the official story.** The Guild's "she discovered it" myth
   isn't printed and ignored; it is *hummed*, repeatedly, in a register of relentless
   positivity. Dalla is put *on air* and paraded as the discoverer — coercion not by
@@ -185,7 +185,7 @@ by operators who never face the enemy, with an overwhelming asymmetry of power.
 - **Status:** experimental at the story's late beats — "ongoing experiments," with early
   demonstrations promising enough to frighten the people whose role they would end.
 - **Who they threaten — two parties reading the same trajectory:**
-  - the [[dern|Warriors' (Slayers') Guild]]. Force-projection abroad is the slayers'
+  - the [[garran|Warriors' (Slayers') Guild]]. Force-projection abroad is the slayers'
     *last* remaining role; Hummingbirds would automate even that, finishing the
     displacement the novum began — heroism → remote butchery → no human in the loop at all.
   - the **[[dragons]]** themselves. Hummingbirds are guano-*powered*, so they can't replace
@@ -219,7 +219,7 @@ by operators who never face the enemy, with an overwhelming asymmetry of power.
   Doubles as a narrative countdown — the prey (the crews) becomes scarce through the
   *normal operation of the system*, which is what turns the dragon's hunger
   logistical rather than philosophical.
-- **Underground transit (a subway, or something very like one)**: the most legible
+- **The Underway (underground transit — a subway, or something very like one)**: the most legible
   emblem of **rapid industrialisation**. Built fast — within a generation — through the
   dwarves' native medium (stone, tunnels), and **guano-powered** (combustion/steam from
   the same fuel that drives everything else), so the energy novum and the infrastructure
@@ -289,8 +289,8 @@ externality nobody priced in — but it is never stated. The mechanism carries i
 
 ## Open questions (drive iteration here)
 
-- Names: the **King** and the **Dragon** are currently unnamed. Is that deliberate
-  (the King as institution, the Dragon as pre-linguistic)? Decide and record.
+- Names: the **King** and the **Dragon** stay **unnamed — LOCKED (2026-05-30)**: deliberate
+  (the King as institution; the Dragon as pre-linguistic to the human order).
 - Does the Dalla unit get *defined on-page* in the Guild account, or only revealed
   obliquely through Dalla's own bitterness?
 - How visible is the fossil-fuel allegory allowed to get before it becomes
@@ -299,19 +299,19 @@ externality nobody priced in — but it is never stated. The mechanism carries i
   "demonstrated to"?
 - What, precisely, do dragons eat in the husbandry regime, and who supplies it?
   (This determines who profits one tier up from the crews.)
-- **Naming the transit:** what is the underground railway *called* in-world? It wants a
-  dwarven, downward, workmanlike name (not "subway"). Candidates to react to: *the
-  Undercart*, *the Underway*, *the Delvelines*, *the Deeprun*. Decide and record.
+- **Naming the transit — LOCKED: the Underway** (2026-05-30). The guano-powered underground
+  railway. (Use "the Underway" in prose; "subway/transit" only as gloss in notes.)
 - **The communication novum — mostly DECIDED:**
   - *Who leads the pivot?* **DECIDED:** [[brask]], a younger alchemy-native systems-genius
     (Carmack type) — the Vesser/Brask old/new pair mirroring King/Princess.
   - *Voice only, or image too?* **DECIDED: voice only** (image would date and idealise,
     like a monarch on coinage — see *The second novum*). Reinforces Dalla's unseen real self.
   - *What is it called?* **DECIDED: the Hum**; to broadcast = to **hum** (lowercase verb).
-  - *How hard/soft?* The softer novum — mechanism stays a little mysterious. Still open:
-    exactly how much the reader is allowed to understand (see [[genre-theory]]).
-  - *Still open:* the talk-show format's in-world name (*speaking-hours* / *hearings* /
-    *the Hour*?); and whether Brask is a standalone account or seen inside Vesser's.
+  - *How hard/soft?* The softer novum — mechanism stays a little mysterious. (How much the
+    reader understands is a drafting-time call — see [[genre-theory]], [[decisions]].)
+  - *Talk-show format* — **LOCKED: "the Hour"** (the dull-naming principle). *("She's on the
+    Hour at seventh bell.")* ~~Brask standalone vs folded~~ **DECIDED: folded into Vesser's
+    second chapter** (he's non-POV).
 - **Discovery gate — DECIDED:** the lampshade (see **The premise**), and **[[dalla|Dalla]]
   speaks it** — bitter about being uniquely clumsy; the discovery happened only because
   she, alone in three centuries, was careless enough to fall in. It's the *soft*

@@ -53,7 +53,7 @@ deterministic process:
 | Dalla     | satire of commemoration      | her own erasure-by-celebration        | any route out that keeps status |
 | The King  | horror                       | his obsolescence, in real time        | nothing — and that's his curse |
 | The Princess | conversion / bildungsroman | the new order as home, not as loss  | that there was anything to mourn |
-| Dern      | war confession               | his reduction to remote butcher       | that the heroism was always a lie |
+| Garran      | war confession               | his reduction to remote butcher       | that the heroism was always a lie |
 | The Guild | corporate annual report      | a clean progress narrative            | every human cost above       |
 | Marga     | working-class realism (the un-genre) | the system from the bottom, no myth | her own structural leverage |
 | The Dragon| undecided / fable-from-outside | the cage that comfort built          | the analogy to Dalla         |
