@@ -36,6 +36,16 @@ rules" and Suvin's "cognition as science." It is the hard pole against which
 [[the-hum|the Hum's]] softness is measured. See [[genre-theory]] §5 (the world's two
 novums).
 
+## The resource base is *alive* (the hidden fragility)
+Guano looks like a stock to be mined, but its source is a **population of living,
+intelligent agents** ([[dragons]]). That changes the scarcity from *depletion* (slow,
+foreseeable) to *dependency* (sudden, mispriced). The herd is degrading under the feeding
+regime (the [[the-dragon|Dragon's]] diabetes is the first symptom, not a one-off), and the
+civilisation's instinct — recruit *more* dragons to cover the shortfall — increases its
+exposure while feeling like growth. They think they're miners; they're zookeepers who
+forgot the animals are smarter than them. **The economy is more fragile than it knows.**
+Full treatment + the determinism-safe "collapse/uprising" options: [[dragons]].
+
 ## The discovery problem
 Why it wasn't found centuries earlier is a known weak point, resolved by **lampshade**:
 nobody had ever been soiled this way before because the discipline was always *toward the

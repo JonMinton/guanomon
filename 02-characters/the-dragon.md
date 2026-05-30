@@ -11,6 +11,15 @@ with Dalla's account (see [[dalla]]).
 captive — contained not by chains but by **comfort and incentive**. The outermost
 narrative frame: the view from outside the human drama.
 
+## Why she is the outer frame — longevity
+She is the **only character who lives the whole revolution.** Every human and dwarf dies
+inside one segment of the arc; she alone spans discovery → industrialisation → the
++30-year decline in one continuous consciousness. That is the structural justification for
+her framing position — and it hands her the one thing no other displaced old-world figure
+([[the-king|King]], [[vesser|Vesser]], [[dern|Dern]]) possesses: **living memory of the
+world before guano.** See [[dragons]] for the species-level stakes this longevity opens
+(younger dragons, the herd, the possible conspiracy).
+
 ## Arc
 Wild predator → husbanded, fed, plumbed, scheduled → thirty years of comfort →
 metabolic decline → appetite redirected → gaze turning predatory again. Her circle
@@ -36,18 +45,32 @@ is an *emerging preference*, not an impulse). The reduced collection schedule tu
 this logistical: the prey is becoming scarce through the system's normal operation,
 giving the threat a **timeline**.
 
-## The unresolved ending
+## The unresolved ending — now a spectrum
 Returning to hunting humans can be framed as her planned **"get-fit routine."** Leave
 it open whether she'll seek the challenge of the old ways or stay in her comfort
 zone. The return-to-the-familiar (dragons eating humans) is the same as the starting
 condition **but worse**, because the humans are now proximate, complacent and
 dependent on the very thing that will destroy them.
 
-## Fossil-fuel allegory (keep buried)
-A civilisation built on a biological energy source that seemed an unlimited gift,
-whose success creates the conditions for catastrophe. Her obesity is the unpriced
-externality. **Never state it.** The mechanism carries it; the moment it's spelled
-out it becomes the Boxer problem.
+**The open scale of her ending is now a project-level decision** (full treatment in
+[[dragons]]): does her predatory yearning stay **A. purely internal** (appetite without
+action — the most thesis-safe, coldest irony); **B. latent and glimpsed** across the
+herd; or **C. coordinated**, via a dragons-only [[the-hum|Hum]] running in the
+[[above-and-below|Hum-silent deep]], such that the herd could leave the cages *en masse*?
+If **C**, her **longevity makes her the seed**: the one who carries the memory of wildness
+to a generation that never knew it — the single point where the old/new assimilation
+pattern *inverts* (she infects the young with the past instead of being replaced by them).
+Whichever is chosen, keep determinism intact: any uprising is the **mispriced foundation
+reasserting itself mechanically**, never heroic free choice. See [[dragons]] §determinism.
+
+## Fossil-fuel allegory → dependency-fragility (keep buried)
+Originally a fossil-fuel reading: a biological energy source that seemed an unlimited
+gift, whose success creates the conditions for catastrophe; her obesity the unpriced
+externality. The reading has since **upgraded** (see [[dragons]]): the deeper scarcity is
+not a depleting *stock* but a *relationship* — the economy depends on the compliance and
+health of living, intelligent agents, which can fail **suddenly**. Her sickness is the
+first symptom of a population-wide degradation the system misreads as a one-off. **Never
+state any of it.** The mechanism carries it; spelled out, it becomes the Boxer problem.
 
 ## Voice notes
 - Cold amusement; the contempt of something that pre-dates the entire economy built

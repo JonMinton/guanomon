@@ -115,10 +115,35 @@ elegy** blindness: each mourns a vocation (artisanal magic / "honest" violence) 
 determinist reading says was always doomed or always a lie. Don't let them sound alike —
 Vesser is lyrical, Dern is flat and guilt-shadowed — but they rhyme.
 
+### 5. The generational triad (old remembers, young is at home)
+A related but distinct pattern — *generational assimilation*, the old-world figure who
+**remembers** set against the young one who finds the new order *home*:
+
+| Remembers the old world | Born to the new |
+|---|---|
+| [[the-king\|King]] | [[the-princess\|Princess]] |
+| [[vesser\|Vesser]] | [[brask\|Brask]] |
+| [[the-dragon\|The Dragon]] | younger dragons (the golden cages feel like home) |
+
+Three iterations make it a deliberate motif, not a coincidence — and the **third is the
+one that can break the pattern.** Alone among the "old" figures the [[the-dragon|Dragon]]
+has **longevity** (she outlives everyone) and access to a channel humans can't hear (the
+[[above-and-below|Hum-silent deep]]), so she *could* carry the memory of wildness *to* the
+young instead of being replaced by them — assimilation running backwards. Whether it does
+is the project's biggest open ending (see [[dragons]]).
+
 ## Determinism preserved
 Across all accounts, the technology still wins. The disagreement is never about *what
 happened* — it's about meaning, blame, dignity, and cost. That is the whole design:
 system-level determinism, interpretation-level chaos.
+
+> **If the dragons ever act** (the [[dragons]] ending, option C): it must **not** soften
+> determinism. Frame any uprising as the **mispriced foundation reasserting itself
+> mechanically** — the externality (the dragons' inner lives) coming due — *not* as heroic
+> free choice. Determinism doesn't only mean "the tech wins"; it means a system that
+> misprices its own base is **determined to fail.** Read that way, a collapse turns the
+> iron law on the *winners* and *strengthens* the thesis rather than breaking it. Keep it
+> cold, embodied, ambiguous — never Spartacus, never Boxer-on-the-nose.
 
 ## Per-chapter scaffolding (Story Circle)
 Run a small Harmon circle inside each account (you / need / go / search / find /

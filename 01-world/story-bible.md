@@ -201,6 +201,16 @@ appetite turns back toward humans ("long pig"). The comfort that contained her i
 what's killing her. **Fossil-fuel allegory** sits underneath — the obesity is the
 externality nobody priced in — but it is never stated. The mechanism carries it.
 
+> **Now part of a bigger picture** ([[dragons]]): her sickness is the *first symptom* of
+> a **population-wide** degradation, and the allegory has upgraded from fossil-fuel
+> *depletion* to **dependency-fragility** — an economy built on the compliance and health
+> of living, intelligent agents, which can fail *suddenly*. Only dragons are long-lived
+> enough to span the whole arc; younger dragons join the "golden cages" willingly (a
+> third [[the-king|old]]/[[the-princess|new]] parallel), which masks the fragility as
+> growth. Whether the dragons stay passive or eventually coordinate (possibly via a
+> dragons-only [[the-hum|Hum]] in the un-wired deep) is a live, thesis-level decision —
+> see [[dragons]].
+
 ## Places
 
 - **The lair / deep chamber** — the dragon's containment, increasingly plumbed and
