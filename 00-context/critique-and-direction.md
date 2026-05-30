@@ -49,7 +49,7 @@ deterministic process:
 |-----------|------------------------------|---------------------------------------|------------------------------|
 | Grundrak  | political thriller           | class vindication, the system's logic | the hollowness of his win    |
 | Vesser    | elegy                        | the death of a craft and a self       | that he was never the centre |
-| Brask     | the maker's monologue        | the Hum as a beautiful solved problem | what the Hum is *for*        |
+| Brask *(seen via Vesser II, not a POV)* | technical sublime, observed | the Hum as a beautiful solved problem | what the Hum is *for* |
 | Dalla     | satire of commemoration      | her own erasure-by-celebration        | any route out that keeps status |
 | The King  | horror                       | his obsolescence, in real time        | nothing — and that's his curse |
 | The Princess | conversion / bildungsroman | the new order as home, not as loss  | that there was anything to mourn |
@@ -57,8 +57,9 @@ deterministic process:
 | The Guild | corporate annual report      | a clean progress narrative            | every human cost above       |
 | The Dragon| undecided / fable-from-outside | the cage that comfort built          | the analogy to Dalla         |
 
-*(Dalla also splits into two accounts — on-air persona and private monologue; see
-[[plot-beats]]. The cast is deliberately growing; audit for redundancy as it does.)*
+*(Two narrators carry two chapters each — Dalla, on-air persona / private monologue; and
+Vesser, his own elegy / observing Brask. Brask is not a POV. See [[plot-beats]]. The cast
+is deliberately growing; audit for redundancy as it does.)*
 
 The Guild account is the keystone irony: it is the *only* narrator that resolves
 all the conflicts — by erasing them. Its tidiness is the indictment.

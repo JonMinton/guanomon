@@ -25,16 +25,17 @@ brief is in [[background]]; the orientation is in the [README](README.md).*
 ## The accounts (each a different genre reading of one deterministic process)
 *Old-world grief ↔ new-world fluency pairings noted in [[plot-beats]].*
 - [[grundrak]] — dwarf empiricist · *political thriller*
-- [[vesser]] — displaced mage · *elegy*
-- [[brask]] — alchemy-native systems-genius; builds the Hum · *the maker's monologue*
-- [[dalla]] — the accidental discoverer · *satire of commemoration* — **split across two chapters: on-air persona / private monologue**
+- [[vesser]] — displaced mage · *elegy* — **two chapters: his own elegy; and observing [[brask]]**
+- [[dalla]] — the accidental discoverer · *satire of commemoration* — **two chapters: on-air persona / private monologue**
 - [[the-king]] — the deposed sovereign · *horror*
 - [[the-princess]] — old money converted to new · *conversion / bildungsroman*
 - [[dern]] — the slayer made butcher; the Warriors' Guild · *war confession*
 - [[the-dragon]] — the source · *undecided / fable-from-outside*
 
-*(The **Guild** also supplies a narrating voice — corporate annual report — but it is an
-institution, filed under World above, not a person.)*
+*(**[[brask]]** — the systems-genius who builds the Hum — is **not a POV**: too
+un-introspective to narrate himself, he's seen from outside in Vesser's second chapter.
+The **Guild** likewise supplies a voice but is an institution, filed under World above,
+not a person.)*
 
 ## Structure
 - [[plot-beats]] — account order, genre map, the two organising rhymes, failure-mode watch-list

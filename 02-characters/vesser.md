@@ -3,6 +3,12 @@
 **Account genre:** elegy
 **Register:** elegiac, dignified-in-defeat, looking back at a world already gone.
 
+> **Vesser has TWO chapters** (like [[dalla|Dalla]]) — decided 2026-05-30:
+> 1. **The elegy** — his own arc: the trials, capitulation, the alchemists' workshop.
+> 2. **Watching Brask** — Vesser is the *observing narrator* for [[brask]], who is too
+>    un-introspective to narrate himself. The displaced master describes the student who
+>    obsoleted him. See "Second chapter" below.
+
 ## Role in the system
 The mage who exhibits motivated resistance to the discovery — at first denial, then
 a doomed attempt to out-produce guano in open trials, then capitulation. He is the
@@ -35,16 +41,28 @@ he goes from denying the new thing's superiority to trying to counterfeit it.
   His tragedy is no longer just *displacement*; it is **misidentifying what his own craft
   was for.**
 
-## The communication fork (decide — see [[story-bible]] open questions)
-Does Vesser *witness* the communication breakthrough (richest: he lives to see the wrong
-bet proven wrong, by his own people, in his own art) or die/withdraw before it (cleaner
-elegy)? Recommended: he sees it, and cannot even take comfort in it, because it vindicates
-the discipline by abandoning everything he valued in it — magic survives as a *megaphone*,
-not a craft. The pivot's leader is **[[brask]]** (the alchemy-native systems-genius); the
-live casting question is whether Brask is Vesser's **rival, his estranged student, or
-near-strangers**. *Student is richest* — Vesser trained the man who made his life's work
+## Second chapter — Vesser narrates Brask (DECIDED)
+[[brask|Brask]] is the **least introspective character in the book**, so he gets no
+first-person account; his story is told **from outside**, and Vesser is the observer. This
+also settles the old "communication fork": Vesser **witnesses** the breakthrough — and
+cannot even take comfort in it, because it vindicates the discipline by *abandoning
+everything he valued in it* (magic survives as a megaphone, not a craft). **Casting:
+Brask is Vesser's estranged student** — Vesser trained the man who made his life's work
 pointless, and can't even hate him for it. Brask is to Vesser what the
 [[the-princess|Princess]] is to the [[the-king|King]].
+
+Why this is the right vessel for Brask:
+- **The register collision is the characterisation.** Vesser's *lyrical, mourning* prose
+  describing Brask's *flat, affectless brilliance* — the elegist forced to narrate the
+  technical sublime he can neither share nor stop. Brask's joy in the build reaches us
+  refracted through the grief of the man it ruins.
+- **The cruelest cut is structural.** Brask doesn't denigrate Vesser's craft — he doesn't
+  *register* it as worth disdaining (see [[brask]]: his bluntness is obliviousness, not
+  dominance). Vesser watches his entire tradition dismissed *without even being noticed*.
+  That total, undirected dismissal wounds far deeper than contempt would.
+- **It keeps Brask likeable and damning at once.** The reader can't write Brask off as a
+  villain — through Vesser's clear, unbitter eyes he's plainly *decent*, just blind — which
+  is exactly what makes what he builds so disquieting.
 
 ## Key beats
 - The trials — for Grundrak this is triumph; for Vesser the same scene is the

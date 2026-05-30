@@ -6,28 +6,33 @@
 |---|-----------|---------------------------|--------------------------------------|
 | – | *(Scene 1)* | unattributed cold open  | present-day routine collection       |
 | 1 | [[grundrak\|Grundrak]]  | political thriller        | the trials (vindication)             |
-| 2 | [[vesser\|Vesser]]    | elegy                     | the trials (the beginning of the end)|
-| 3 | [[brask\|Brask]]    | the maker's monologue / technical sublime | building the Hum |
-| 4 | [[dalla\|Dalla]] — *on air* | broadcast interview (unctuous host) | the public personality, performing "I fell" as charm |
-| 5 | [[the-king\|The King]]  | horror                    | the throne-room coup                 |
-| 6 | [[the-princess\|The Princess]] | conversion / bildungsroman | the strategic marriage; her naturalised conversion |
+| 2 | [[vesser\|Vesser]] — *I, the elegy* | elegy | the trials (the beginning of the end)|
+| 3 | [[dalla\|Dalla]] — *on air* | broadcast interview (unctuous host) | the public personality, performing "I fell" as charm |
+| 4 | [[the-king\|The King]]  | horror                    | the throne-room coup                 |
+| 5 | [[the-princess\|The Princess]] | conversion / bildungsroman | the strategic marriage; her naturalised conversion |
+| 6 | [[vesser\|Vesser]] — *II, watching [[brask\|Brask]]* | elegy-as-observer narrating the technical sublime | Brask building the Hum |
 | 7 | [[dern\|Dern]]    | war confession / disillusioned memoir | "I once killed a dragon"; the Hummingbird demonstration |
-| 8 | [[dalla\|Dalla]] — *private* | interior monologue, to no one | the weary irony; the cost of chapter 4 |
+| 8 | [[dalla\|Dalla]] — *private* | interior monologue, to no one | the weary irony; the cost of chapter 3 |
 | 9 | [[the-guild\|The Guild]] | corporate annual report   | the normalisation montage            |
-| 10| [[the-dragon\|The Dragon]]| undecided / fable-outside | the metabolic decline; gaze reopens  |
+| 10| [[the-dragon\|The Dragon]]| undecided / fable-outside | the metabolic decline; gaze reopens; the dragon-Hum |
 
-**The cast has grown to ten accounts** (counting Scene 1's prologue separately), via
-three 2026-05-30 decisions: the [[the-princess|Princess]] promoted to a full account;
-[[brask]] and [[dern]] added (the comms-pivot genius and the obsolete slayer); and
-[[dalla|Dalla]] **split into two non-adjacent chapters** (on-air persona / private
-monologue — the gap between them is the point). Numbering above is *illustrative order*,
-not locked. At this size, **length discipline matters** — some accounts may be short
-(the Guild especially); audit for the "inert glue" failure mode below.
+**Ten accounts across eight narrators** (counting Scene 1's prologue separately). Two
+narrators carry **two non-adjacent chapters each** — [[dalla|Dalla]] (on-air persona /
+private monologue) and [[vesser|Vesser]] (his own elegy / observing [[brask]]). **[[brask|
+Brask]] is *not* a POV**: he's the least introspective character, so he is seen from
+outside, in Vesser's second chapter (decided 2026-05-30). Numbering is *illustrative
+order*, not locked — but keep each pair's two chapters **apart** (the gap is the point).
+At this size, **length discipline matters** — some accounts may be short (the Guild
+especially); audit for the "inert glue" failure mode below.
 
 > **The two structural pairings to protect** (old-world grief ↔ new-world fluency):
 > [[the-king|King]] ↔ [[the-princess|Princess]] (sovereignty) and [[vesser|Vesser]] ↔
 > [[brask|Brask]] (magecraft). Read each pair *against* itself — same facts, opposite
-> valence.
+> valence. **Note the two are built differently:** King/Princess are *two separate
+> accounts* set side by side, while Vesser/Brask collapses into *one* — Vesser's second
+> chapter narrates Brask, so the grief and the fluency share a single page (the mourner's
+> voice describing the builder's flatness). One contrast across chapters; one contrast
+> within a chapter.
 
 > **Jon's structural note (carried from the bible/ordering):** the [[the-guild|Guild]]
 > material may not want to be one monolithic account — some of it belongs in the
