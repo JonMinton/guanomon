@@ -1,0 +1,16 @@
+# OS
+.DS_Store
+Thumbs.db
+
+# Editors
+*.swp
+*~
+
+# Obsidian — keep the vault structure, drop machine-local/cache state
+.obsidian/workspace.json
+.obsidian/workspace-mobile.json
+.obsidian/cache
+.trash/
+
+# Archives of raw inputs (kept locally, not published)
+.archive/
