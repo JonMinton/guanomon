@@ -18,22 +18,21 @@
 
 <!-- ============ STORY MODE (default) ============ -->
 <main id="story" class="view story" hidden>
-  <section class="story-hero">
-    <h1 class="story-title">The Guano Guild</h1>
-    <p class="story-sub">A Rashomon of the dragon-dung revolution — told from every side that the system made and unmade.</p>
-    <p class="story-note">The prose is forthcoming. Below is the shape of the book: a prologue and the accounts that answer it, each a different genre reading of one deterministic process.</p>
-  </section>
+  <div id="story-home">
+    <section class="story-hero">
+      <h1 class="story-title">The Guano Guild</h1>
+      <p class="story-sub">A Rashomon of the dragon-dung revolution — told from every side the system made and unmade.</p>
+      <p class="story-note">A prologue and eleven accounts of one deterministic process, each in a different genre. The events are fixed; only the meanings disagree. <em>First-iteration draft.</em></p>
+    </section>
 
-  <article class="chapter placeholder">
-    <p class="dropcap">The torchlight caught the edge of Marga's shovel as she drove it into the mound. The smell was beyond description — beyond even memory, because the nose learned to forget between shifts, and each return to the deep chamber was a fresh education in revulsion.</p>
-    <p class="excerpt-label">— opening of the prologue (Scene 1), shown as a typographic placeholder.</p>
-  </article>
+    <section class="toc">
+      <h2>Contents</h2>
+      <ol id="toc-list"><!-- filled by app.js --></ol>
+      <p class="toc-foot">The order it was written in — still tunable. Choose any account to begin.</p>
+    </section>
+  </div>
 
-  <section class="toc">
-    <h2>The accounts</h2>
-    <ol id="toc-list"><!-- filled by app.js --></ol>
-    <p class="toc-foot">Order is illustrative, not final — locked after the first chapters are drafted.</p>
-  </section>
+  <article id="story-reader" class="story-reader" hidden><!-- a chapter, rendered by app.js --></article>
 </main>
 
 <!-- ============ EXPERIMENT MODE ============ -->
@@ -48,7 +47,7 @@
     <h1>How this was made</h1>
     <p class="lede">This world was built live, as a <strong>cognitive-centaur</strong> experiment — a human and a large language model co-developing a story-world in conversation, with <em>every</em> decision captured in an Obsidian vault of interlinked markdown notes.</p>
     <p>It began at <strong>Makers gonna Make</strong>, at <strong>The Melting Pot, Edinburgh</strong> — <span class="todo">[date &amp; lu.ma event link: TODO — paste details]</span>. Rather than write the story first, we developed its <em>underpinnings</em>: the genre theory (a fantasy organised around a science-fictional <em>novum</em>), the economics and ecology of dragon-dung as an industrial fuel, the cast of perspectives, and the chains of consequence that follow from one accidental discovery.</p>
-    <p>The notes you can browse here are the actual working vault — not a tidied write-up. The <a href="#experiment/graph">graph</a> shows how the ideas connect (each link is an Obsidian <code>[[wikilink]]</code>); the <a href="#experiment/notes">notes</a> let you read them directly. The story itself (the other mode) is deliberately still <em>placeholder</em>: the experiment was about developing the ideas carefully before writing a word of prose.</p>
+    <p>The notes you can browse here are the actual working vault — not a tidied write-up. The <a href="#experiment/graph">graph</a> shows how the ideas connect (each link is an Obsidian <code>[[wikilink]]</code>); the <a href="#experiment/notes">notes</a> let you read them directly. Only once the ideas were developed did we draft <a href="#story">the story itself</a> (the other mode) — a first, complete iteration, written against the vault rather than ahead of it.</p>
     <ul class="about-links">
       <li>Repo: <a href="https://github.com/JonMinton/guanomon" target="_blank" rel="noopener">github.com/JonMinton/guanomon</a></li>
       <li>Method &amp; origin essays: <span class="todo">[blog links: TODO]</span></li>

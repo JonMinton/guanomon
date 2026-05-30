@@ -44,11 +44,27 @@ code{font-family:ui-monospace,Menlo,Consolas,monospace; font-size:.86em; backgro
 }
 .excerpt-label{color:var(--muted); font-size:.85rem; font-style:italic}
 .toc h2{font-size:1.2rem; border-bottom:1px solid var(--rule); padding-bottom:.3rem}
-.toc ol{padding-left:1.2rem}
-.toc li{margin:.5rem 0}
-.toc .genre{color:var(--muted); font-style:italic; font-size:.9em}
-.toc .soon{color:#a99; font-size:.78em; text-transform:uppercase; letter-spacing:.08em; margin-left:.4rem}
-.toc-foot{color:var(--muted); font-size:.85rem; font-style:italic}
+.toc ol{padding-left:1.4rem}
+.toc li{margin:.7rem 0}
+.toc li a{color:var(--ink)}
+.toc li a:hover{text-decoration:none}
+.toc li a:hover strong{text-decoration:underline}
+.toc .genre{display:block; color:var(--muted); font-style:italic; font-size:.86em; margin-top:.1rem}
+.toc-foot{color:var(--muted); font-size:.85rem; font-style:italic; margin-top:1.2rem}
+
+/* ---- story: chapter reader ---- */
+.story-reader{max-width:var(--maxw); margin:0 auto}
+.chapter-head{border-bottom:1px solid var(--rule); padding-bottom:1rem; margin-bottom:1.7rem}
+.chapter-head h1{font-size:2rem; margin:.2rem 0 .35rem; letter-spacing:.01em}
+.chapter-stand{font-style:italic; color:var(--muted); margin:0}
+.chapter-body{font-size:1.05rem; line-height:1.75}
+.chapter-body p{margin:0 0 1.1rem}
+.chapter-body blockquote{border-left:3px solid var(--rule); margin:1.1rem 0; padding:.3rem 1.1rem; color:var(--muted); font-style:italic}
+.chapter-body blockquote em{font-style:normal}
+.chapter-body hr{border:0; border-top:1px solid var(--rule); width:8rem; margin:1.8rem auto}
+.chapter-nav{display:flex; justify-content:space-between; align-items:baseline; gap:1rem; margin-top:2.6rem; padding-top:1.2rem; border-top:1px solid var(--rule); font-size:.9rem}
+.chapter-nav .cn-next{text-align:right; margin-left:auto}
+.chapter-nav .cn-toc{color:var(--muted); text-transform:uppercase; letter-spacing:.08em; font-size:.76rem; white-space:nowrap}
 
 /* ---- experiment mode ---- */
 .subnav{display:flex; gap:.3rem; border-bottom:1px solid var(--rule); margin-bottom:1.2rem}

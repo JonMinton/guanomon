@@ -1,0 +1,23 @@
+# Account the Fifth — The Princess
+
+*Conversion. The same marriage the King mourns — narrated from inside, as belonging.*
+
+---
+
+My father thinks I was taken. It is the kindest thing about him and the thing I can least forgive, because it means that to the end of his life he will believe I am somewhere far away being held, when in fact I am exactly where I chose to be, and happy, and home.
+
+Let me tell you when I knew. It was not the marriage; the marriage was paperwork I happened to like the look of. It was the first time I rode the Underway.
+
+You must understand that I grew up being driven. A carriage is a box you sit in while the world is dragged past you at the speed of a horse's boredom, and you arrive creased and late and grateful, and that is what *going somewhere* meant, for my mother and her mother and every woman of our line back to the first one who was ever sorry she'd agreed to attend a thing. And then one afternoon, against every instruction, I went down — down the stairs they cut into the rock, down past the lamps that burn without anyone trimming them, down into a tunnel they had driven through the living roots of the mountains in less time than it once took us to repair a roof — and I stood on a stone platform that was cleaner than my own apartments, and a thing came out of the dark.
+
+I have no word for how fast. That is the point about speed: at a certain magnitude it stops being a number and becomes a feeling, and the feeling is *the future, arriving, for you specifically.* I was across the whole city before I had finished being frightened. I came up into the air on the far side and I was not creased and I was not late and I stood blinking in a district I would have needed half a day to reach in the world I was born into, and I thought, with my whole chest: *they can simply do this. They can simply make the world smaller and cleaner and quicker, and they did it while we were upstairs being sad about a wall.*
+
+Nobody argued me into anything. That is what my father cannot accept, because if I was argued I could be argued back. I was not argued. I was *shown*. You cannot un-ride the Underway. You cannot return to the carriage once you know the carriage was a decision somebody made to keep you slow.
+
+The bowing he frets about — I know he frets about it; I have seen him watch me do it. The doorways below are cut low, lower than a tall man stands, so that to go through them you incline your head. He thinks this is a humiliation they have built into the stone to make us stoop to them forever. And perhaps it was; I will allow that the first dwarf who set the lintel that low knew exactly what he was doing. But here is the thing my father will die not understanding: I do not feel it. Truly. I bow through the low door the way you duck under a branch, without deciding to, without resentment, without even the small interior note of *I am bowing* — and I come up the other side into the warm bright competent world they have made, and the bow has cost me nothing, because I never owned the inch of air it asks me to give up. He grew tall in a world that promised him he need never bend. I grew up bending, and it turns out bending is nothing; it is barely a motion; it is the cheapest coin there is and I am rich with it.
+
+I am to have children. I find I think about their height. Is that a strange thing to think about? My husband is shorter than me and broader, and our children will be something the world has not had many of, neither one thing nor the other, and I catch myself hoping — fondly, the way you hope a child has a good temper — that they take after his side in the matter of *stature*. That they come out built a little nearer to the ground. It would simply be easier for them. They would fit the doorways. They would never have to learn the bend because they would never have stood tall enough to feel it, and they would go through their whole bright underground lives without the faint backache of having once been the kind of person the low door was meant to insult.
+
+I said this aloud once, to my husband, lightly, over supper — *I do hope they don't grow too tall* — and he laughed, because he thought I was joking, and I laughed too, because it is the sort of thing one laughs about. And only later, alone, did I notice that I had meant it, and that there was nothing in me that minded having meant it, and that this, precisely this, was the thing my father keeps watch all night to prevent and has already, completely, lost.
+
+He keeps a worn coin in his hand. I have seen him do it. He thinks I do not notice things; he thinks noticing is *his*. But I notice. I simply notice different things, and love them.

@@ -13,21 +13,26 @@
   };
   function fcolor(f) { return FOLDER_COLOR[f] || "#777777"; }
 
-  // The locked cast / illustrative chapter order (placeholders for Story mode).
-  var CHAPTERS = [
-    ["Prologue — Scene 1", "unattributed cold open", null],
-    ["Grundrak", "political thriller", "grundrak"],
-    ["Vesser I", "elegy (the trials)", "vesser"],
-    ["Dalla — on air", "broadcast transcript (with Sennet)", "dalla"],
-    ["The King", "horror", "the-king"],
-    ["The Princess", "conversion / bildungsroman", "the-princess"],
-    ["Vesser II", "elegy-as-observer (watching Brask)", "vesser"],
-    ["Garran", "war confession", "garran"],
-    ["Dalla — private", "interior monologue", "dalla"],
-    ["The Guild", "corporate annual report", "the-guild"],
-    ["Marga", "working-class realism — the un-genre", "marga"],
-    ["The Dragon", "undecided / fable-from-outside", "the-dragon"]
-  ];
+  // Story mode reads the actual drafted chapters straight from the vault
+  // (folder 04-chapters, in filename order; the template _-prefixed file is skipped).
+  function storyChapters() {
+    return NOTES.filter(function (n) {
+      return n.folder === "04-chapters" && n.slug.charAt(0) !== "_";
+    }).sort(function (a, b) { return a.slug < b.slug ? -1 : a.slug > b.slug ? 1 : 0; });
+  }
+
+  // Split a chapter note into title (# …), standfirst (*italic* line) and body (after the ---).
+  function parseChapter(md) {
+    var lines = String(md).split("\n");
+    var title = "", stand = "", bodyStart = lines.length;
+    for (var i = 0; i < lines.length; i++) {
+      var s = lines[i].trim();
+      if (!title && s.indexOf("# ") === 0) { title = s.slice(2).trim(); continue; }
+      if (title && !stand && /^\*.+\*$/.test(s)) { stand = s.replace(/^\*+|\*+$/g, "").trim(); continue; }
+      if (title && /^---+$/.test(s)) { bodyStart = i + 1; break; }
+    }
+    return { title: title, stand: stand, body: lines.slice(bodyStart).join("\n").trim() };
+  }
 
   function esc(s) {
     return String(s).replace(/[&<>"]/g, function (c) {
@@ -94,17 +99,54 @@
       showSub(seg[1] || "about", seg[2] || null);
     } else {
       showMode("story");
+      openStoryChapter(seg[1] || null);
     }
   }
 
-  /* ---------------- story TOC ---------------- */
+  /* ---------------- story: contents + chapter reader ---------------- */
   function buildTOC() {
     var ol = qs("toc-list"); if (!ol) return;
-    ol.innerHTML = CHAPTERS.map(function (c) {
-      var link = c[2] ? ' <a href="#experiment/notes/' + c[2] + '">(notes)</a>' : "";
-      return '<li><strong>' + esc(c[0]) + '</strong> <span class="genre">· ' +
-        esc(c[1]) + '</span><span class="soon">forthcoming</span>' + link + "</li>";
+    ol.innerHTML = storyChapters().map(function (n) {
+      var c = parseChapter(n.md);
+      return '<li><a href="#story/' + n.slug + '"><strong>' + esc(c.title) + '</strong>' +
+        (c.stand ? '<span class="genre">' + esc(c.stand) + "</span>" : "") + "</a></li>";
     }).join("");
+  }
+
+  function openStoryChapter(slug) {
+    var home = qs("story-home"), reader = qs("story-reader");
+    var chapters = storyChapters();
+    if (!slug) {
+      if (home) home.hidden = false;
+      if (reader) { reader.hidden = true; reader.innerHTML = ""; }
+      return;
+    }
+    var idx = -1;
+    for (var i = 0; i < chapters.length; i++) { if (chapters[i].slug === slug) { idx = i; break; } }
+    if (idx < 0) { location.hash = "#story"; return; }
+    var n = chapters[idx], c = parseChapter(n.md);
+    var prev = chapters[idx - 1], next = chapters[idx + 1];
+    function navlink(ch, cls, suffix, prefix) {
+      if (!ch) return "<span></span>";
+      return '<a class="' + cls + '" href="#story/' + ch.slug + '">' +
+        (prefix || "") + esc(parseChapter(ch.md).title) + (suffix || "") + "</a>";
+    }
+    if (home) home.hidden = true;
+    reader.hidden = false;
+    reader.innerHTML =
+      '<header class="chapter-head"><h1>' + esc(c.title) + "</h1>" +
+      (c.stand ? '<p class="chapter-stand">' + esc(c.stand) + "</p>" : "") + "</header>" +
+      '<div class="chapter-body">' + mdToHtml(c.body) + "</div>" +
+      '<nav class="chapter-nav">' +
+      navlink(prev, "cn-prev", "", "‹ ") +
+      '<a class="cn-toc" href="#story">Contents</a>' +
+      navlink(next, "cn-next", " ›", "") +
+      "</nav>";
+    var body = reader.querySelector(".chapter-body");
+    if (body && body.firstElementChild && body.firstElementChild.tagName === "P") {
+      body.firstElementChild.classList.add("dropcap");
+    }
+    if (typeof window.scrollTo === "function") window.scrollTo(0, 0);
   }
 
   /* ---------------- notes view ---------------- */
