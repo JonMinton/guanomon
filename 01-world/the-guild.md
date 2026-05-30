@@ -55,7 +55,8 @@ accounts, reads every smooth sentence against the cost it conceals.
   stings, the drying-station blasts, or the [[dern|Peacekeepers']] truncheons. Net mortality
   really *is* down — which is exactly what makes the lie so clean: a true statistic concealing
   a redistributed, recategorised death. "Lives saved" in the headline; the new dead in no
-  column at all.
+  column at all. *(One of the uncounted is [[marga|Marga's]] husband — a sting — which makes
+  the Guild's own human face the widow of its own laundered statistic.)*
 
 ## Its delivery system (the irony tightens)
 The Guild's account is not a document mouldering in an archive — it is **aired**, on the

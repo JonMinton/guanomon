@@ -36,6 +36,38 @@ unimpressed view: *she fell in it once; I've been in it every day since, and nob
 unit after me.* This reinforces [[dalla|Dalla's]] lampshade **from below** — the worker's-eye
 correction to the founder-myth.
 
+## Widowhood — the uncounted death (a planted seed; handle with restraint)
+*Recommended, with guardrails.* Marga is a **widow**: her husband died of a **sting** — one
+of the [[labour-and-order|apiary bees]], though the chapter **does not explain that** when it
+lands. Stated **flatly, early, once or twice**, with no context — the way you'd note a fatal
+accident everyone has heard of. The *flatness implies the commonness*: she says it without
+drama because in her world it isn't remarkable, and that unremarkableness is the **chilling
+tell** the reader decodes later, when the [[guano|honey-catalyst]] / [[labour-and-order|apiary]]
+economy is revealed — *the fuel ate him from the other side.*
+
+Why it's worth it:
+- **The funeral, not the lecture.** [[labour-and-order]] demands the Hobbesian mortality be
+  carried "by the statistic and the funeral." Her husband *is* the funeral — the specific
+  uncounted death behind the [[the-guild|Guild's]] "mortality down" headline. She is the
+  Guild's human face **and** the widow of a death it doesn't count: the living rebuttal to its
+  own annual report.
+- **One household spans the whole fuel economy.** She shovels [[guano]] (energy input); he
+  died on the [[guano|honey-catalyst]] side (the apiary). The two-substance economy is unified
+  and bereaved in one home — the fuel needed both inputs, and one of them killed him.
+- **Delayed decode / reread value** (same technique as Scene 1's ignored treasure): planted as
+  ordinary grief, it detonates into systemic indictment once the reader has the apiary economy.
+
+The risks, and the guards:
+- **Over-determination** (the labour POV *also* conveniently widowed by the signature new
+  hazard) is the real danger — it can tip her from person to device. **Guard:** incidental,
+  never the chapter's engine; one or two flat lines, not a grief arc.
+- **Sentimentality / victim-framing** — a grieving widow is stock pathos. **Guard:** her dry,
+  unsentimental register — fact, maybe gallows humour, never a bid for sympathy. Not ennobled
+  or pitied (see Voice notes).
+- **Arbitrary vs intriguing** — the unexplained sting could read as random. **Guard:** the
+  later apiary reveal must be concrete enough that the reread *clicks*; the flatness-implies-
+  commonness cue does the quiet pre-work.
+
 ## What she sees (the clearest eyes in the book)
 - The **actual cost**: the bodies, the [[labour-and-order|new lethal work]] (drying-station
   blasts, the apiary dead, the [[dern|Peacekeepers']] truncheons) seen from the tier that

@@ -22,6 +22,11 @@ The special bees are a **violent, lethal kind**, so apiary work kills and maims 
 old agrarian economy never did. The repotentiation stations (drying and compressing an
 explosive) are their own new category of lethal accident. **Workplace death rises.**
 
+> **The human instance:** [[marga|Marga's]] husband died of a **sting** (an apiary bee) —
+> mentioned flatly and *unexplained* in her chapter, so it reads as ordinary grief until the
+> reader has this economy and decodes it. He is the specific, uncounted death behind the
+> [[the-guild|Guild's]] "mortality down" headline. See [[marga]] (handle with restraint).
+
 > **The Hobbesian trade-off (the dark heart of this note).** Yet *net* mortality **falls** —
 > because the same overwhelming, concentrated power that ended contested war (the
 > [[the-king|coup]] settled who rules; [[story-bible|guano firepower]] makes rebellion
