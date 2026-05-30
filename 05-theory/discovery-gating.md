@@ -32,6 +32,12 @@ Why this is the right call for *this* story (not a cop-out):
   alone is nothing; the stack is the whole industrial age. This makes "obvious in retrospect,
   unbelievable it took so long" *more* earned, not less — and it's all carried casually, by
   mechanism, never explained.
+  - *(Optional fourth factor — the [[guano|catalyst]]: an abundant, mundane organic material
+    in her clothes that the reaction also needs. Crucially **abundant**, so it does not turn
+    the lampshade from "she fell in it" into "she had the magic ingredient" — and it's
+    revealed only **retrospectively**, by the alchemists, never at the discovery moment. So
+    the lampshade stays simple on the page; the catalyst is back-fill that deepens the
+    chemistry without complicating the joke.)*
 - **It rhymes structurally.** It echoes Scene 1's crew treating the treasure with
   indifference (the inversion already dramatised), and it sets up the
   [[the-guild|Guild's]] founder-myth, which will try to launder "a woman fell in it"

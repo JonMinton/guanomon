@@ -71,6 +71,44 @@ novum and quietly resolve every "wait, why doesn't…" question:
 > the gold *and* the fuel and could use neither) and with [[dragons]] (the source that never
 > controls the source).
 
+## The catalyst — the hidden confluence (and the alchemists' real work)
+*Optional deepening. It earns its place mainly through the **alchemists' arc** (below) — if
+that ever feels like over-machinery, this is the first thing to cut. Keep the discovery
+moment simple; reveal the catalyst **retrospectively**.*
+
+Dried guano + human fire is the headline, but the *reliable, potent* reaction needs a third
+thing: an **abundant, mundane organic catalyst** that happened to be in [[dalla|Dalla's]]
+clothes — and in almost everyone's, **which is exactly why no one ever spotted it as a
+variable.** The hidden ingredient **hides in its own ubiquity** (rhyming with guano in plain
+sight and the [[the-hum|Hum]] worn as a casual verb). *Keep it abundant:* it must add **no
+new scarcity** and must **not** make Dalla a chosen-one — the *soiling* is still what makes
+her "the Dalla"; the catalyst is just chemistry that was always lying around.
+
+Candidate specifics (flavour, **not locked** — pick one, keep it common):
+- **Honey, from a common bee** (a flask she carried) — *recommended.* Resonates with the
+  project's sweetness motif: the urine-tasting / *mellitus* diagnosis, the dragon-urine
+  confectionery, the diabetic sweetness. Sugar keeps recurring.
+- **Silk, from a common spider**, woven into everyday cloth. Resonates with the
+  textile / handloom-vs-power-loom imagery already attached to [[vesser|Vesser]].
+- *(A confluence of both is possible but busier; abundance matters more than rarity.)*
+
+**Why it's worth it — it fixes the alchemists' arc.** The catalyst gives the
+mages-turned-alchemists a genuine **middle achievement** between *failing to reproduce
+guano* and *inventing the [[the-hum|Hum]]* — closing a seam that's currently abrupt:
+- They can't **make** guano, but they **characterise** it — isolating the confluence (dried
+  state + catalyst + ignition). This is *hard precisely because the catalyst is everywhere*:
+  you don't notice the variable that is always present. Real applied science, legibly "hard."
+- That knowledge yields **control**: safe handling, and tuning the *same substance* between a
+  **slow-burn fuel** (lamps, the [[story-bible|subway]]) and an **explosive** (demolition,
+  the coup, [[story-bible|Hummingbirds]]). One material, two modes — explained, not asserted.
+- It makes the **Hum an organic outgrowth**: studying guano's reactions and resonances is
+  what walks the alchemists toward *signal.* See [[the-hum]], [[vesser]].
+
+**Lampshade preserved.** At the moment of discovery it's still just *"she fell in it and the
+clothes burned."* The catalyst is the alchemists' *later* finding — which also explains why
+early attempts to reproduce or store guano were dangerous and inconsistent. Deliver casually;
+never lecture.
+
 ## The resource base is *alive* (the hidden fragility)
 Guano looks like a stock to be mined, but its source is a **population of living,
 intelligent agents** ([[dragons]]). That changes the scarcity from *depletion* (slow,

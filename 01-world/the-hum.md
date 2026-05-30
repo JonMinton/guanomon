@@ -18,6 +18,11 @@ at a distance* — so the thing the mages could **not** industrialise (energy) s
 next to the thing they could (communication). The Hum is what they found when they were
 looking for something else. [[brask|Brask]] builds it; [[vesser|Vesser]] misses it.
 
+The path isn't a leap: in trying and failing to reproduce guano, the alchemists
+**characterise** it — isolating the [[guano|catalyst/confluence]] and studying its
+*reactions and resonances*. That resonance-study is the on-ramp; the Hum grows out of the
+guano-chemistry bench, not from nowhere.
+
 ## What it does to the world
 - **Manufactures celebrity.** [[dalla|Dalla]] is paraded on it as "the discoverer" —
   coerced, because refusing forfeits her only status. Her two chapters (on-air persona /

@@ -74,6 +74,13 @@ Why this is the right vessel for Brask:
   misses the *real* one (communication) being born at the next bench. The shelved-Kodak
   beat, if kept, attaches to the failed energy work, not to the comms breakthrough — the
   comms breakthrough is emphatically *not* shelved; it conquers.
+  - **What the workshop actually achieves** (the new middle of the arc — see [[guano]] the
+    catalyst): they never reproduce guano, but they *characterise* it — isolate the
+    [[guano|catalyst/confluence]], make handling safe, learn to tune slow-burn vs explosive.
+    Real, useful, legible science. The cruelty for Vesser: this genuine achievement is still
+    *service work* on the dwarves' fuel — magecraft reduced to being guano's lab technicians
+    — and the same reaction-and-resonance study is what hands [[brask]] the Hum. Vesser can
+    be *in the room* for the characterisation and still not see where it's pointing.
 
 ## Voice notes
 - Lyrical, backward-looking, fond of the *texture* of vanished labour.

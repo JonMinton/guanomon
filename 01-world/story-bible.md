@@ -64,6 +64,11 @@ fantasy: the optimal move was never heroism.)
   which is why "guano" *is* the dried product (etymology). Together these resolve Scene 1's
   torches (the crews shovel wet *muck*, safe) and sharpen the discovery (Dalla's dung had to
   **dry** on the clothes before burning them ignited it). Full treatment: [[guano]].
+- **Two modes, one substance — slow-burn vs explosive.** That guano serves both the gentle
+  [[guano|subway/lamps]] *and* wall-shattering demolition (Arrath Keep, the coup,
+  Hummingbirds) is not hand-waved: the **alchemists' characterisation** of the
+  [[guano|catalyst/confluence]] is what lets it be *tuned* between the two. Control is an
+  achievement, not a given. See [[guano]] (the catalyst) and the magic-system note above.
 
 ## The magic system (hard vs soft, deliberately)
 
@@ -73,10 +78,14 @@ fantasy: the optimal move was never heroism.)
   legible and economically meaningful.
 - The mage class arc: deny guano's superiority → fail to compete in open trials →
   capitulate → reinvent themselves as **alchemists trying to reproduce guano** — and
-  **fail at that too.** But the failure is generative: chasing synthetic *power*, they
-  stumble onto synthetic *reach*. Their real industrial destiny was never energy; it was
-  **mass communication.** See *The second novum* below — this is the single biggest
-  upgrade to the mage arc, and it reframes [[vesser|Vesser's]] tragedy.
+  **fail at that too.** But the failure is generative. Their genuine **middle achievement**
+  is *characterising* guano even though they can't reproduce it: isolating the
+  [[guano|catalyst/confluence]] that makes it ignite, which gives the world **safe handling**
+  and the ability to tune the same substance between **slow-burn fuel** and **explosive**
+  (see energy economy). From studying its reactions and resonances they then stumble onto
+  synthetic *reach* — their real industrial destiny was never energy but **mass
+  communication.** See *The second novum* below; this is the single biggest upgrade to the
+  mage arc, and it reframes [[vesser|Vesser's]] tragedy.
 
 ## The second novum — the Hum (mass communication; the mages' real legacy)
 
