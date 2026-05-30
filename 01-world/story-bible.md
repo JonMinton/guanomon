@@ -79,6 +79,12 @@ fantasy: the optimal move was never heroism.)
   Princess]] notices it, and it is one of the things that wins her to dwarven culture
   (see her file). *Keep the allegory carried by the marvel itself — the speed and the
   ordinariness — never stated (the Boxer problem).*
+  - **The tunnels are built deliberately a little too low for the average human.** To
+    use dwarven infrastructure, humans must literally **bow** — the power transfer
+    written into the architecture and into the body, every day, unremarked. It is soft
+    power made structural: nobody is forced; the ceiling simply *is* where it is, and you
+    stoop or you don't ride. A perfect uncommented detail — the new hierarchy enforced not
+    by decree but by **headroom**.
 
 ## The diabetes mechanism (the hinge)
 

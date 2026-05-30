@@ -1,8 +1,12 @@
 # Dalla — the accidental discoverer
 
 **Account genre:** satire of commemoration
-**Register:** bitter, watchful, alert to being looked at; should formally *rhyme*
-with the Dragon's account (see below).
+**Register:** **dry wit, long-retrospective.** She is telling this from years on, and
+has *largely but not entirely* converted bitterness into irony — the grievance is still
+there, load-bearing, but it now travels as wryness rather than complaint. Watchful,
+alert to being looked at; should formally *rhyme* with the Dragon's account (see below).
+The unconverted residue of bitterness is what keeps the irony from going weightless —
+play the gap between how lightly she says it and how much it cost.
 
 ## Role in the system
 She did not discover anything. She **fell**. The discovery was an accident she was
@@ -72,6 +76,12 @@ Close enough that the reader *feels* the echo without being told.
 ## Voice notes
 - Wry, compressed, allergic to the pieties spoken about her.
 - The leering should be shown through her noticing of it, not narrated about her.
+- **Irony, not complaint.** Because this is told long after, she has had time to
+  *polish* the grievance into something almost performable — the lampshade line lands as
+  a practised, dry routine ("someone had to be the fool; the post was vacant"), a thing
+  she has clearly said before. The reader should sense she has *survived* into irony, not
+  that she is bitter in the raw. But never let the irony go fully weightless: the cost
+  shows through at the edges (see Register).
 
 ## Open questions
 - How much of the true account ("I fell") does she let the reader have, and how
@@ -80,6 +90,7 @@ Close enough that the reader *feels* the echo without being told.
   it" turn can land later.)*
 - Is the "Dalla" unit defined explicitly in the Guild chapter and felt obliquely in
   hers — or vice versa?
-- Exact register of the lampshade line: closer to dry ("Someone had to be the fool;
-  the post was vacant; I applied without meaning to") or to raw grievance? Her voice is
-  *wry and compressed*, so probably the former — the grievance underneath, not on top.
+- ~~Exact register of the lampshade line~~ **Resolved: dry wit** ("someone had to be
+  the fool; the post was vacant; I applied without meaning to"), grievance underneath
+  not on top — she's a long-retrospective narrator who has mostly turned bitterness to
+  irony (see Register / Voice notes).

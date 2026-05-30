@@ -81,6 +81,12 @@ and never knew the old one as home. If the others show the system taking power, 
 shows it reproducing itself — the most durable victory of all. Decide whether she joins
 this rhyme or stands deliberately outside it.
 
+Its physical emblem: the [[story-bible|too-low dwarven tunnels]] that make humans
+**bow**. The King would feel that stoop as humiliation; the Princess no longer feels it
+at all, and hopes her children are *born* short enough not to. Submission (the King) →
+assimilation (the Princess) is the whole conquest compressed into the question of how
+tall you are allowed to stand.
+
 ## Determinism preserved
 Across all accounts, the technology still wins. The disagreement is never about *what
 happened* — it's about meaning, blame, dignity, and cost. That is the whole design:

@@ -34,6 +34,16 @@ industrial-revolution parallel.)
   whether the marriage is "victory or his own absorption into the dynastic order he
   despised." Her account is where the reader sees what that absorption *produces* — a
   child of the old order fluent in the new.
+- **The bowing detail is hers to deliver.** The [[story-bible|transit tunnels are built
+  a little too low for humans]], so everyone stoops to use dwarven tech. Where another
+  human would feel the daily humiliation, the Princess has so internalised the hierarchy
+  that she has *stopped seeing it as one* — and lets slip the chilling line that **she
+  hopes her half-human, half-dwarf children don't grow too tall.** She wants her own
+  descendants physically diminished to fit the new world comfortably. It is the
+  conversion completed *in the body*, projected onto the next generation: assimilation so
+  total it has become eugenic preference, delivered as an offhand maternal wish. Play it
+  light — she means it *kindly*, which is what makes it land. This is the single sharpest
+  beat available to her chapter; protect it.
 - Possible rhyme with [[dalla]] and [[the-dragon]]: a third woman whose body
   (dynastic, reproductive) is an instrument of the system — but, unlike them, she is
   not caged by it; she *adapts* and rises. Worth deciding whether she breaks the
