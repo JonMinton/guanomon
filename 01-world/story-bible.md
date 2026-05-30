@@ -75,11 +75,14 @@ fantasy: the optimal move was never heroism.)
   [[guano|catalyst/confluence]] is what lets it be *tuned* between the two. Control is an
   achievement, not a given. See [[guano]] (the catalyst) and the magic-system note above.
 - **Logistics & the reorganised labour market.** Transport guano **wet/inert** (slurry,
-  piped underground by the dwarves) and **repotentiate** it (dry + compress) at controlled
-  activation points — *move it wet, arm it dry.* The honey catalyst spawns **apiaries** (new
-  above-ground sector) farming **footbees** (a foot long, lethal). Net result is a Hobbesian
-  bargain: workplace death rises but overall mortality falls (less civil war under a monopoly
-  of violence) — prime [[the-guild|Guild]] laundering. Full treatment: [[labour-and-order]].
+  piped underground by the dwarves); **repotentiate** it (dry + compress) at **compressors
+  sited above ground** — *move it wet, arm it dry.* The dwarves **control** the network but
+  the **danger** falls on the surface humans who run the compressors: the **risk inversion**
+  (old order: below was the dangerous place; now the dwarves engineer their domain safe and
+  push hazard up — see [[above-and-below]]). The honey catalyst spawns **apiaries** (new
+  above-ground sector) farming **footbees** (a foot long, lethal). Net: a Hobbesian bargain —
+  workplace death rises but overall mortality falls (less civil war under a monopoly of
+  violence) — prime [[the-guild|Guild]] laundering. Full treatment: [[labour-and-order]].
 
 ## The magic system (hard vs soft, deliberately)
 

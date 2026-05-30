@@ -6,13 +6,16 @@
 > political economy of the transformation — and prime [[the-guild|Guild]]-laundering material.
 
 ## New work (the labour market the novum makes)
-- **Below ground — dwarven logistics & repotentiation.** The dwarves own the guano supply
-  chain's *physical* layer. They pipe **slurry** — wet, inert [[guano|muck]] — safely through
-  **underground pipes**, then **repotentiate** it at target locations by **drying and
-  compression**, activating the fuel/explosive only where and when it's needed. Elegant and
-  consistent with the [[guano|wet/dried gate]]: *move the inert form, arm it on site* — like
-  shipping a stabilised explosive and priming it at the destination. This deepens the
-  [[above-and-below|below-ground]] power base — the dwarves control the **activation points.**
+- **Dwarven logistics & repotentiation — control below, *risk above*.** The dwarves own the
+  guano supply chain's *physical* layer: they pipe **slurry** — wet, inert [[guano|muck]] —
+  safely through **underground pipes** (consistent with the [[guano|wet/dried gate]]: *move the
+  inert form, arm it on site*). But the **dangerous** step — **repotentiation** (drying and
+  **compression** back into explosive, substantial injury risk) — is done at **compressors
+  sited above ground**, on human labour. The dwarves **own and direct** the whole network
+  without **bearing** its hazard: pipes below (safe, dwarven), compressors above (dangerous,
+  human). The siting is a **choice, not a constraint** — it offloads the risk upward (the
+  [[above-and-below|risk inversion]]) behind a respectable safety rationale the [[the-guild|Guild]]
+  launders ("explosive work kept clear of the tunnels" — *whose* tunnels?).
 - **Above ground — apiaries.** The [[guano|honey catalyst]] needs bees, so **beekeeping**
   becomes a major new sector: new agricultural work, new guild(s), new dependence. The honey
   that arms the fuel is farmed in the open air while the fuel itself moves in the dark.
@@ -25,8 +28,10 @@
 
 ## New hazards (the death the progress narrative doesn't count)
 The **footbees** are a **violent, lethal kind** (and a foot long), so apiary work kills and
-maims at rates the old agrarian economy never did. The repotentiation stations (drying and compressing an
-explosive) are their own new category of lethal accident. **Workplace death rises.**
+maims at rates the old agrarian economy never did. The **above-ground compressor stations**
+(drying and compressing an explosive — the danger the dwarves [[above-and-below|pushed up off
+themselves]]) are their own new category of lethal accident. **Workplace death rises** — and
+it rises *on the surface*, by design.
 
 > **The human instance:** [[marga|Marga's]] husband died of a **sting** (an apiary bee) —
 > mentioned flatly and *unexplained* in her chapter, so it reads as ordinary grief until the

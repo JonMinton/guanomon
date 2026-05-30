@@ -22,14 +22,40 @@ subterranean one. The dwarves don't climb up to rule; **the world's centre of gr
 drops to meet them.**
 
 Concretely, the dwarves own the supply chain's underground layer: they pipe inert
-**slurry** ([[guano|wet muck]]) through tunnels and **repotentiate** it — dry and compress
-it into fuel/explosive — at chosen **activation points** below ground (see
-[[labour-and-order]]). Power isn't just *located* below now; the very act of *arming* the
-economy's energy happens down there, under dwarven control.
+**slurry** ([[guano|wet muck]]) safely through tunnels. But note the split between
+**control** and **risk** (see *The risk inversion* below): the dwarves *own and direct* the
+whole system, yet the **dangerous** step — [[labour-and-order|repotentiation]], drying and
+compressing the slurry back into explosive — is sited **above ground**, on human labour. Pipes
+below (safe, dwarven); compressors above (hazardous, human). Power is located below; the
+*danger* has been pushed up.
 
 This is one of the **two things the First Novum produced** (the other being
 [[the-hum|the Hum]]). Together they are the whole revolution: a new *medium* in the air
 and a new *power base* underground.
+
+## The risk inversion (the third axis of the flip)
+Power flows down and value flows down — and, completing the inversion, **risk flows up.** In
+the old order *below* was the dangerous place: mining and tunnelling were the hazardous,
+low-status work, and the surface was comparatively safe. The dwarves **remember that**, and
+now that they're dominant they have **engineered their own domain to be safe** and pushed the
+bodily hazard *up* onto surface human labour — while keeping **control** of everything. The
+newly-dominant class doesn't abolish dangerous work; it arranges for *someone else* to do it.
+
+- **Worked example — the slurry compressors.** Inert [[guano|slurry]] travels the safe
+  subterranean network (dwarven), but the **compression/drying** that re-arms it — substantial
+  injury risk — happens **above ground**, run by humans. The dwarves **own and control** the
+  activation without **bearing** its danger.
+- **It's a choice, not a constraint.** Compression *could* be done below; it's done above
+  *because* that puts the danger on the surface. The fig-leaf is a respectable safety rationale
+  (keep explosive work clear of the dense, populated tunnels; ventilation) — which the
+  [[the-guild|Guild]] duly launders. But the tunnels it protects are dwarven and the workers it
+  exposes are human. **Safety *for whom*** is the unasked question.
+
+So the surface becomes **comprehensively the worse place to be**: surface humans bear the
+danger, **bow** to the dwarven tech, are involuntarily saturated by the [[the-hum|Hum]], and
+watch the value drain below. The inversion is total — power, value, *safety*, and even the
+direction you have to stoop. [[marga|Marga's]] world (collection crews, compressor stations,
+[[labour-and-order|footbee apiaries]]) is the surface-labour tier that absorbs all of it.
 
 ## How the inversion is dramatised (mechanism, never stated — Boxer guard)
 - **To reach power now you descend and stoop.** The [[story-bible|guano-powered subway]]
