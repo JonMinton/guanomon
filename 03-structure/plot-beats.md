@@ -42,6 +42,13 @@ where the [[discovery-gating|"why was this never found before?" lampshade]] is s
 the crew's trained indifference to the dung is the very habit that gated the discovery.
 [[dalla|Dalla]] pays it off later, bitterly, in her own account.)*
 
+> **Scene 1 plants a second payoff** (the dragons' ending — [[dragons]]). The crew steps
+> over the glittering hoard to shovel filth: the humans no longer *look* at treasure. That
+> devalued, unwatched gold is exactly where the dragons will later hide their
+> [[the-hum|resonance devices]]. Consider letting the prologue **linger one beat** on the
+> ignored treasure — an image that reads as throwaway now and detonates at the end. The
+> reader who rereads sees the conspiracy was sitting in the cold open the whole time.
+
 ## Ordering logic (a starting proposal, not a verdict)
 
 The accounts are **not** chronological; each enters the timeline where its own arc

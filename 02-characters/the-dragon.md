@@ -37,6 +37,22 @@ threatens to *reopen* — the only character whose ending is genuinely unresolve
   *body* knows it even if the mind narrates it as restlessness.
 - Dalla. The system has done the same thing to both of them; neither knows the other.
 
+## The concealment, from inside her account (dramatic irony engine)
+The dragons' covert programme (full mechanism in [[dragons]]) is most devastating *told
+from her side*, because the reader hears what the humans can't read. Three ironies her
+narration can carry:
+- She **requisitions treasure** — naming the exact gauds she needs for components — and
+  the keepers hand it over indulgently, pleased to spoil her. She lets the reader see the
+  shopping list under the whim.
+- She watches them **stop looking at the gold** entirely, and notes, dry, that they have
+  handed her the one room in the world they will never search again — the same gold they
+  once *died* to steal.
+- The **singing.** What she and her kind are doing reaches the keepers as contented song;
+  they coo about how happy she is. She can hear them deciding she is content *in the very
+  act of conspiring against them.* Her cold amusement (see Voice notes) has no better
+  material than this. Keep it *under*-stated — she does not gloat; she observes, and the
+  reader does the shuddering.
+
 ## The diabetes hinge
 Comfort is making her ill. The dissatisfaction is **embodied, not philosophical** —
 the feeding regime sickened her, and sickness redirects appetite back toward humans

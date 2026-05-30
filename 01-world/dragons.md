@@ -70,14 +70,55 @@ in case C proves too much in the drafting — C can always be pulled back toward
 > human cast at all. The reader may know; the masters never do.
 
 ### Mechanism (keep it spare and a-little-mysterious — it's the *soft* register)
-- **How dragons "hum":** something below or beside human perception — resonance through
-  rock, a frequency the mage-built [[the-hum|Hum]] never occupies. They may always have
-  had a latent capacity; what's new is **coordination**, not the channel.
+- **How dragons "hum":** resonance through rock and air in a register the mage-built
+  [[the-hum|Hum]] never occupies. Note the concealment isn't pure inaudibility — humans
+  *do* hear it, as "singing" (see Concealment §4), but cannot **parse** it; the meaningful
+  structure sits in something they can't read (timescale, harmonic layering, the
+  [[above-and-below|Hum-silent deep]] where no human conduit reaches). They may always have
+  had the latent capacity; what's new is **coordination**, not the channel.
 - **Why now, and why her:** [[the-dragon|the Dragon's]] 30-year **longevity** is the
   enabler. She is the one who has *watched the humans build their Hum* — and understood
   that the same trick works in a register they can't hear. **The source studied the system
   that was studying her.** Her memory of wildness is the *content*; the dragon-Hum is the
   *medium* that carries it to the young who never knew it.
+
+### Concealment — they don't evade perception, they exploit *interpretation*
+The dragons hide the whole programme **in plain sight**, using human assumptions as the
+camouflage. Nothing is stealthed; everything is *misread*, because the humans' own reductive
+worldview does the concealing for them. Four layers:
+
+1. **Acquisition by requisition.** The dragons **ask for treasure** — but *very specific*
+   treasure, chosen because it contains the **components** they need (metals, crystal,
+   wire-stock, resonant materials). The humans, [[guano|fixated on the dung]], hand over gold
+   without a second glance — it's worthless to them now. The dragons are *supplied their own
+   tools by their keepers*, who feel generous doing it.
+2. **Temporal dispersal (longevity as tradecraft).** No single request looks like anything.
+   They space requests for the same material **~a year apart**, rotate which component they
+   ask for, and take **a decade or more** to build working devices. The pattern is only
+   legible across a span **longer than human attention or institutional memory** — the
+   dragons conspire on a *timescale humans can't hold in view.* Patience is the weapon
+   longevity buys.
+3. **Devices hidden in the hoard (the master-inversion).** Once built, the devices are
+   concealed **amid the treasure** — and the humans **no longer look at the treasure.** This
+   inverts the world's founding reversal: humans once raided dragons *for* the gold and
+   ignored the dung; now they take the dung and ignore the gold, so the gold becomes the
+   perfect hiding place *precisely because it was devalued.* The thing they used to covet is
+   now the one place they never search. (Direct payoff of Scene 1, where the crew steps over
+   the glittering hoard to shovel filth — see [[plot-beats]].)
+4. **Messages misheard as contentment.** Once the devices work, the dragons' communication
+   reaches human ears as **indecipherable *singing*** — and the keepers read it as the sound
+   of *satisfied animals*, content with their upgraded lairs and easy lives. The exact
+   opposite of the truth. The conspiracy is **audible and illegible at once**: its very
+   audibility is taken as reassurance. The keepers hear their livestock sing and think *how
+   happy they are.*
+
+> **The thematic core:** every concealment weaponises a human *category*, not a human sense.
+> Treasure-is-worthless, dung-is-everything, happy-things-sing — the humans' fixations and
+> condescensions are the hiding places. Their reductive certainty about what the dragons
+> *are* (resource, livestock, content) is exactly what blinds them. The cage was always
+> built of assumptions; the dragons just move around inside them. *(Keep it cold and patient
+> — this is inexorable, not a heist caper. No clever-dragon caper energy; the register is the
+> tide coming in, slowly, in a language you decided was contentment.)*
 
 ### The communication novum is discovered *twice* (a determinist point, not a coincidence)
 First the displaced **mages** find it ([[the-hum]]); then the suppressed **dragons** find
