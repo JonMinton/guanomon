@@ -18,10 +18,19 @@ asks "searching" questions that are really softballs dressed as profundity; and
 human face of the [[the-hum|Hum's]] myth-machine: where the [[the-guild|Guild's]] corporate
 voice is faceless bureaucracy, the Host is the *charming* face of the same laundering.
 
-**Crucially, he is sincere.** Like the [[the-guild|Guild]] (which "believes itself
-entirely"), the Host genuinely thinks he draws out truth; he is the last to see that he
-smooths it away. He never winks at the audience. The sincerity is what makes him effective —
-and a little tragic.
+**Crucially, he is sincere** — and his enthusiasm is **genuine.** Like the [[the-guild|Guild]]
+(which "believes itself entirely"), the Host really thinks he draws out truth; he is the last
+to see that he smooths it away. He never winks at the audience. Whether the warmth *began* as
+performance no longer matters, even to him: **he has worn the public mask so long that he can
+no longer distinguish it from his own face.** The "is it real or performed?" question is
+undecidable, and that undecidability is the character.
+
+> **The inverse of Dalla (load-bearing).** [[dalla|Dalla's]] whole diptych is a *front* stage
+> (the transcript) over a *back* stage (her private monologue). The Host has **no back stage
+> left** — go looking for the "real him" and there's no underneath; the mask went all the way
+> down. He is what Dalla *becomes* if the weary private voice finally goes silent: celebrity's
+> end-state, the persona winning completely. A quiet warning sitting right beside her in her
+> own chapter, and neither of them can see it.
 
 ## Function — soft power, humanised
 He is the instrument that **surfaces [[dalla|Dalla's]] front-stage persona.** He cues the
@@ -61,6 +70,11 @@ and only later gets to see behind it.
   "how *fascinating*"*).
 - Performs listening more than he listens; reframes the guest's words back, improved.
 - Warm enough that his condescension is invisible to him — and, on air, to everyone.
+- **A slight tilt toward purple prose and loquaciousness** — a faint floridity, a fondness for
+  the ornate phrase and the one clause too many. *Keep it a tilt, not a trait:* he is **not** a
+  comic windbag or a caricatured ham. The over-writing should be just perceptible — enough that
+  a sharp reader smiles, never enough to tip him into parody. (The bard's inheritance: centuries
+  of praise-song leave a residue of decoration in the voice.)
 
 ## Open questions
 - Name, or keep him "the Host."
