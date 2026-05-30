@@ -54,20 +54,46 @@ So the civilisation "may collapse sooner and be more fragile than it realises" �
 because it runs *out*, but because it has built everything on a substrate it fundamentally
 misunderstands.
 
-## The unresolved ending — a spectrum (decide; see [[the-dragon]] and [[plot-beats]])
-How far does the dragons' agency go? Options, bleak → catastrophic:
+## The ending — DECIDED (lean): C, the dragon-Hum, played cold
+Chosen direction (2026-05-30): **C.** The dragons **surreptitiously develop their own
+version of [[the-hum|the Hum]]** — a resonance/communication channel humans never thought
+to look for, running precisely in the **[[above-and-below|Hum-silent deep]]** the humans
+cannot hear. Coordination turns individual restlessness **collective**; the herd could
+leave the golden cages *en masse.* The apex resource grows a conspiracy in the one blind
+spot the infrastructure guarantees. *(A and B below are retained as the colder/safer dials
+in case C proves too much in the drafting — C can always be pulled back toward B.)*
 
-- **A. Yearning only.** [[the-dragon|The Dragon's]] hunger to be a predator again stays
-  *internal* — appetite without action, never political. Determinism holds, coldly: even
-  the apex of the system can want out and not move. The most ironic, most thesis-safe.
-- **B. Latent, glimpsed.** Something *might* be stirring across the herd — the reader
-  catches it at the edges, unresolved, never confirmed. Dread without payoff.
-- **C. The dragon-Hum.** The dragons **surreptitiously develop their own version of
-  [[the-hum|the Hum]]** — a resonance/communication channel humans never thought to look
-  for, running precisely in the **[[above-and-below|Hum-silent deep]]** the humans cannot
-  hear. With coordination, individual restlessness becomes **collective**, and the herd
-  could leave the golden cages *en masse.* The apex resource develops a conspiracy in the
-  one blind spot the infrastructure guarantees.
+> **Play it cold (non-negotiable for C).** Not a triumphant uprising — a bill coming due.
+> The horror is the humans' **obliviousness**: they congratulate themselves on a growing,
+> well-managed herd while, in a register they literally cannot monitor, their entire
+> energy base re-coordinates. Keep it ambiguous, embodied, possibly never confirmed to the
+> human cast at all. The reader may know; the masters never do.
+
+### Mechanism (keep it spare and a-little-mysterious — it's the *soft* register)
+- **How dragons "hum":** something below or beside human perception — resonance through
+  rock, a frequency the mage-built [[the-hum|Hum]] never occupies. They may always have
+  had a latent capacity; what's new is **coordination**, not the channel.
+- **Why now, and why her:** [[the-dragon|the Dragon's]] 30-year **longevity** is the
+  enabler. She is the one who has *watched the humans build their Hum* — and understood
+  that the same trick works in a register they can't hear. **The source studied the system
+  that was studying her.** Her memory of wildness is the *content*; the dragon-Hum is the
+  *medium* that carries it to the young who never knew it.
+
+### The communication novum is discovered *twice* (a determinist point, not a coincidence)
+First the displaced **mages** find it ([[the-hum]]); then the suppressed **dragons** find
+it. That recurrence is thematic, not lazy: **coordination is so decisive that whoever the
+system corners reaches for it.** The Hum isn't a one-off invention — it's what *any*
+sufficiently pressured, sufficiently intelligent population converges on. The novum
+recurring is the determinism showing through: same pressure, same answer, different
+species. See [[genre-theory]] (the world's novums) and [[the-hum]].
+
+### Fallback dials (retained, not chosen)
+- **B. Latent, glimpsed** — the dragon-Hum is *implied* and never confirmed; coordination
+  may be happening or may be the Dragon projecting. C pulled halfway back. Safest way to
+  keep C's dread without committing to the mass defection on the page.
+- **A. Yearning only** — no dragon-Hum at all; [[the-dragon|the Dragon's]] hunger stays
+  purely internal, appetite without action. The coldest, smallest ending. Use if C/B start
+  to feel like genre creep.
 
 ### Keeping C consistent with determinism (important)
 A dragon uprising must **not** read as heroic free choice (Spartacus / *Animal Farm*

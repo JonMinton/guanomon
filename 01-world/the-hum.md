@@ -53,6 +53,14 @@ remotely directed munitions (a drone-warfare parallel). The two novums, split be
 hard and soft power, reconverge as the means of killing at a distance, and threaten to
 end [[dern|the slayer's]] last role.
 
+## Discovered twice — the mages, then the dragons
+The Hum is not a one-off invention. The displaced **mages** find it; later the suppressed
+**[[dragons]]** find their own version — a resonance channel in the [[above-and-below|
+un-wired deep]] humans can't monitor (the project's chosen ending lean). Coordination is so
+decisive that *whoever the system corners reaches for it*; the novum **recurs** because the
+pressure recurs. That recurrence is a determinist point, not a coincidence — same pressure,
+same answer, different species. See [[dragons]].
+
 ## See also
 - [[story-bible]] — the second-novum section + timeline (SSOT)
-- [[guano]] · [[above-and-below]] · [[brask]] · [[dalla]] · [[the-guild]]
+- [[guano]] · [[above-and-below]] · [[dragons]] · [[brask]] · [[dalla]] · [[the-guild]]

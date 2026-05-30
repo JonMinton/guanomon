@@ -207,9 +207,11 @@ externality nobody priced in — but it is never stated. The mechanism carries i
 > of living, intelligent agents, which can fail *suddenly*. Only dragons are long-lived
 > enough to span the whole arc; younger dragons join the "golden cages" willingly (a
 > third [[the-king|old]]/[[the-princess|new]] parallel), which masks the fragility as
-> growth. Whether the dragons stay passive or eventually coordinate (possibly via a
-> dragons-only [[the-hum|Hum]] in the un-wired deep) is a live, thesis-level decision —
-> see [[dragons]].
+> growth. **Ending lean — DECIDED: the dragons eventually coordinate** via a dragons-only
+> [[the-hum|Hum]] in the un-wired deep (played cold; the [[the-dragon|Dragon's]] longevity
+> seeds it), so the communication novum is discovered *twice* — mages then dragons. Kept
+> determinist (mispriced foundation reasserting mechanically, never heroic choice). Full
+> treatment + safer dials in [[dragons]].
 
 ## Places
 

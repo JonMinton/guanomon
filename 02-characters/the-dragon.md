@@ -52,16 +52,18 @@ zone. The return-to-the-familiar (dragons eating humans) is the same as the star
 condition **but worse**, because the humans are now proximate, complacent and
 dependent on the very thing that will destroy them.
 
-**The open scale of her ending is now a project-level decision** (full treatment in
-[[dragons]]): does her predatory yearning stay **A. purely internal** (appetite without
-action — the most thesis-safe, coldest irony); **B. latent and glimpsed** across the
-herd; or **C. coordinated**, via a dragons-only [[the-hum|Hum]] running in the
-[[above-and-below|Hum-silent deep]], such that the herd could leave the cages *en masse*?
-If **C**, her **longevity makes her the seed**: the one who carries the memory of wildness
-to a generation that never knew it — the single point where the old/new assimilation
-pattern *inverts* (she infects the young with the past instead of being replaced by them).
-Whichever is chosen, keep determinism intact: any uprising is the **mispriced foundation
-reasserting itself mechanically**, never heroic free choice. See [[dragons]] §determinism.
+**Her ending — DECIDED (lean): C, the dragon-Hum, played cold** (full treatment in
+[[dragons]]). The dragons covertly develop a **resonance channel of their own** in the
+[[above-and-below|Hum-silent deep]] the humans can't monitor; coordination makes the herd's
+restlessness collective. **Her longevity is the enabler and the seed**: she is the one who
+*watched the humans build their [[the-hum|Hum]]* across 30 years and grasped the same trick
+works in a register they can't hear — and she carries the memory of wildness to a
+generation that never knew it. This is the single point where the old/new assimilation
+pattern **inverts** (the old infects the young with the past, instead of being replaced by
+them). Play it **cold**: not a triumphant uprising but a bill coming due, the humans
+oblivious; possibly never confirmed to the human cast. Determinism intact — the mispriced
+foundation reasserting itself **mechanically**, never heroic choice. (Dials B/A in
+[[dragons]] if C proves too much.)
 
 ## Fossil-fuel allegory → dependency-fragility (keep buried)
 Originally a fossil-fuel reading: a biological energy source that seemed an unlimited

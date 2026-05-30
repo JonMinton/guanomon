@@ -33,8 +33,8 @@ keeps winning." Its fuller form: **a system that misprices its own foundation is
 *determined* to fail.** The civilisation builds everything on a base of living,
 intelligent agents (the [[dragons]]) it treats as inert resource — so the eventual
 fragility/collapse is *also* deterministic, the unpriced externality coming due. This
-matters because it lets the story include a possible dragon "uprising" (see [[dragons]]
-ending option C) **without** betraying the determinist thesis: the dragons don't *choose*
+matters because it lets the story take its **chosen** ending — the dragons coordinate and
+defect (see [[dragons]] option C) — **without** betraying the determinist thesis: the dragons don't *choose*
 freedom heroically; the suppressed variable reasserts itself mechanically. The iron law
 simply turns on the winners. Framed this way, the bleakest ending is the *most*
 determinist, not the least — which is exactly what keeps it from sliding into
