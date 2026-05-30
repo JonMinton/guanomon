@@ -81,6 +81,14 @@ oblivious; possibly never confirmed to the human cast. Determinism intact — th
 foundation reasserting itself **mechanically**, never heroic choice. (Dials B/A in
 [[dragons]] if C proves too much.)
 
+**What tips her from yearning to *acting*: the [[story-bible|Hummingbird]] horizon.** Her
+longevity is also *strategic foresight* — she alone extrapolates that a mature Hummingbird
+swarm would be the first thing able to coerce or kill a dragon, turning the soft cage hard.
+So the decision to leave is **cold calculation, not appetite**: run the numbers, see the
+window closing, move before the bars go in. The restlessness is the *mood*; the Hummingbird
+extrapolation is the *reason*. Keep it dragon-paced (5+ years, no imminent threat). Full
+logic in [[dragons]] §"Why now."
+
 ## Fossil-fuel allegory → dependency-fragility (keep buried)
 Originally a fossil-fuel reading: a biological energy source that seemed an unlimited
 gift, whose success creates the conditions for catastrophe; her obesity the unpriced

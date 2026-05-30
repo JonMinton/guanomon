@@ -120,6 +120,45 @@ worldview does the concealing for them. Four layers:
 > — this is inexorable, not a heist caper. No clever-dragon caper energy; the register is the
 > tide coming in, slowly, in a language you decided was contentment.)*
 
+### Why now — the Hummingbird horizon (the impetus, dragon-paced)
+What converts the dragons' restlessness into a *decision to act* is the
+[[story-bible|Hummingbirds]]. The logic is exact, because Hummingbirds are **guano-powered**
+— so they can *never* replace dragons as the energy **source** (they consume guano; they
+don't make it). What they threaten instead is the dragons' **physical untouchability.**
+
+- **Today the dragons are held by *soft* power.** The golden cage is comfort and incentive,
+  not bars; the dragons stay because leaving isn't worth it and because, in any case, no
+  human force could *make* them stay. They are captive but **unkillable** (and slaying is
+  obscene anyway — you don't destroy the power source).
+- **A mature Hummingbird swarm ends that.** Cheap, numerous, guided, explosive — the first
+  technology that could plausibly **coerce or kill a dragon.** The day it matures is the day
+  the humans gain **hard power** over dragons for the first time: the soft cage grows the
+  capacity to become a real prison. *The window to leave is the window before the bars go
+  in.*
+- **They act on the *extrapolation*, not a crisis.** Being intelligent and long-lived, the
+  dragons don't wait for a killer demonstration — they read the **trajectory** and move
+  before it closes. The threat assessment itself rides the dragon-Hum: one dragon sees a
+  Hummingbird trial (the humans hide nothing from "livestock"), and the reading propagates —
+  the channel built for escape is also an **intelligence network.**
+
+> **Calibrate the urgency to dragon-time (important for register).** "Urgent" here is
+> *measured*, not panicked. There is **no killer demonstration just around the corner** —
+> only a highly plausible extrapolation. They can still wait **five-plus years**; the build
+> already takes a decade. The point is a *closing window*, sensed by beings who think in
+> centuries, **not** a ticking-bomb finale. Keep determinism intact: this is cold strategic
+> foresight by a cornered intelligence — running the numbers and concluding *leave before
+> it's too late* — never a passionate, clock-racing uprising.
+
+**The determinist irony to exploit:** the Hummingbird is the humans' hedge — a force they
+build partly to depend *less* on dragons and on [[dern|human soldiers]]. That very hedge is
+what tips the dragons into leaving, which collapses the energy base they were hedging to
+secure. **Their insurance against the foundation is what loses them the foundation.** And
+they never see it coming, because the ones extrapolating are the contented singing livestock.
+*(Same technology, two displaced parties reading the same trajectory: [[dern|Dern]]
+consciously and mournfully — it ends his role; the dragons coldly — it ends their
+invulnerability. The automated swarm is bad news for both the obsolete killer and the
+uncatchable beast.)*
+
 ### The communication novum is discovered *twice* (a determinist point, not a coincidence)
 First the displaced **mages** find it ([[the-hum]]); then the suppressed **dragons** find
 it. That recurrence is thematic, not lazy: **coordination is so decisive that whoever the

@@ -73,6 +73,14 @@ it).
   next turn of the same screw — the technology that displaced the strongman is about to
   displace the *gunner.* He senses it without being able to think it.
 
+> **A buried parallel the reader assembles (Dern never does):** the same Hummingbirds that
+> threaten Dern's last role *also* threaten the [[dragons]] — they'd be the first thing
+> able to kill or coerce a dragon, which is the cold trigger for the dragons' decision to
+> leave (see [[dragons]] §"Why now"). One automated swarm, two displaced parties reading
+> the same trajectory: the obsolete killer (mournfully, consciously) and the uncatchable
+> beast (coldly, and acting on it). Dern grieves the future; the dragons quietly act on it.
+> Only the reader holds both.
+
 ## What he's structurally blind to
 - **That the heroism he mourns was always the lie the novum merely exposed.** Slaying
   dragons was *always* ecological vandalism dressed as valour — the world just hadn't

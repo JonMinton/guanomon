@@ -148,10 +148,17 @@ by operators who never face the enemy, with an overwhelming asymmetry of power.
 
 - **Status:** experimental at the story's late beats — "ongoing experiments," with early
   demonstrations promising enough to frighten the people whose role they would end.
-- **Who they threaten:** the [[dern|Warriors' (Slayers') Guild]]. Force-projection
-  abroad is the slayers' *last* remaining role; Hummingbirds would automate even that,
-  finishing the displacement the novum began — heroism → remote butchery → no human in
-  the loop at all.
+- **Who they threaten — two parties reading the same trajectory:**
+  - the [[dern|Warriors' (Slayers') Guild]]. Force-projection abroad is the slayers'
+    *last* remaining role; Hummingbirds would automate even that, finishing the
+    displacement the novum began — heroism → remote butchery → no human in the loop at all.
+  - the **[[dragons]]** themselves. Hummingbirds are guano-*powered*, so they can't replace
+    dragons as the energy *source* — but a mature swarm would be the **first thing able to
+    coerce or kill a dragon**, ending the dragons' physical untouchability and converting
+    their *soft* cage (incentive) into a potential *hard* one (compulsion). This is the
+    **impetus for the dragons' decision to leave** (the [[dragons]] option-C ending): they
+    extrapolate the trajectory and move before the window closes. Dragon-paced urgency — 5+
+    years, no imminent demo. See [[dragons]] §"Why now."
 - **Thematic seal:** the two novums, which split the world between hard and soft power,
   reconverge as the means of killing at a distance. The energy that lights the tunnels
   and the voice that tells the story turn out to be the same hand, and it is armed.

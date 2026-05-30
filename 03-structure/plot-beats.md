@@ -122,7 +122,11 @@ The novum sorts the cast into two cohorts, and the book pairs them off:
 The first two pairs have a human on each side; the third is the darkest, because the
 slayer's successor is **not a person but a machine** ([[story-bible|Hummingbirds]]). Heroism doesn't get a
 proud young inheritor the way sovereignty and magecraft do — it just gets *automated
-out*. Note too that [[vesser|Vesser]] and [[dern|Dern]] share the **self-flattering
+out*. **The Hummingbird is also the hinge between [[dern|Dern's]] arc and the
+[[dragons|dragons']] ending:** the same swarm that ends the slayer's role would be the
+first thing able to kill a dragon, which is the cold trigger for the dragons leaving. One
+technology displaces the old killer *and* spooks the apex predator — the reader connects
+the two; neither party does. Note too that [[vesser|Vesser]] and [[dern|Dern]] share the **self-flattering
 elegy** blindness: each mourns a vocation (artisanal magic / "honest" violence) that the
 determinist reading says was always doomed or always a lie. Don't let them sound alike —
 Vesser is lyrical, Dern is flat and guilt-shadowed — but they rhyme.
