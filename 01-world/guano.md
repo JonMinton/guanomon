@@ -36,6 +36,32 @@ rules" and Suvin's "cognition as science." It is the hard pole against which
 [[the-hum|the Hum's]] softness is measured. See [[genre-theory]] §5 (the world's two
 novums).
 
+## Properties — inert to its maker (the dragonfire rule)
+The obvious question — *why doesn't a fire-breathing animal ignite the explosive it
+produces?* — gets a **casual** answer (drop it light, never lecture; cf. the
+[[discovery-gating|discovery-gate lampshade]]): **guano is uniquely stable to dragonbreath;
+only human/dwarf fire ignites it.**
+
+The implicit reason is **evolutionary necessity**, and it's exactly the legible biology that
+keeps guano the *hardest* novum: any dragon lineage whose dung ignited from its own fire
+would have **self-immolated out of existence**. Extant dragons are the descendants of those
+whose guano was inert to dragonfire — selection did the engineering. (No dragon need *know*
+this; it's just true, the way you don't combust when you digest.) See [[dragons]].
+
+> **Optional resonance (don't force it):** the apex predator literally *produces and sits
+> on* a power it cannot ignite — value that was always there and always inert to its owner,
+> released only by a *different, lesser* fire. It rhymes with the founding conceit (the
+> dragons held the gold *and* the fuel and could use neither) and with [[dragons]] (the
+> source that never controls the source).
+
+> **Consistency flag to settle (Scene 1 torches):** if human fire ignites guano, why do the
+> crews swing torches in a chamber full of it ([[plot-beats|Scene 1]])? Cleanest casual fix:
+> **raw guano isn't volatile — it must be processed/dried/refined into the explosive fuel**
+> (the economy already implies a processing tier), so torches near fresh dung are safe and
+> the bang comes after refining. *Alt (ammonium-nitrate model):* even refined guano needs
+> real **initiation** (confinement / a charge), not a stray flame. Pick one; keep it casual.
+> Decide & record.
+
 ## The resource base is *alive* (the hidden fragility)
 Guano looks like a stock to be mined, but its source is a **population of living,
 intelligent agents** ([[dragons]]). That changes the scarcity from *depletion* (slow,

@@ -5,6 +5,13 @@
 > lives — and where the story's biggest unresolved question sits. Closely bound to
 > [[guano]] (they are the source) and [[above-and-below]] (the deep is theirs).
 
+## Biology note — they can't ignite their own product
+Guano is **inert to dragonbreath; only human/dwarf fire sets it off** — by *evolutionary
+necessity*, since any lineage whose dung ignited from its own fire would have self-immolated
+out of existence. So the dragons produce, and sleep atop, an explosive they cannot use: the
+source that never controls the source. A casual fix, never lectured — full treatment in
+[[guano]] (the dragonfire rule).
+
 ## Longevity — only dragons see the whole revolution
 Dragons are **long-lived enough to span the entire arc.** Every human and dwarf in the
 cast lives and dies inside one stretch of the timeline; [[the-dragon|the Dragon]] alone

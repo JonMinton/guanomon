@@ -58,6 +58,10 @@ fantasy: the optimal move was never heroism.)
   Keep (retired off-page), deployed against the crown in the throne-room coup. *Later
   escalation: see **Hummingbirds** below — guano explosive + the Hum, fused into guided
   munitions.*
+- **The dragonfire rule:** guano is **inert to dragonbreath; only human/dwarf fire ignites
+  it** (evolutionary necessity — self-igniting dragons died out). A *casual* fix for "why
+  doesn't the dragon explode itself?", never lectured. Open sub-point (Scene 1 torches): raw
+  vs refined volatility. Full treatment: [[guano]].
 
 ## The magic system (hard vs soft, deliberately)
 
