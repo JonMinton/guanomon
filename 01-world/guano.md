@@ -84,13 +84,13 @@ sight and the [[the-hum|Hum]] worn as a casual verb). *Keep it abundant:* it mus
 new scarcity** and must **not** make Dalla a chosen-one — the *soiling* is still what makes
 her "the Dalla"; the catalyst is just chemistry that was always lying around.
 
-Candidate specifics (flavour, **not locked** — pick one, keep it common):
-- **Honey, from a common bee** (a flask she carried) — *recommended.* Resonates with the
-  project's sweetness motif: the urine-tasting / *mellitus* diagnosis, the dragon-urine
-  confectionery, the diabetic sweetness. Sugar keeps recurring.
-- **Silk, from a common spider**, woven into everyday cloth. Resonates with the
-  textile / handloom-vs-power-loom imagery already attached to [[vesser|Vesser]].
-- *(A confluence of both is possible but busier; abundance matters more than rarity.)*
+The catalyst is **honey** — now effectively **locked** (the bee that makes it has been named:
+the **footbee**, see [[labour-and-order]]). Honey resonates with the project's sweetness motif
+(the urine-tasting / *mellitus* diagnosis, the dragon-urine confectionery, the diabetic
+sweetness — sugar keeps recurring), and it spawns the apiary economy. *(Spider-silk was the
+discarded alternative; honey won.)* The footbees are a foot long and lethal, so the catalyst
+supply is *itself* a source of [[labour-and-order|new workplace death]] — the sweetener of the
+fuel is farmed from a killer.
 
 **Why it's worth it — it fixes the alchemists' arc.** The catalyst gives the
 mages-turned-alchemists a genuine **middle achievement** between *failing to reproduce

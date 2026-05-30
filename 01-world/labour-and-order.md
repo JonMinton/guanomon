@@ -16,10 +16,16 @@
 - **Above ground — apiaries.** The [[guano|honey catalyst]] needs bees, so **beekeeping**
   becomes a major new sector: new agricultural work, new guild(s), new dependence. The honey
   that arms the fuel is farmed in the open air while the fuel itself moves in the dark.
+  - The bees are **footbees** — so named because the adults run about **a foot long.** The
+    name is flatly descriptive (the [[the-hum|dull-naming]] principle — world-remaking things
+    named like livestock) yet it *also* names the danger: a foot-long bee is a genuinely lethal
+    animal, which is why apiary work kills (below) and why a "sting" is now something people die
+    of. The banality of the monstrous: they named the foot-long killer after its length and got
+    on with the harvest.
 
 ## New hazards (the death the progress narrative doesn't count)
-The special bees are a **violent, lethal kind**, so apiary work kills and maims at rates the
-old agrarian economy never did. The repotentiation stations (drying and compressing an
+The **footbees** are a **violent, lethal kind** (and a foot long), so apiary work kills and
+maims at rates the old agrarian economy never did. The repotentiation stations (drying and compressing an
 explosive) are their own new category of lethal accident. **Workplace death rises.**
 
 > **The human instance:** [[marga|Marga's]] husband died of a **sting** (an apiary bee) —

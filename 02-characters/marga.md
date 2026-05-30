@@ -37,9 +37,9 @@ unit after me.* This reinforces [[dalla|Dalla's]] lampshade **from below** — t
 correction to the founder-myth.
 
 ## Widowhood — the uncounted death (a planted seed; handle with restraint)
-*Recommended, with guardrails.* Marga is a **widow**: her husband died of a **sting** — one
-of the [[labour-and-order|apiary bees]], though the chapter **does not explain that** when it
-lands. Stated **flatly, early, once or twice**, with no context — the way you'd note a fatal
+*Recommended, with guardrails.* Marga is a **widow**: her husband died of a **footbee sting**
+(see [[labour-and-order]]) — though the chapter **does not explain** what a footbee is, or why
+stings now kill, when it lands. Stated **flatly, early, once or twice**, with no context — the way you'd note a fatal
 accident everyone has heard of. The *flatness implies the commonness*: she says it without
 drama because in her world it isn't remarkable, and that unremarkableness is the **chilling
 tell** the reader decodes later, when the [[guano|honey-catalyst]] / [[labour-and-order|apiary]]

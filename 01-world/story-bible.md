@@ -77,9 +77,9 @@ fantasy: the optimal move was never heroism.)
 - **Logistics & the reorganised labour market.** Transport guano **wet/inert** (slurry,
   piped underground by the dwarves) and **repotentiate** it (dry + compress) at controlled
   activation points — *move it wet, arm it dry.* The honey catalyst spawns **apiaries** (new
-  above-ground sector; the bees are lethal). Net result is a Hobbesian bargain: workplace
-  death rises but overall mortality falls (less civil war under a monopoly of violence) —
-  prime [[the-guild|Guild]] laundering. Full treatment: [[labour-and-order]].
+  above-ground sector) farming **footbees** (a foot long, lethal). Net result is a Hobbesian
+  bargain: workplace death rises but overall mortality falls (less civil war under a monopoly
+  of violence) — prime [[the-guild|Guild]] laundering. Full treatment: [[labour-and-order]].
 
 ## The magic system (hard vs soft, deliberately)
 
@@ -110,8 +110,15 @@ possible* instead of hand-waved.
 > **NAMED — DECIDED: the Hum.** The medium is *the Hum*; to broadcast is to **hum** a
 > thing (lowercase verb, used casually): *"it was hummed across the provinces by
 > nightfall," "she's humming at the seventh hour," "don't say that, we're still
-> humming."* The lowercase ordinariness is the point — a world-remaking technology worn
-> as a verb so common nobody hears it any more. **Voice only — DECIDED** (see below).
+> humming."* Received on a **humbox** (the box in every home). The lowercase ordinariness is
+> the point — a world-remaking technology worn so common nobody hears it any more. **Voice
+> only — DECIDED** (see below).
+>
+> **Naming principle (world aesthetic):** the new regime names world-remaking things **dully
+> and functionally** — *humbox*, *footbee* (the foot-long catalyst bee), the lowercase verb,
+> *muck* vs *guano* — because it absorbs the extraordinary into scenery within a generation.
+> Banalisation is how you know the transformation has *won*. (Footbee also flatly names a
+> danger — the banality of the monstrous.)
 
 **The in-world rationale (keep it Sanderson-legible):** **signal is cheap; power is
 expensive.** Carrying a *message* needs fidelity and reach, not bulk throughput. Magic

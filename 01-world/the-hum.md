@@ -10,6 +10,12 @@ A means of **mass communication — voice only**, carried live to many receivers
 worn so casual nobody hears the marvel any more: *"it was hummed across the provinces by
 nightfall."* Built by the alchemist-mages who failed to reproduce guano's power.
 
+Received on a **humbox** — the receiver in every home and hall (a box that hums). The
+flatness of the name is the point, and it's a **deliberate world-principle**: the new regime
+absorbs the extraordinary so fast it names world-remaking things like furniture (*humbox*;
+the [[labour-and-order|footbee]]; the lowercase verb). The miracle worn down to scenery
+within a generation — banalisation is how you know the transformation has *won.*
+
 ## Why it exists — born from the First Novum's *failure* to be copied
 [[guano|Guano]] displaced the mages; they turned to alchemy to **reproduce its power**,
 and failed — because magic was never going to win on the dwarves' terrain. But **signal
