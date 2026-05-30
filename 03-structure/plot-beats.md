@@ -7,7 +7,7 @@
 | – | *(Scene 1)* | unattributed cold open  | present-day routine collection       |
 | 1 | [[grundrak\|Grundrak]]  | political thriller        | the trials (vindication)             |
 | 2 | [[vesser\|Vesser]] — *I, the elegy* | elegy | the trials (the beginning of the end)|
-| 3 | [[dalla\|Dalla]] — *on air* | broadcast interview (unctuous host) | the public personality, performing "I fell" as charm |
+| 3 | [[dalla\|Dalla]] — *on air* | **broadcast transcript / play-script** (interviewed by [[the-host\|the Host]]) | the public personality, performing "I fell" as charm |
 | 4 | [[the-king\|The King]]  | horror                    | the throne-room coup                 |
 | 5 | [[the-princess\|The Princess]] | conversion / bildungsroman | the strategic marriage; her naturalised conversion |
 | 6 | [[vesser\|Vesser]] — *II, watching [[brask\|Brask]]* | elegy-as-observer narrating the technical sublime | Brask building the Hum |
@@ -19,9 +19,10 @@
 
 **Eleven accounts across nine narrators** (counting Scene 1's prologue separately). Two
 narrators carry **two non-adjacent chapters each** — [[dalla|Dalla]] (on-air persona /
-private monologue) and [[vesser|Vesser]] (his own elegy / observing [[brask]]). **[[brask|
-Brask]] is *not* a POV**: he's the least introspective character, so he is seen from
-outside, in Vesser's second chapter. **[[marga|Marga]]** (the shoveller from Scene 1) is the
+private monologue) and [[vesser|Vesser]] (his own elegy / observing [[brask]]). **Two strong non-POV characters** appear *inside* others' chapters rather than narrating:
+**[[brask|Brask]]** (seen in Vesser's second chapter — too un-introspective to narrate) and
+**[[the-host|the Host]]** (seen in Dalla's on-air transcript chapter — the unctuous
+interviewer who surfaces her front stage). **[[marga|Marga]]** (the shoveller from Scene 1) is the
 newest — the proletarian voice and the human face of the [[the-guild|Guano Guild]], placed
 **right after the Guild's account** so the corporate lie is answered immediately by the
 worker's truth (same institution, opposite truth-values). Numbering is *illustrative order*,

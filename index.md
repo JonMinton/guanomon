@@ -35,10 +35,10 @@ brief is in [[background]]; the orientation is in the [README](README.md).*
 - [[marga]] — the shoveller; the Guano Guild's human face · *working-class realism (the un-genre)*
 - [[the-dragon]] — the source · *undecided / fable-from-outside*
 
-*(**[[brask]]** — the systems-genius who builds the Hum — is **not a POV**: too
-un-introspective to narrate himself, he's seen from outside in Vesser's second chapter.
-The **Guild** likewise supplies a voice but is an institution, filed under World above,
-not a person.)*
+*Non-POV characters (seen inside others' chapters): **[[brask]]** — the systems-genius who
+builds the Hum — in Vesser's second chapter; and **[[the-host]]** — Dalla's unctuous
+interviewer — in her on-air transcript chapter. The **Guild** likewise supplies a voice but
+is an institution (filed under World above), not a person.*
 
 ## Structure
 - [[plot-beats]] — account order, genre map, the two organising rhymes, failure-mode watch-list

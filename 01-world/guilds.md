@@ -16,6 +16,7 @@
 | **Slayers' / Warriors'** | dragon-slaying / heroism | force-projection abroad | [[dern]] | ✓ covered |
 | **Peacekeepers'** *(Slayers' spin-off)* | — (new) | domestic repression of dissent | subplot inside [[dern]] | folded — own face optional |
 | **Sappers'** | dwarven mining / demolition | guano explosives: the coup, [[guano|repotentiation]], [[story-bible|Hummingbird]] ordnance | [[grundrak]] *detonated the coup, but no sapper POV* | **GAP** (strong optional) |
+| **Bards' / Entertainers'** | court praise-singers / story-tellers | broadcast hosts & performers on the [[the-hum|Hum]] | [[the-host]] *(non-POV; in Dalla's chapter)* | ✓ covered (old→new repurposing) |
 | **Beekeepers' / Apiarists'** *(new)* | — | farm the honey catalyst (lethal work) | texture in [[labour-and-order]] | folded — not a POV |
 | **Dwarven logistics** *(slurry / repotentiation / transit)* | mining / tunnelling | pipe slurry, arm it on site, run the subway | [[grundrak]] (broadly) | partial |
 

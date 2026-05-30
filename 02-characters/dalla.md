@@ -8,13 +8,16 @@ across **two non-adjacent accounts** — the public voice and the private one �
 ## Two chapters — the public voice and the private (load-bearing structure)
 Dalla appears **twice**, well apart in the running order:
 
-1. **On air — the interview chapter.** Structured as a broadcast [[story-bible|Hum]]
-   interview, in the manner of a *Radio 4 "This Cultural Life"* segment: a **generic,
-   unctuous host** lobbing reverent questions, and Dalla **sounding confident, warm,
-   self-assured** — the practised public personality. Here the lampshade "I fell" line
-   lands as a *charming, polished anecdote* she has clearly told a hundred times; the
-   audience laughs; nothing underneath shows. The chapter is almost entirely *surface*,
-   and the reader may not yet know how little of it is true to her.
+1. **On air — the interview chapter.** Rendered as a **broadcast transcript / play-script** —
+   the actual [[story-bible|Hum]] artefact as the public consumed it (speaker labels, the
+   Host's patter, *[AUDIENCE LAUGHTER]* cues), in the manner of a *Radio 4 "This Cultural
+   Life"* segment. The interviewer is **[[the-host|the Host]]** — a specific character (see
+   his note), unctuous and sincere, who **surfaces her front-stage persona**: Dalla
+   **confident, warm, self-assured.** Here the lampshade "I fell" line lands as a *charming,
+   polished anecdote* he cues and she has told a hundred times; the audience laughs; nothing
+   underneath shows. The chapter is almost entirely *surface* — formally the opposite of
+   [[marga|Marga's]] back-stage realism — and the reader may not yet know how little of it is
+   true to her.
 2. **Later — the private account, to no one.** Her interior voice, addressed to nobody,
    where the **weary irony** finally shows: **dry wit, long-retrospective**, bitterness
    *largely but not entirely* converted into irony, the grievance still load-bearing
