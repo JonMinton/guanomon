@@ -12,6 +12,19 @@ spent while dwarven power was in the ascendency.
 Her story is an important bridge showing the transition in norms and values as the
 power base moves.
 
+## What wins her over (her conversion is *sensory*, not ideological)
+She is not argued into the new order; she is **seduced by its competence**. The
+decisive detail is the [[story-bible|underground transit — the subway, or something
+very like it]]: a guano-powered railway the dwarves drove through solid rock within a
+generation. To her it is simply *better* — faster, cleaner, more astonishing than
+anything the old court ever managed — and the speed of it is intoxicating. Her father
+sees the same works and reads obsolescence and threat; she rides them and reads the
+future as a place she wants to live. **The infrastructure is the argument**, and she is
+the character who lets it win without resistance. (Dramatise the conversion through
+marvels she *notices and loves* — the transit, the lit tunnels, the pace of building —
+not through speeches about progress. Boxer problem: never let her, or anyone, state the
+industrial-revolution parallel.)
+
 ## Why she matters structurally
 - She is the King's *"child's naturalised deference"* made into a **voice** rather than
   a thing the King merely observes. Where the King experiences the new order as

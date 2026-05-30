@@ -69,6 +69,16 @@ fantasy: the optimal move was never heroism.)
   Doubles as a narrative countdown — the prey (the crews) becomes scarce through the
   *normal operation of the system*, which is what turns the dragon's hunger
   logistical rather than philosophical.
+- **Underground transit (a subway, or something very like one)**: the most legible
+  emblem of **rapid industrialisation**. Built fast — within a generation — through the
+  dwarves' native medium (stone, tunnels), and **guano-powered** (combustion/steam from
+  the same fuel that drives everything else), so the energy novum and the infrastructure
+  are visibly one system. It is industrialisation expressed *as dwarves would naturally
+  express it*: downward, into rock. The pace is the point — a world that did not have
+  this a generation ago now cannot imagine moving without it. [[the-princess|The
+  Princess]] notices it, and it is one of the things that wins her to dwarven culture
+  (see her file). *Keep the allegory carried by the marvel itself — the speed and the
+  ordinariness — never stated (the Boxer problem).*
 
 ## The diabetes mechanism (the hinge)
 
@@ -116,6 +126,9 @@ externality nobody priced in — but it is never stated. The mechanism carries i
   "demonstrated to"?
 - What, precisely, do dragons eat in the husbandry regime, and who supplies it?
   (This determines who profits one tier up from the crews.)
+- **Naming the transit:** what is the underground railway *called* in-world? It wants a
+  dwarven, downward, workmanlike name (not "subway"). Candidates to react to: *the
+  Undercart*, *the Underway*, *the Delvelines*, *the Deeprun*. Decide and record.
 - **Discovery gate — DECIDED:** the lampshade (see **The premise**), and **[[dalla|Dalla]]
   speaks it** — bitter about being uniquely clumsy; the discovery happened only because
   she, alone in three centuries, was careless enough to fall in. It's the *soft*
