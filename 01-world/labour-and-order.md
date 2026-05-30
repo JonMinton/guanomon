@@ -48,4 +48,4 @@ turned on sovereignty — see [[plot-beats|the taxonomy of submission]]).
 > hard/soft-power split runs right through it.
 
 ## See also
-- [[guano]] (slurry / catalyst / wet–dried) · [[above-and-below]] (dwarven activation points) · [[dern]] (the guild fragments) · [[the-guild]] (counts the saved, not the killed) · [[plot-beats]] (taxonomy of submission)
+- [[guilds]] (guild → character map; the principle that guilds are concepts told through people) · [[guano]] (slurry / catalyst / wet–dried) · [[above-and-below]] (dwarven activation points) · [[dern]] (the guild fragments) · [[the-guild]] (counts the saved, not the killed) · [[plot-beats]] (taxonomy of submission)

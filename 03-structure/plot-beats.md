@@ -187,7 +187,13 @@ for Vesser. Track each character's circle in their character file as you draft.
 ## Open structural questions
 - Final account order — lock it after the first two chapters are drafted, not before.
 - Guild: single document vs. accreting interludes.
-- Does Scene 1's crew reappear named in any account, or stay anonymous labour?
+- Does Scene 1's crew reappear named in any account, or stay anonymous labour? *(Live
+  recommendation — see [[guilds]]: develop one of Marga/Aldric/Kael into the **missing
+  proletarian account**, which also gives the faceless [[the-guild|Guano Guild]] a human
+  body. Strongest of the casting gaps.)*
+- **Guild → character coverage:** every guild is a concept told through a person; audit and
+  gaps live in [[guilds]]. Open casting decisions: the **labourer** (recommended) and a
+  **sapper** (strong optional).
 - Where, if anywhere, does the *reader* get more than the sum of the accounts — a
   silent perspective the structure implies but never voices? *(Note: the old "seventh,
   silent perspective" framing predates promoting the [[the-princess|Princess]] to a

@@ -43,6 +43,9 @@ fantasy: the optimal move was never heroism.)
 
 - Collection requires specialisation and proximity to extremely dangerous animals,
   which forces a **guild** structure (hence the title). {Not quite: Guilds pre-existed. Their target changed from the treasure to the Guano} {Second note: there are multiple guilds: the magicians' guild, the adventurers' guild, the sappers' guild, etc. Only the Slayers' guild has no place in the new world... maybe. Maybe they're directed to conquering new territories unwilling to change and be bowled over by the new tech?}
+  - **Guilds are concepts, told through individual characters** — full concept→representative
+    map and casting gaps in [[guilds]]. (Every guild needs a human face; the Guano Guild's
+    own face — a collection-crew labourer — is currently missing.)
   - **Slayers' (Warriors') Guild — RESOLVED:** redirected to **projecting force abroad** —
     subjugating less-advanced neighbours who haven't industrialised, using guano
     firepower. Dragon-*slaying* is now obscene (you don't kill the power source), so the

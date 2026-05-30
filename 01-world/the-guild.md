@@ -7,6 +7,11 @@
 > voice**, but that voice is an *institutional artifact* (a charter, an anniversary
 > address, an aired bulletin), never a human interior. Keep that distinction sharp: when
 > the Guild "speaks," it is a document or a broadcast talking, not a character.
+>
+> **This is the general rule, not a one-off:** *every* guild is a concept; each guild's
+> **human** story is told through an individual representative. See [[guilds]] for the full
+> concept→character map — including the Guano Guild's own missing human face (the
+> collection-crew labourer).
 
 **Voice register (when it narrates):** corporate annual report / official history —
 bureaucratic, smoothing, relentlessly positive; the prose of an institution describing
