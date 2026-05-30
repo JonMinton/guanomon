@@ -37,13 +37,33 @@ and a new *power base* underground.
   ceremonial; the [[the-princess|Princess]] is the human who *chooses to go down* (rides
   the subway, marries below) and is rewarded for it.
 
-## Where the Hum sits (open — worth deciding)
-The hard power went **below** (dwarves, guano), but [[the-hum|the Hum]] is *in the air* —
-it pervades the surface where the human masses still live. So the soft power may be the
-one thing that **crosses the divide**, broadcasting the underground order's story
-*upward* to the people above. Tension worth using: the dwarves own the depths, but the
-mage-built medium owns the sky — and tells the surface what to think about who rules it.
-Decide whether the Hum is "above," "everywhere," or pointedly the bridge.
+## Where the Hum sits — DECIDED: ubiquitous above, *invited* below
+[[the-hum|The Hum]] travels freely **in air**, so it is **ubiquitous above-ground** — it
+saturates the surface the way weather does, reaching every human everywhere with no
+effort. **Below ground it does not naturally carry**: a section of the deep only receives
+the Hum if it has been deliberately wired with **humming conduits** (engineered,
+section by section). *(Model: the London Underground, where radio doesn't penetrate the
+tunnels until leaky-feeder cabling is laid station by station — connectivity below is
+built, partial, and rolled out on purpose.)*
+
+The consequence is a **sharp control/saturation inversion**:
+
+- **The surface (humans, old order) is *bathed* in the Hum** — involuntarily, like air.
+  The masses are the broadcast's *subjects*: flooded with [[the-guild|the official
+  story]] and [[dalla|Dalla's]] manufactured voice, with no say in their own exposure.
+  The medium *pacifies the surface* it cannot help reaching.
+- **The deep (dwarves, new power) is *selectively wired*** — they choose what's
+  conduited, so they are **slower but more deliberate** adopters. Being able to decide
+  where the Hum reaches is itself a form of sovereignty: the rulers curate their own
+  information environment while the dispossessed are saturated by it. **To be off the Hum,
+  go down.** Unwired deep is privacy, security, silence — a dwarven privilege.
+
+So the two novums **only partly overlap.** The soft, mage-built medium owns the *sky*;
+the hard, dwarven power owns the *depths* and admits the Hum only by invitation. The Hum
+crosses the divide **downward, conditionally, under dwarven control** — not as a free
+bridge. Sharpest image of all: the [[the-dragon|Dragon's]] deep chamber, the source of
+the whole economy, is almost certainly **un-wired** — the one place the official story
+never reaches, where the thing the story is *about* lies in Hum-silence.
 
 ## See also
 - [[guano]] · [[the-hum]] · [[the-guild]] · [[story-bible]] (places, infrastructure, timeline)

@@ -159,6 +159,11 @@ by operators who never face the enemy, with an overwhelming asymmetry of power.
 
 ## Infrastructure & embodied detail
 
+- **Humming conduits**: the Hum carries freely in open air (ubiquitous above-ground) but
+  must be *engineered* underground — the deep only receives it where conduits are laid,
+  section by section. So the dwarves adopt the Hum **slowly and selectively**, and
+  "off-Hum" deep zones are a deliberate dwarven privilege. The [[the-dragon|Dragon's]]
+  chamber is likely un-wired. Full treatment: [[above-and-below]], [[the-hum]].
 - **Plumbing**: reinforced around the dragon as she grows heavier. She notices the
   works the way a farm animal notices changes to its pen — without grasping that her
   own weight gain is the cause.

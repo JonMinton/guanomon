@@ -29,6 +29,17 @@ looking for something else. [[brask|Brask]] builds it; [[vesser|Vesser]] misses 
   person and idealises (a monarch's face stays young on the coinage). The myth of a
   person outruns the fact of them, and nobody has to lie.
 
+## Reach — free in air, engineered underground
+The Hum carries **freely through air**, so it is **ubiquitous above-ground** — it
+saturates the human surface effortlessly. It does **not** naturally penetrate the deep:
+underground sections receive it only where **humming conduits** have been laid,
+deliberately, section by section (cf. the London Underground's leaky-feeder cabling).
+This makes the dwarves **slower but more selective** adopters — they decide what gets
+wired — and produces a control/saturation inversion: the surface masses are *bathed* in
+broadcast involuntarily, while the rulers below *curate* their exposure. To be off the
+Hum, go down. See [[above-and-below]] for the full treatment; the [[the-dragon|Dragon's]]
+chamber is likely un-wired — Hum-silence at the very source.
+
 ## Soft novum (deliberately)
 The Hum is the *softer* of the two novums — its inner workings stay a little mysterious
 (resonance, sympathy), where [[guano]] is fully legible. The world runs on **one hard
