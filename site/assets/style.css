@@ -1,0 +1,93 @@
+:root{
+  --ink:#1c1a17; --paper:#f6f1e7; --paper2:#efe7d6; --rule:#d9cdb6;
+  --accent:#7a5c2e; --accent2:#3a5a40; --muted:#6b6258;
+  --maxw:46rem;
+  --c-context:#8d6e63; --c-world:#3a5a40; --c-characters:#9c4221; --c-structure:#2c5d7c;
+  --c-theory:#6b4fa0; --c-root:#777;
+}
+*{box-sizing:border-box}
+html,body{margin:0}
+body{
+  background:var(--paper); color:var(--ink);
+  font:17px/1.6 Georgia,"Iowan Old Style","Palatino Linotype",serif;
+  -webkit-font-smoothing:antialiased;
+}
+a{color:var(--accent); text-decoration:none}
+a:hover{text-decoration:underline}
+code{font-family:ui-monospace,Menlo,Consolas,monospace; font-size:.86em; background:#0001; padding:.05em .3em; border-radius:3px}
+
+/* ---- top bar ---- */
+.topbar{
+  display:flex; align-items:center; justify-content:space-between; gap:1rem;
+  padding:.7rem 1.2rem; border-bottom:1px solid var(--rule);
+  position:sticky; top:0; background:var(--paper); z-index:10;
+}
+.brand{font-weight:700; letter-spacing:.02em}
+.modes a{
+  padding:.3rem .7rem; margin-left:.3rem; border-radius:999px;
+  color:var(--muted); font-size:.92rem;
+}
+.modes a.active{background:var(--ink); color:var(--paper)}
+
+.view{max-width:var(--maxw); margin:0 auto; padding:2rem 1.2rem 4rem}
+.view.experiment{max-width:64rem}
+
+/* ---- story mode ---- */
+.story-title{font-size:2.6rem; margin:.2rem 0 .4rem; letter-spacing:.01em}
+.story-sub{font-style:italic; color:var(--muted); margin:0 0 1rem}
+.story-note{color:var(--muted); font-size:.95rem; border-left:3px solid var(--rule); padding-left:1rem}
+.story-hero{border-bottom:1px solid var(--rule); padding-bottom:1.5rem; margin-bottom:1.5rem}
+.chapter.placeholder{margin:1.5rem 0 2.5rem}
+.dropcap::first-letter{
+  float:left; font-family:"Apple Chancery","Snell Roundhand","Brush Script MT",cursive;
+  font-size:4.4rem; line-height:.8; padding:.1rem .55rem .1rem 0; color:var(--accent);
+}
+.excerpt-label{color:var(--muted); font-size:.85rem; font-style:italic}
+.toc h2{font-size:1.2rem; border-bottom:1px solid var(--rule); padding-bottom:.3rem}
+.toc ol{padding-left:1.2rem}
+.toc li{margin:.5rem 0}
+.toc .genre{color:var(--muted); font-style:italic; font-size:.9em}
+.toc .soon{color:#a99; font-size:.78em; text-transform:uppercase; letter-spacing:.08em; margin-left:.4rem}
+.toc-foot{color:var(--muted); font-size:.85rem; font-style:italic}
+
+/* ---- experiment mode ---- */
+.subnav{display:flex; gap:.3rem; border-bottom:1px solid var(--rule); margin-bottom:1.2rem}
+.subnav a{padding:.45rem .9rem; color:var(--muted); border-bottom:2px solid transparent}
+.subnav a.active{color:var(--ink); border-bottom-color:var(--accent)}
+.lede{font-size:1.15rem}
+.todo{background:#fde68a; color:#7c5c00; padding:0 .35em; border-radius:3px; font-size:.85em}
+.about-links{color:var(--muted); font-size:.95rem}
+
+.graph-hint{color:var(--muted); font-size:.9rem; margin:.2rem 0 .8rem}
+#graph{height:68vh; min-height:420px; border:1px solid var(--rule); border-radius:8px; background:var(--paper2)}
+.legend{display:flex; flex-wrap:wrap; gap:.8rem; margin-top:.7rem; font-size:.85rem; color:var(--muted)}
+.legend span{display:inline-flex; align-items:center; gap:.35rem}
+.legend i{width:.8rem; height:.8rem; border-radius:50%; display:inline-block}
+
+.notes-layout{display:grid; grid-template-columns:16rem 1fr; gap:1.4rem}
+.notes-list input{width:100%; padding:.45rem .6rem; border:1px solid var(--rule); border-radius:6px; background:var(--paper); font:inherit; margin-bottom:.6rem}
+#note-index{font-size:.92rem; max-height:70vh; overflow:auto}
+#note-index .grp{margin:.6rem 0 .2rem; font-size:.72rem; text-transform:uppercase; letter-spacing:.08em; color:var(--muted)}
+#note-index a{display:block; padding:.2rem .3rem; border-radius:5px; color:var(--ink)}
+#note-index a:hover{background:#0001; text-decoration:none}
+#note-index a.active{background:var(--ink); color:var(--paper)}
+.note-reader{min-width:0; border-left:1px solid var(--rule); padding-left:1.4rem}
+.note-reader.raw pre{white-space:pre-wrap; word-wrap:break-word; font-size:.82rem; background:var(--paper2); padding:1rem; border-radius:8px}
+.note-reader h1{font-size:1.7rem; margin-top:0}
+.note-reader table{border-collapse:collapse; font-size:.9em; display:block; overflow:auto}
+.note-reader th,.note-reader td{border:1px solid var(--rule); padding:.3rem .5rem; text-align:left}
+.note-reader blockquote{border-left:3px solid var(--rule); margin:.8rem 0; padding:.2rem 1rem; color:var(--muted)}
+.note-reader a.wikilink{border-bottom:1px dotted var(--accent)}
+.note-reader a.wikilink.dangling{color:#b00; border-bottom-style:dashed}
+.reader-bar{display:flex; gap:.6rem; align-items:center; margin-bottom:.8rem; font-size:.85rem}
+.reader-bar .crumb{color:var(--muted)}
+.reader-bar button{font:inherit; font-size:.82rem; padding:.2rem .6rem; border:1px solid var(--rule); background:var(--paper); border-radius:6px; cursor:pointer}
+.muted{color:var(--muted)}
+
+.sitefoot{border-top:1px solid var(--rule); padding:1rem 1.2rem; color:var(--muted); font-size:.82rem; text-align:center}
+
+@media (max-width:680px){
+  .notes-layout{grid-template-columns:1fr}
+  .note-reader{border-left:0; padding-left:0; border-top:1px solid var(--rule); padding-top:1rem}
+  .modes a{padding:.3rem .55rem}
+}
