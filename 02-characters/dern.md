@@ -44,6 +44,35 @@ by the automation that will make *him* unnecessary to killing.
   [[story-bible|Hummingbirds]] may
   take even it. War without soldiers. He will be obsolete in the one thing left to him.
 
+## The firepower levelling (a plot point — protect this)
+Guano firepower **abolishes physical strength as the warrior's metric.** When killing
+is a matter of ordnance, not muscle, the old basis of martial worth collapses — and Dern
+is forced to **admit women as equal slayers**, selected on *firepower potential and
+aptitude*, not the strongman's frame the guild always recruited for. He does the
+arithmetic and cannot fault it; the gun does not care who holds it. **And yet he still
+deeply romanticises the older, direct, strength-based warfare** — the duel, the charge,
+the body as the weapon. He administers the new meritocracy of firepower while privately
+mourning the very hierarchy it dissolved. That gap — *acting on the new logic while
+grieving the old* — is the live drama of his arc, and it should never resolve cleanly.
+
+**The Maxim-gun / cavalry parallel (authorial source).** This maps directly onto Jon's
+essay *"The Analytical Maxim Gun"* (blog, 2025-11-29; `../quarto-blog/jon-blog/posts/analytical-maxim-gun/`),
+after David Olusoga: the Maxim gun made *training, temperament and strength matter much
+less, logistics much more*, and powered colonial conquest against less-advanced peoples
+(Dern's "projecting force abroad"). The European elites kept **valorising cavalry — the
+romantic "apex warrior" — long after they had themselves rendered it redundant**:
+"doublethink… continuing to heroize and valorise traditions they themselves had rendered
+redundant." *That self-deceit is exactly Dern's blind spot.* Lift the structure, not the
+specifics (Boxer guard: no horses-and-machine-guns on the page; let guano firepower carry
+it).
+
+- **The deeper, unspoken irony** (the essay's real thesis, kept buried for the reader):
+  the elites never internalised that the asymmetry would *eventually apply to them too* —
+  which is how you get the Great War. For Dern: the overwhelming firepower edge feels
+  permanent and one-directional, but it isn't. The [[story-bible|Hummingbirds]] are the
+  next turn of the same screw — the technology that displaced the strongman is about to
+  displace the *gunner.* He senses it without being able to think it.
+
 ## What he's structurally blind to
 - **That the heroism he mourns was always the lie the novum merely exposed.** Slaying
   dragons was *always* ecological vandalism dressed as valour — the world just hadn't

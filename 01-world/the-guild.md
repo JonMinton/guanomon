@@ -1,10 +1,28 @@
-# The Guild — the institutional voice
+# The Guild — institution (not a character)
 
-**Account genre:** corporate annual report / official history
-**Register:** bureaucratic, smoothing, relentlessly positive; the prose of an
-institution describing itself.
+> **Filed under `01-world/`, not `02-characters/`: the Guild is a world-entity, not a
+> person.** It is an *institution* — the apparatus that runs guano collection,
+> processing and distribution — alongside [[guano]] (the First Novum), [[the-hum]] (the
+> Second Novum) and the [[above-and-below]] order. It nonetheless supplies a **narrating
+> voice**, but that voice is an *institutional artifact* (a charter, an anniversary
+> address, an aired bulletin), never a human interior. Keep that distinction sharp: when
+> the Guild "speaks," it is a document or a broadcast talking, not a character.
 
-## Role in the system
+**Voice register (when it narrates):** corporate annual report / official history —
+bureaucratic, smoothing, relentlessly positive; the prose of an institution describing
+itself.
+
+## What it is, in the world
+The dominant institution of the new order: it owns the [[guano]] supply chain end to
+end, sets the [[story-bible|Dalla]] as a unit, schedules collection, licenses the crews,
+and (with [[the-hum|the Hum]]) controls the official story. Where [[grundrak|Grundrak]]
+holds *political* power and the dwarves hold the [[above-and-below|underground]], the
+Guild is the *administrative* layer that makes the energy economy run and narrates itself
+as progress. *(Worldbuilding open question: relationship between the Guild and the older
+pre-existing guilds — magicians', adventurers', sappers', slayers'. Is "the Guild" one
+body or the victorious umbrella over them? See [[story-bible]] energy-economy note.)*
+
+## Role as a voice in the system
 Not a person but a **voice** — the Guild's official account of itself. Its narrative
 job is the **normalisation montage**: to take every conflict in every other chapter
 and resolve it into a tidy progress narrative.

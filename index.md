@@ -12,6 +12,10 @@ brief is in [[background]]; the orientation is in the [README](README.md).*
 
 ## World
 - [[story-bible]] — single source of truth: premise, economy, magic, infrastructure, timeline, open questions
+- [[guano]] — **the First Novum** (energy); the cause from which everything follows
+- [[the-hum]] — **the Second Novum** (mass communication / voice broadcast); the mages' real legacy
+- [[the-guild]] — the institution that runs the energy economy (a world-entity, not a character)
+- [[above-and-below]] — the human (above) / dwarf (below) vertical power axis; the First Novum inverted it
 
 ## Theory (research-backed)
 - [[genre-theory]] — novum & cognitive estrangement (Suvin); SF vs fantasy; hard/soft magic (Sanderson); the **bridge thesis**
@@ -26,8 +30,10 @@ brief is in [[background]]; the orientation is in the [README](README.md).*
 - [[the-king]] — the deposed sovereign · *horror*
 - [[the-princess]] — old money converted to new · *conversion / bildungsroman*
 - [[dern]] — the slayer made butcher; the Warriors' Guild · *war confession*
-- [[the-guild]] — the institutional voice · *corporate annual report*
 - [[the-dragon]] — the source · *undecided / fable-from-outside*
+
+*(The **Guild** also supplies a narrating voice — corporate annual report — but it is an
+institution, filed under World above, not a person.)*
 
 ## Structure
 - [[plot-beats]] — account order, genre map, the two organising rhymes, failure-mode watch-list

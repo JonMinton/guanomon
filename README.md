@@ -36,20 +36,33 @@ guanomon/
 ├── 00-context/
 │   ├── prior-iterations.md           ← story material carried over from the chat
 │   └── critique-and-direction.md     ← the determinism problem + why Rashomon
-├── 01-world/
-│   └── story-bible.md                ← worldbuilding, economics, magic, timeline
-├── 02-characters/
+├── 01-world/                         ← the world and its in-world entities
+│   ├── story-bible.md                ← single source of truth: economics, magic, timeline
+│   ├── guano.md                      ← the First Novum (energy)
+│   ├── the-hum.md                    ← the Second Novum (mass communication)
+│   ├── the-guild.md                  ← the institution (not a character)
+│   └── above-and-below.md            ← the human/dwarf vertical power axis
+├── 02-characters/                    ← the people (accounts/voices)
 │   ├── grundrak.md                   ← dwarf empiricist (political thriller)
 │   ├── vesser.md                     ← displaced mage (elegy)
-│   ├── dalla.md                      ← the accidental discoverer (satire of commemoration)
+│   ├── brask.md                      ← alchemy-native systems-genius; builds the Hum
+│   ├── dalla.md                      ← the accidental discoverer (split across two chapters)
 │   ├── the-king.md                   ← the deposed sovereign (horror)
-│   ├── the-dragon.md                 ← the source (something that hasn't picked a genre)
-│   └── the-guild.md                  ← the institutional voice (corporate annual report)
+│   ├── the-princess.md               ← old money converted to new (bildungsroman)
+│   ├── dern.md                       ← the slayer made butcher (war confession)
+│   └── the-dragon.md                 ← the source (something that hasn't picked a genre)
 ├── 03-structure/
 │   └── plot-beats.md                 ← account order, genres, rhymes, open questions
-└── 04-chapters/
-    └── _chapter-template.md          ← copy this per account as you draft
+├── 04-chapters/
+│   └── _chapter-template.md          ← copy this per account as you draft
+└── 05-theory/                        ← research-backed craft notes
+    ├── genre-theory.md               ← novum, cognitive estrangement, hard/soft magic
+    └── discovery-gating.md           ← "why now, not centuries earlier?"
 ```
+
+> **Note on `the-guild`:** it lives in `01-world/`, not `02-characters/` — the Guild is
+> an *institution*, not a person. It supplies a narrating voice, but that voice is an
+> institutional artifact (a charter, an aired bulletin), never a human interior.
 
 The numeric prefixes keep the reading order stable and let `00-context` /
 `01-world` float to the top of a file listing, which is where you'll be looking

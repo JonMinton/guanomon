@@ -7,6 +7,12 @@ the accounts from silently contradicting one another.
 > **See also:** [[genre-theory]] (guano-as-**novum**; the hard/soft magic argument the
 > magic system below rests on) and [[discovery-gating]] (the "why now, not centuries
 > earlier?" problem — bears directly on the **premise** and **timeline** below).
+>
+> **World-entity notes** (the in-world *things*, each with its own home; this bible
+> stays the single source of truth for mechanics & timeline): [[guano]] (First Novum) ·
+> [[the-hum]] (Second Novum) · [[the-guild]] (institution) · [[above-and-below]] (the
+> vertical power axis). The First Novum gave rise to *both* the Hum *and* the above→below
+> inversion — see those notes.
 
 ---
 
