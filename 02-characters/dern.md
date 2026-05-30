@@ -28,6 +28,22 @@ who haven't industrialised, with guano firepower (the "demonstrations" the
 [[the-king|King's]] colonial-expansion beat refers to). See [[story-bible]] (guilds /
 Hummingbirds).
 
+## The guild fragments — and the Peacekeepers (subplot)
+The displaced warriors don't find *one* new role; they **splinter into two degraded forms
+of the old heroism**, and Dern's chapter can hold both:
+- **Force-projection abroad** — Dern's own branch; the remote butcher (above).
+- **The Peacekeepers** — a **spin-off guild** turned *inward*, suppressing the
+  [[labour-and-order|dissent the upheaval breeds]] (displaced trades, lethal new work, an
+  inverted order). They are at times **quite violent** about it — the Leviathan's domestic
+  fist. The bitter circuit: **the displaced policing the displaced.** Warriors made obsolete
+  by the change now beating the people aggrieved by the same change.
+
+Neither branch is heroic — one is remote slaughter of the weak abroad, the other is
+truncheoning the discontented at home. Dern's feeling *about* the Peacekeepers is live
+material: does he envy them (at least they fight *people who fight back*), despise them
+(thugs, not warriors), or quietly recognise himself in them (both are the old valour
+rotted into mere force)? Full social context: [[labour-and-order]].
+
 ## Arc (a double displacement)
 Heroism → obsolescence (the dragon role dies) → consolation role (remote force-projection
 abroad) → the dawning fear that **even this last role is ending** (Hummingbirds). He is

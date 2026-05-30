@@ -17,6 +17,7 @@ brief is in [[background]]; the orientation is in the [README](README.md).*
 - [[the-guild]] — the institution that runs the energy economy (a world-entity, not a character)
 - [[above-and-below]] — the human (above) / dwarf (below) vertical power axis; the First Novum inverted it
 - [[dragons]] — the species/herd (vs [[the-dragon]] the narrator): longevity, the golden cages, the resource's hidden fragility, and the project's biggest open ending
+- [[labour-and-order]] — the reorganised economy (dwarven slurry-works, apiaries) and the monopoly of violence (the Hobbesian trade-off; the Peacekeepers)
 
 ## Theory (research-backed)
 - [[genre-theory]] — novum & cognitive estrangement (Suvin); SF vs fantasy; hard/soft magic (Sanderson); the **bridge thesis**

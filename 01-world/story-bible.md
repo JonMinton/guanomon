@@ -48,7 +48,9 @@ fantasy: the optimal move was never heroism.)
     firepower. Dragon-*slaying* is now obscene (you don't kill the power source), so the
     guild's entire heroic premise is dead; force-projection is the consolation role, and
     even it is threatened by [[story-bible|Hummingbirds]].
-    Given a full account: see [[dern]].
+    Given a full account: see [[dern]]. It also **spins off a Peacekeepers' Guild** that
+    turns *inward* — violently suppressing the dissent the upheaval breeds. See
+    [[labour-and-order]].
 - Geopolitics reorganises around dragon territory: not conquest but **land rights,
   grazing disputes, breeding programmes**.
 - **The "Dalla"** — the unit of energy output, named after the woman whose
@@ -69,6 +71,12 @@ fantasy: the optimal move was never heroism.)
   Hummingbirds) is not hand-waved: the **alchemists' characterisation** of the
   [[guano|catalyst/confluence]] is what lets it be *tuned* between the two. Control is an
   achievement, not a given. See [[guano]] (the catalyst) and the magic-system note above.
+- **Logistics & the reorganised labour market.** Transport guano **wet/inert** (slurry,
+  piped underground by the dwarves) and **repotentiate** it (dry + compress) at controlled
+  activation points — *move it wet, arm it dry.* The honey catalyst spawns **apiaries** (new
+  above-ground sector; the bees are lethal). Net result is a Hobbesian bargain: workplace
+  death rises but overall mortality falls (less civil war under a monopoly of violence) —
+  prime [[the-guild|Guild]] laundering. Full treatment: [[labour-and-order]].
 
 ## The magic system (hard vs soft, deliberately)
 

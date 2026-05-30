@@ -96,6 +96,13 @@ Three characters, three mechanisms, one system:
 Hard power (the King) rhymes against soft power (Dalla, the Dragon). The system
 doesn't need to choose one mode; it uses whichever fits the subject.
 
+> **Scaled up, this is the whole order's structure** (see [[labour-and-order]]): a
+> **monopoly of violence** with two faces — a **fist** (guano firepower, the
+> [[story-bible|Hummingbirds]], the [[dern|Peacekeepers]]) and a **voice** (the
+> [[the-hum|Hum]], [[dalla|Dalla's]] celebrity, the [[the-guild|Guild's]] myth). Hard power
+> and soft power aren't just two characters' fates — they're the two arms of the Leviathan,
+> and the hard/soft-magic axis runs right through the politics.
+
 ### 3. The taxonomy of submission, extended — where the Princess fits
 The King / Dalla / Dragon triad is *submission*. The [[the-princess|Princess]] is the
 fourth term the system produces once submission is complete: **assimilation**. She

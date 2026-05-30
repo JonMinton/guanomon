@@ -21,6 +21,12 @@ extraction and processing — so power drains *downward*, from the old surface o
 subterranean one. The dwarves don't climb up to rule; **the world's centre of gravity
 drops to meet them.**
 
+Concretely, the dwarves own the supply chain's underground layer: they pipe inert
+**slurry** ([[guano|wet muck]]) through tunnels and **repotentiate** it — dry and compress
+it into fuel/explosive — at chosen **activation points** below ground (see
+[[labour-and-order]]). Power isn't just *located* below now; the very act of *arming* the
+economy's energy happens down there, under dwarven control.
+
 This is one of the **two things the First Novum produced** (the other being
 [[the-hum|the Hum]]). Together they are the whole revolution: a new *medium* in the air
 and a new *power base* underground.

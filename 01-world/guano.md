@@ -109,6 +109,15 @@ clothes burned."* The catalyst is the alchemists' *later* finding — which also
 early attempts to reproduce or store guano were dangerous and inconsistent. Deliver casually;
 never lecture.
 
+## Supply chain — move it wet, arm it dry (and the labour it makes)
+The wet/dried gate isn't just chemistry trivia; it's the **logistics of the whole economy.**
+You transport guano in its **inert, wet form** (slurry) — safe to pipe — and **repotentiate**
+it (dry + compress) only at the point of use. The [[above-and-below|dwarves]] own this layer:
+slurry through underground pipes, drying/compression at controlled **activation points**.
+Meanwhile the honey catalyst (above) spawns **apiaries** above ground — a whole new
+agricultural sector (with its own new, lethal hazards). The substance's two states thus organise the labour market, the danger,
+and the geography of power. Full treatment: [[labour-and-order]].
+
 ## The resource base is *alive* (the hidden fragility)
 Guano looks like a stock to be mined, but its source is a **population of living,
 intelligent agents** ([[dragons]]). That changes the scarcity from *depletion* (slow,

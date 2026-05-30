@@ -40,6 +40,12 @@ accounts, reads every smooth sentence against the cost it conceals.
   measure. The mages "transitioning" into alchemy. The dragon "well cared for."
 - Founder-myth versions of the discovery (Dalla as discoverer, not faller) and of the
   coup (a "reorganisation of governance," perhaps).
+- **Mortality laundering** (its sharpest single trick — see [[labour-and-order]]): it
+  trumpets the *wars not fought* and the falling death rate, and never counts the apiary
+  stings, the drying-station blasts, or the [[dern|Peacekeepers']] truncheons. Net mortality
+  really *is* down — which is exactly what makes the lie so clean: a true statistic concealing
+  a redistributed, recategorised death. "Lives saved" in the headline; the new dead in no
+  column at all.
 
 ## Its delivery system (the irony tightens)
 The Guild's account is not a document mouldering in an archive — it is **aired**, on the
