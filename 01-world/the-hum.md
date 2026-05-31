@@ -72,6 +72,34 @@ decisive that *whoever the system corners reaches for it*; the novum **recurs** 
 pressure recurs. That recurrence is a determinist point, not a coincidence — same pressure,
 same answer, different species. See [[dragons]].
 
+## The murmur — the dragons' register-counterpart (rev. 2026-05-31)
+The dragons' version has its own name: **the murmur**. It is the Hum's opposite in every
+load-bearing dimension, and the contrast **mirrors the two political orders**:
+
+- **The Hum is air-borne, high-frequency, *broadcast*** — one warm voice flung outward to
+  many passive receivers ([[dalla|Dalla]] is the unit). It is **centralised**: the
+  Leviathan's voice, a single source and a crowd of listeners.
+- **The murmur is rock-borne, deep / low-frequency, *emergent and leaderless*.** No source,
+  no conductor, no broadcaster. Each dragon merely **senses the others**; coordination
+  wheels out of that mutual awareness the way a **starling murmuration** does — no centre,
+  no commander, **uncommandable**. *You cannot break the wings of a pattern.*
+
+This is why the defection at the end **cannot be ordered** — there is no one to order it. It
+can only *emerge*, which is exactly what keeps the ending **cold and unconfirmed**: a
+decentralised order has no spokesperson to promise anything.
+
+**The Brask irony (rev. 2026-05-31).** [[brask|Brask's]] **Hummingbird swarm-coordination** —
+many devices each listening only to the **few nearest them** on a graded pitch-ladder,
+producing "a large coordinated motion with almost no one directing it" — is **unknowingly
+the same murmuration principle** as the dragons' murmur. He reinvents the dragons'
+escape-mechanism and fits it to a weapon, never recognising that the leaderless pattern he
+has weaponised above is the very thing that will slip the leash below.
+
+**Brask is the (uncredited) inventor of the Hum** and co-designer of the Hummingbirds; see
+the credit note in [[brask]] and [[guilds]]. The line "[[brask|Brask]] builds it" above is
+the literal truth the world never records — the Guild credits "the guilds"; the public
+attaches the Hum to [[vesser|Vesser]] (its populariser) and [[dalla|Dalla]] (the unit).
+
 ## See also
 - [[story-bible]] — the second-novum section + timeline (SSOT)
 - [[guano]] · [[above-and-below]] · [[dragons]] · [[brask]] · [[dalla]] · [[the-guild]]

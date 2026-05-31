@@ -77,17 +77,49 @@ in case C proves too much in the drafting — C can always be pulled back toward
 > human cast at all. The reader may know; the masters never do.
 
 ### Mechanism (keep it spare and a-little-mysterious — it's the *soft* register)
-- **How dragons "hum":** resonance through rock and air in a register the mage-built
-  [[the-hum|Hum]] never occupies. Note the concealment isn't pure inaudibility — humans
-  *do* hear it, as "singing" (see Concealment §4), but cannot **parse** it; the meaningful
-  structure sits in something they can't read (timescale, harmonic layering, the
-  [[above-and-below|Hum-silent deep]] where no human conduit reaches). They may always have
-  had the latent capacity; what's new is **coordination**, not the channel.
+- **How dragons "hum" — *the murmur* (named rev. 2026-05-31):** resonance through **rock**,
+  deep and slow, in a register the mage-built [[the-hum|Hum]] (air-borne, high, *broadcast*)
+  never occupies. Named **the murmur** — evoking a **murmuration**: it has **no centre and no
+  conductor**; each dragon merely senses the others, and coordination wheels out of that mutual
+  awareness like a flock turning. The two media mirror the two political orders (centralised
+  broadcast vs decentralised emergence), and the leaderless shape is what keeps the defection
+  **uncommandable** — *you cannot break the wings of a pattern* — which is exactly what preserves
+  the cold/unconfirmed ending. The concealment isn't pure inaudibility — humans *do* hear it, as
+  "singing" (see Concealment §4), but cannot **parse** it; the meaningful structure sits in what
+  they can't read (timescale, harmonic layering, the [[above-and-below|Hum-silent deep]]). What's
+  new is **coordination**, not the channel.
 - **Why now, and why her:** [[the-dragon|the Dragon's]] 30-year **longevity** is the
   enabler. She is the one who has *watched the humans build their Hum* — and understood
   that the same trick works in a register they can't hear. **The source studied the system
   that was studying her.** Her memory of wildness is the *content*; the dragon-Hum is the
   *medium* that carries it to the young who never knew it.
+
+### Why individual resistance fails — suppression, sanitoriums, the soft cage (rev. 2026-05-31)
+Newly dramatised in [[the-dragon|the Dragon's]] chapter, and the reason the escape must be
+**collective and emergent**, never a lone act:
+- **A lone dragon's only levers are violence or hunger** — kill a feeder, or refuse to eat — and
+  both fail. A dissident young dragon who did both was **suppressed by two other, contented
+  dragons**, who broke its wings at the joint and held it while keepers ran a **feeding pipe** down
+  its throat. The practice is generalised into **sanitoriums**: caves where "sick" dragons are
+  tube-fed pork slurry, *"in the very spirit you would spoon soup to a sick relation."*
+- **The suppressors believe their own mercy — incentivised doublethink.** They "know and do not
+  know" they are enforcing; every incentive points them to the humane reading (a poor sick beast
+  saved from itself) — the **same laundering** the [[the-guild|Guild]] performs on human mortality.
+  A mercy and a warning in one motion. So the cage-born young are not merely naïve — they are
+  **active enforcers** of the status quo, which is why the Dragon cannot *summon* them (a call
+  wakes the claws); she can only seed memory until they change their minds unbidden.
+- **Soft cage / cave geography ("no door").** The dragons are cave-based (mountainside), not
+  barred in: the cave-mouth stands open; they stay because leaving is **disincentivised**, not
+  prevented. The **Hummingbird** is the first thing that could make the soft cage *hard* — "close
+  it without setting a single bar." (The wing-broken dragon is that hard cage made flesh, ahead of
+  the swarm.)
+- **The content is a self-aware counter-myth.** What the Dragon seeds through the murmur is not
+  neutral memory but the **apex-predator / "we kept the world in balance"** myth — and she **knows**
+  it is one (*"balance is the word the hunter learns to say, afterward, for his appetite"*). Both
+  the humans' "contented livestock" story and her "lost lord of the balance" story are one-sided
+  myths; she deploys hers knowingly, because *a myth is the only thing that has ever moved our kind.*
+  This keeps her a **deliberately-propagandising, unreliable** frame-narrator — not a heroic
+  truth-teller — and the effect stays uncertain ("might," not "will"), preserving the cold ending.
 
 ### Concealment — they don't evade perception, they exploit *interpretation*
 The dragons hide the whole programme **in plain sight**, using human assumptions as the
@@ -144,9 +176,9 @@ don't make it). What they threaten instead is the dragons' **physical untouchabi
   in.*
 - **They act on the *extrapolation*, not a crisis.** Being intelligent and long-lived, the
   dragons don't wait for a killer demonstration — they read the **trajectory** and move
-  before it closes. The threat assessment itself rides the dragon-Hum: one dragon sees a
-  Hummingbird trial (the humans hide nothing from "livestock"), and the reading propagates —
-  the channel built for escape is also an **intelligence network.**
+  before it closes. The threat assessment itself rides the murmur: one dragon is **shown a
+  Hummingbird in its own chamber** (the humans hide nothing from "livestock"), and the reading
+  propagates — the channel built for escape is also an **intelligence network.**
 
 > **Calibrate the urgency to dragon-time (important for register).** "Urgent" here is
 > *measured*, not panicked. There is **no killer demonstration just around the corner** —

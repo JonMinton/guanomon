@@ -21,6 +21,19 @@ out to get — and that completion is the trap.
 - Class: he reads the mages' resistance as guild self-protection, and his own rise
   as overdue justice. A Marxist framing without the vocabulary.
 
+## Self-image — the brick (rev. 2026-05-31)
+He thinks of himself as a **brick**: roughly five feet tall, five wide, four deep —
+**brain-and-brawn fused**, "the wall that holds the hall up." Somebody meant *brick* as an
+insult once; he **kept it gladly**. Tied to a **romanticised dwarven foundational role**:
+dwarves are the load-bearing course everyone stands on and nobody thanks.
+
+## Class resentment — inherited, not fully introspected (rev. 2026-05-31)
+His grievance is **older than he is** and he hasn't fully examined it. The conviction: under
+the old regime the mages — arcane artisans — were **over**rated and the dwarves
+**under**rated, and he is simply settling a **300-year mispricing**. He frames it as pure,
+objective **assay** — just reading the true value off the ore — but the **grievance leaks**
+through the objectivity. He does not see that the "assay" is also a settling of scores.
+
 ## What he's structurally blind to
 - **The hollowness of his win.** On the throne, having proved everything, the
   satisfaction is enormous and already fading. He doesn't want the throne; he wants
@@ -28,6 +41,15 @@ out to get — and that completion is the trap.
   the master's house to dismantle the master's house. He cannot see this; the King
   can (see [[the-king]]), and notes that Grundrak *sat in the chair* — the one
   tell that the hierarchy still owns him.
+
+## Placement & vantage — early (rev. 2026-05-31)
+His account sits **early** in the book and is narrated from an **early vantage**: the
+**first-novum discovery + the stamp-trials**, **before the coup and before the [[the-hum|Hum]]**.
+His **later** acts — the coup, the throne, the foreign "demonstrations" — reach the reader
+**through other narrators** (the [[the-king|King]], [[garran|Garran]], the [[the-princess|Princess]]),
+not through him. **De-anachronise accordingly:** from his vantage there is **no [[dalla|Dalla]]-unit
+or hat, no dragon-tasters, no "hum" as a verb** — all of these postdate him; keep them out
+of his chapter.
 
 ## Key beats (where his arc peaks)
 - The trials — his vindication, the chapter's climax.
@@ -43,6 +65,15 @@ reads as menace, not mystery.
 ## Voice notes
 - Concrete, materials-first metaphors (ore, assay, load, charge).
 - Contempt expressed as precision, not heat.
+- **Register — write him "worse" on purpose (rev. 2026-05-31).** Deliberately
+  **earthy / blunt / folksy-oral**: contraction-heavy, **hammering repetition**, plain
+  working diction, less polished than the rest. The point is **contrast with Vesser's
+  elevated lyricism** — the book now splits **high-register** narrators ([[the-king|King]],
+  [[vesser|Vesser]], [[the-dragon|Dragon]]) from **low / plain-register** ones (Grundrak,
+  [[brask|Brask]], [[marga|Marga]]). (Brask gets a parallel "write worse" treatment: flat,
+  clipped, de-contracted, socially stilted — same low-register family, different flavour.)
+- **Keep ONE earned polished spike**: the chair line — *"even I would climb over the gold to
+  reach it"* — lands harder for rising out of the plainness around it.
 
 ## Open questions
 - How much of the hollowness does *he* articulate vs. how much only the reader sees?

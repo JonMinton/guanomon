@@ -1,9 +1,11 @@
 # Brask — the alchemy-native mage
 
-> **Not a POV narrator — observed from outside.** Brask is the **least introspective
-> character in the book**, so he gets *no* first-person account; his story is told through
-> someone else's eyes — **[[vesser|Vesser's second chapter]]** (decided 2026-05-30). What
-> follows is a character study to write *him* from, not a voice he narrates in.
+> **NOW A POV NARRATOR** *(rev. 2026-05-31; reverses the earlier non-POV call).* Brask narrates
+> the **penultimate chapter** (`04-chapters/11-brask.md`) — a flat, un-introspective
+> *technological-progress account* in which the obliviousness **is** the characterisation. He is
+> still **observed from outside** in [[vesser|Vesser's second chapter]] (the Hum's dawn); that
+> chapter now **sets up** his inside view rather than being the sole window onto him. The study
+> below still holds as the source for his temperament — written *from*, and now also *as*, him.
 
 **Subject-matter / mode (as seen in Vesser's chapter):** the technical sublime — Brask
 treats the [[the-hum|Hum]] the way a coder treats a beautiful build, affect reserved
@@ -84,12 +86,41 @@ can't see the categories.
 - Keep him likeable. A monstrous-builder caricature would let the reader off the hook;
   his decency-plus-blindness is the unsettling part.
 
+## His own chapter — the technological-progress account (rev. 2026-05-31)
+Brask now narrates the penultimate chapter. It is a *technical* account, not a reflective one:
+he is mildly aggrieved that nobody lets him talk engineering, finds the famous Hum a dull
+"footnote," and treats every milestone as a problem solved. The horror is supplied by the
+reader, not by him.
+- **Voice register: written *"worse"* on purpose** — flat, clipped, de-contracted, precise,
+  socially stilted (technical observations fluent, social ones baffled: *"I do not understand
+  that. I have stopped expecting it to change"*). Part of the book's deliberate high/low register
+  split — he, [[grundrak|Grundrak]] and [[marga|Marga]] are the plain voices against the lyrical
+  [[the-king|King]] / [[vesser|Vesser]] / [[the-dragon|Dragon]]. A couple of earned spikes kept
+  (*"the cleanest thing I have ever built"*).
+- **He builds both novums, and is publicly uncredited.** The chapter makes clear the Hum and the
+  Hummingbird steering are both his; the Guild credits "the guilds," the public credits
+  [[vesser|Vesser]] and [[dalla|Dalla]], and Brask cannot make himself mind. This rhymes him into
+  the book's spine of uncredited makers ([[marga|Marga]], the [[the-dragon|Dragon]]).
+- **[[korrin]]** — the dwarf fuel-engineer; the one person Brask registers (competence is the
+  only social category he can see). Brask's fork-guidance + Korrin's controlled guano = the early
+  **Hummingbirds**. A separate younger dwarf, deliberately *not* [[grundrak|Grundrak's]] line.
+- **The dragon-bridge throwaway:** asked whether one could be made to bring down "the source…
+  should one ever turn troublesome," he answers *yes, of course; it is only a question of mass and
+  number* — the cleanest handoff into [[the-dragon|the Dragon's]] chapter. His **swarm-coordination**
+  (each device listening to the few nearest it, a coordinated motion no one directs) is,
+  unknowingly, the dragons' **murmuration** principle ([[the-hum|the murmur]]) — built as a weapon.
+- **[[vesser|Vesser]] recast (Carmack/Romero):** Brask damns him with faint praise — credits the
+  start, then *"he could never sit still long enough to use his own… not a details man,"* off being
+  adored while Brask built the future. Confirms Vesser II's cruel symmetry from the other side and
+  exposes Vesser's elegy as self-flattering.
+
 ## Open questions
 - ~~Standalone account vs. folded in?~~ **DECIDED:** not a POV; observed in
   [[vesser|Vesser's second chapter]].
 - ~~Relationship to Vesser?~~ **DECIDED: estranged student** — Vesser trained the man who
   made his life's work pointless, and can't even hate him for it.
 - ~~Name~~ **LOCKED: Brask** (above).
-- Does he live to see the [[story-bible|Hummingbirds]], and does *that* finally reach him —
-  the first time his work kills someone he can picture? Possible single crack in the affect
-  (and a rare moment Vesser might glimpse something human under the flatness).
+- ~~Does he live to see the [[story-bible|Hummingbirds]], and does *that* finally reach him?~~
+  **DECIDED (rev. 2026-05-31): yes — he co-designs them** (with [[korrin]]), and the affect does
+  *not* crack: asked whether one could bring down "the source," he answers flatly, *only a question
+  of mass and number*. The non-crack is the point; the dread stays the reader's.

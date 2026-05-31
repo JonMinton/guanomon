@@ -5,9 +5,13 @@
 
 > **Vesser has TWO chapters** (like [[dalla|Dalla]]) — decided 2026-05-30:
 > 1. **The elegy** — his own arc: the trials, capitulation, the alchemists' workshop.
-> 2. **Watching Brask** — Vesser is the *observing narrator* for [[brask]], who is too
->    un-introspective to narrate himself. The displaced master describes the student who
->    obsoleted him. See "Second chapter" below.
+> 2. **Watching Brask** — Vesser is an *observing narrator* for [[brask]]. See "Second
+>    chapter" below.
+>
+> **REVISED (rev. 2026-05-31): [[brask|Brask]] is now a POV narrator** with his own
+> (penultimate) chapter, so Vesser-II is **no longer the sole window** onto Brask — it now
+> *sets up* Brask's own inside-view chapter rather than substituting for it. See updated
+> "Second chapter" and the new "Populariser second act" below.
 
 ## Role in the system
 The mage who exhibits motivated resistance to the discovery — at first denial, then
@@ -41,10 +45,32 @@ he goes from denying the new thing's superiority to trying to counterfeit it.
   His tragedy is no longer just *displacement*; it is **misidentifying what his own craft
   was for.**
 
-## Second chapter — Vesser narrates Brask (DECIDED)
-[[brask|Brask]] is the **least introspective character in the book**, so he gets no
-first-person account; his story is told **from outside**, and Vesser is the observer. This
-also settles the old "communication fork": Vesser **witnesses** the breakthrough — and
+## Populariser second act — the Carmack/Romero gap (rev. 2026-05-31)
+After being displaced from the lift, Vesser **reinvented himself a second time** — not only
+as the failed alchemist, but as the charismatic public **face / impresario / evangelist who
+popularised the Hum's applications**: parties, politics, delegations, the whole social life
+of the thing. He "made it feel like a wonder rather than a wire." He was **socially
+successful** at this, while [[brask|Brask]] — the actual inventor — did the work uncredited.
+The dynamic is **Carmack/Romero: Brask = Carmack** (the silent engine), **Vesser = Romero**
+(the charismatic front).
+
+The displacement theme **deepens**: he lost the **craft** (what mattered) and was rewarded
+for the **charm** (what didn't) — which rhymes him with [[dalla|Dalla]] and [[garran|Garran]],
+all rewarded for the wrong thing.
+
+**This opens a productive Rashomon gap.** Vesser's own chapters — the self-pitying "last
+honest mourner" elegist — **downplay or omit** this social success; the elegy needs him
+defeated, not feted. Brask's chapter then reveals it from the outside, via **faint praise
+that damns**: *"he could never sit still long enough to use his own [start]… he was not a
+details man."* Vesser-I has already **confessed its own unreliability** ("this is the part of
+an elegy that lies"), which **licenses the gap** — the reader is pre-warned that the elegist
+edits himself.
+
+## Second chapter — Vesser narrates Brask (DECIDED; revised 2026-05-31)
+[[brask|Brask]] now **also has his own POV chapter** (penultimate; flat, un-introspective
+"technological-progress account"), so Vesser's second chapter is **no longer the only access
+to Brask** — it is the *outside* view that **sets up** the inside one. Vesser still
+**witnesses** the breakthrough — and
 cannot even take comfort in it, because it vindicates the discipline by *abandoning
 everything he valued in it* (magic survives as a megaphone, not a craft). **Casting:
 Brask is Vesser's estranged student** — Vesser trained the man who made his life's work

@@ -33,12 +33,15 @@ brief is in [[background]]; the orientation is in the [README](README.md).*
 - [[the-princess]] — old money converted to new · *conversion / bildungsroman*
 - [[garran|Garran]] — the slayer made butcher; the Warriors' Guild · *war confession*
 - [[marga]] — the shoveller; the Guano Guild's human face · *working-class realism (the un-genre)*
+- [[brask]] — the systems-genius who built the Hum & co-built the Hummingbirds · *technological-progress account* (penultimate; promoted to POV 2026-05-31)
 - [[the-dragon]] — the source · *undecided / fable-from-outside*
 
-*Non-POV characters (seen inside others' chapters): **[[brask]]** — the systems-genius who
-builds the Hum — in Vesser's second chapter; and **[[sennet|Sennet]]** — Dalla's unctuous
-interviewer — in her on-air transcript chapter. The **Guild** likewise supplies a voice but
-is an institution (filed under World above), not a person.*
+*Non-POV characters (seen inside others' chapters): **[[sennet|Sennet]]** — Dalla's unctuous
+interviewer — in her on-air transcript chapter; and **[[korrin]]** — Brask's dwarf fuel-engineer
+co-designer — in Brask's chapter. The **Guild** likewise supplies a voice but is an institution
+(filed under World above), not a person. (**[[brask]]** was formerly non-POV; rev. 2026-05-31 he
+narrates the penultimate chapter, so Vesser's second chapter is now the outside view that sets up
+Brask's own inside view.)*
 
 ## Structure
 - [[plot-beats]] — account order, genre map, the two organising rhymes, failure-mode watch-list

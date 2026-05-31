@@ -12,7 +12,7 @@
 |---|---|---|---|---|
 | **Guano Guild** — *"The Guild"*, the title institution | absorbed the old adventurers' guild | collection, processing, distribution; the official story | faceless institutional voice ([[the-guild]]) **+ [[marga]] (the shoveller — its human face/truth)**; power held by [[grundrak]] | ✓ covered |
 | **Collection crews** *(ex-Adventurers')* | treasure-raiding parties | shovelling the muck | **[[marga]]** (with Aldric & Kael) | ✓ covered |
-| **Mages' → Alchemists'** | artisanal spellcraft | characterise [[guano]]; build the [[the-hum|Hum]]; **spinning off the Hummers' Guild** | [[vesser]] (old) + [[brask]] (new) | ✓ covered — generational pair |
+| **Mages' → Alchemists'** | artisanal spellcraft | characterise [[guano]]; build the [[the-hum|Hum]]; **spinning off the Hummers' Guild** | [[vesser]] (old) + [[brask]] (new, **now a POV** — penultimate ch.; see below) | ✓ covered — generational pair |
 | **Hummers'** *(Alchemists' spin-off)* | — (new) | tend the [[the-hum|Hum]] apparatus / broadcast | named in the Guild address (ch.10); performers via [[sennet|Sennet]] | folded — institutional |
 | **Slayers' / Warriors'** | dragon-slaying / heroism | force-projection abroad | [[garran|Garran]] | ✓ covered |
 | **Peacekeepers'** *(Slayers' spin-off)* | — (new) | domestic repression of dissent | subplot inside [[garran|Garran]] | folded — own face optional |
@@ -43,6 +43,31 @@
 > is the one I'd call essential; the **sapper** a strong optional; the rest fold. Add
 > deliberately — every new account must do character *and* structural work, or it's the
 > "inert glue" failure mode.
+
+## The Hummingbird programme — and who is (not) credited (rev. 2026-05-31)
+The **[[story-bible|Hummingbirds]]** are a **joint guild project**: **Sappers'** supply the
+**fuel** (guano ordnance, [[guano|repotentiation]]) and **Hummers'** supply the **signal**
+(the [[the-hum|Hum]]-borne guidance). The programme is **institutionally credited** — "the
+guilds" — with **no individual named**. That is the point: the real co-designers vanish into
+the institution.
+
+- **[[brask|Brask]] is the publicly *uncredited* co-designer** (and the uncredited inventor
+  of the Hum itself). The public attaches the Hum to [[vesser|Vesser]] (its populariser) and
+  [[dalla|Dalla]] (the unit); Brask is **indifferent to credit**. See [[brask]] and [[the-hum]].
+- **[[brask|Brask]] is now a POV** (rev. 2026-05-31) — his own **penultimate chapter**, a
+  flat, un-introspective "technological-progress account." This finally gives the
+  **alchemist-mage / Hummers' strand an inside voice**, where before it reached the reader
+  only from outside (via [[vesser|Vesser]]).
+- **Korrin** *(provisional name)* — the **dwarf fuel-engineer co-designer** on the Sappers'
+  side: dispositionally **like Brask** (heads-down, work-not-credit). Deliberately a
+  **separate, younger dwarf — NOT [[grundrak|Grundrak's]] son or line**, kept separate to
+  avoid over-neat dynastic tidiness.
+
+## Sappers' voice — note (rev. 2026-05-31)
+Earlier framing treated the **Sappers'** as a flat GAP / "no POV." Superseded: as the guild
+that now **holds the balance of power**, the **Sappers' chair delivers the confederated Guild
+address (ch.10)** — so the institution *does* have a voice, the official voice of the age.
+(A dedicated *personal* sapper POV remains a strong-optional revisit only; see gap 2 above.)
 
 ## See also
 - [[the-guild]] (the institution / its voice) · [[labour-and-order]] (the reorganised economy) · [[plot-beats]] (cast & order) · reps: [[vesser]] · [[brask]] · [[garran|Garran]] · [[grundrak]] · [[dalla]]
