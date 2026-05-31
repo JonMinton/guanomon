@@ -3,10 +3,12 @@
 A static, two-mode site published to GitHub Pages.
 
 - **Story mode** (default, `#story`): a designed reading experience with drop-cap
-  typography. Currently **placeholders** — no prose is committed early (per the brief).
-  The chapter list / order lives in `assets/app.js` (`CHAPTERS`).
-- **Experiment mode** (`#experiment`): how the project was made (the *Makers gonna Make*
-  origin — **TODO: date + lu.ma link** in `index.html` `#sub-about`), plus the live Obsidian
+  typography. Serves the **first-iteration chapters straight from the vault** (folder
+  `04-chapters`, in filename order; the `_`-prefixed template is skipped) — see
+  `storyChapters()` in `assets/app.js`.
+- **Experiment mode** (`#experiment`): how the project was made (the *Makers gonna Make —
+  Episode 14* origin, The Melting Pot, Edinburgh, 30 May 2026 —
+  [lu.ma](https://luma.com/dlgjqfrg)), plus the live Obsidian
   vault as:
   - an interactive **network graph** (`#experiment/graph`) — nodes = notes, edges =
     `[[wikilinks]]`, coloured by folder, click a node to read it;
@@ -23,7 +25,7 @@ generated}`. No build framework; the page renders client-side (marked + vis-netw
 and for local preview (`open site/index.html`).
 
 ## To finish later
-- Paste the lu.ma event details into `#sub-about` (search "TODO").
+- ~~Paste the lu.ma event details into `#sub-about`.~~ **Done 2026-05-31:** [lu.ma](https://luma.com/dlgjqfrg).
 - Add real prose into Story mode (replace the placeholder chapter blocks / wire chapters to
   markdown when written).
 - Optional: swap to [Quartz](https://quartz.jzhao.xyz) if you later want backlinks/search/
