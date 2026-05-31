@@ -2,7 +2,7 @@
 
 ---
 
-They put me on a bench beside the boy who ended me, and asked us to be colleagues. I have thought a great deal about how to tell this without bitterness, and I have decided I cannot, quite, and that the small failure is itself part of the truth, so I will let it stand.
+They put me on a bench beside the boy who ended me, and asked us to be colleagues. This was in the first years after the yard, while they were still deciding what to do with the masters they had broken; the answer, for a while, was a bench. I have thought a great deal about how to tell this without bitterness, and I have decided I cannot, quite, and that the small failure is itself part of the truth, so I will let it stand.
 
 Brask was my student. I should say that first, because everyone forgets it and he forgot it soonest of all. I taught him the lift, years ago, before any of this — taught him the breath below the breastbone, the open hand, the whole self going out and coming back. He learned it the way some children learn a language they will never use: completely, instantly, and with no apparent sense that it mattered. He could lift as well as I could at twenty. He simply did not *want* to, the way you might be able to whistle and never once feel the urge.
 
@@ -24,4 +24,4 @@ They tell me now what his toy became. Whose voice it carries, and how often, and
 
 I was wrong, on the stool, about which of us had lost. I thought it was me. It was the *craft.* I merely went down with it. Brask survived because he had never loved it, and the thing he built lives precisely because nothing in it remembers what it used to be.
 
-He still comes to the bench. He is still delighted. I hand him things.
+He still comes to the bench. He is still delighted. He is already half-gone from the Hum, besides — bored of it the moment it worked, the way he tired of the lift — and it is the little forks again now, turned around: not how far a voice will carry, but whether a thing far off can be made to *obey* one. He says it will be cleaner than the voice was. I do not ask what it is for. I hand him things.
