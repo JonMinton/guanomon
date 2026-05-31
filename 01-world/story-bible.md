@@ -61,6 +61,13 @@ fantasy: the optimal move was never heroism.)
     that of the people who literally lay and tend the apparatus the age runs on.
   - **Mages' → Alchemists' Guild** is meanwhile **spinning off a Hummers' Guild** to tend the
     [[the-hum|Hum]] apparatus — the old craft giving birth to the broadcast trade. See [[guilds]].
+  - **Food-input guilds — Farmers' & Butchers' (minor but essential):** the husbandry regime feeds
+    the dragons **pork** (and beef/mutton) at industrial scale, so the old village Farmers' and
+    Butchers' guilds swell into the *input* side of the energy economy — the mirror of the
+    collection crews and Beekeepers' on the output/catalyst side. The **Confectioners' Guild** buys
+    the dragons' sweet by-products ("essence of drake" — the [[story-bible|diabetes]] tell sold as a
+    luxury). All three are folded as texture, named in the Guild address ([[the-guild]], ch.10) and
+    in [[the-dragon]] (ch.11). Source: [[earlier-dragon-and-food-economy]].
 - Geopolitics reorganises around dragon territory: not conquest but **land rights,
   grazing disputes, breeding programmes**.
 - **The "Dalla"** — the unit of energy output, named after the woman whose

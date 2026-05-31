@@ -19,6 +19,9 @@
 | **Sappers'** | dwarven mining / demolition | feedpipes, power, engineering, [[guano|repotentiation]], [[story-bible|Hummingbird]] ordnance; **now hold the balance of power** | **institutional voice = the confederated Guild address (ch.10), delivered by the Sappers' chair**; [[grundrak]] for applied-guano violence | ✓ covered (institutional) |
 | **Bards' / Entertainers'** | court praise-singers / story-tellers | broadcast hosts & performers on the [[the-hum|Hum]] | [[sennet|Sennet]] *(non-POV; in Dalla's chapter)* | ✓ covered (old→new repurposing) |
 | **Beekeepers' / Apiarists'** *(new)* | — | farm the honey catalyst (lethal work) | texture in [[labour-and-order]] | folded — not a POV |
+| **Farmers'** *(food input)* | village agriculture | raise the livestock that **feeds the dragons** (pork/beef/mutton at scale) | named in the Guild address (ch.10); [[earlier-dragon-and-food-economy]] | folded — minor, input-side |
+| **Butchers'** *(food input)* | village trade | slaughter & deliver the source's feed | named in the Guild address (ch.10); [[earlier-dragon-and-food-economy]] | folded — minor, input-side |
+| **Confectioners'** | sweets / luxuries | buy the dragons' sweet by-products ("essence of drake") | ch.10 & [[the-dragon]] (ch.11); [[earlier-dragon-and-food-economy]] | folded — minor |
 | **Dwarven logistics** *(slurry / repotentiation / transit)* | mining / tunnelling | pipe slurry, arm it on site, run the subway | [[grundrak]] (broadly) | partial |
 
 ## The gaps, ranked (recommendations)
