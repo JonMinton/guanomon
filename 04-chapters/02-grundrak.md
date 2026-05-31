@@ -6,6 +6,14 @@ I want to be understood, so I will begin with the assay, because everything I am
 
 You bring me a substance and I do not ask what it is for or who it offends. I ask what is in it. That is the whole of my disgrace. The mages asked what a thing *meant*; I asked what it would *do*, under load, at heat, in quantity, and the answer in this one case was: more than anything we had. I did not invent that answer. I assayed it out of a material the entire upper world had spent three hundred years stepping over to reach the gold. They called the gold treasure and the other thing filth, and they were exactly half right, and it was the wrong half.
 
+I should tell you how it came to me, since the story they hum is wrong in every particular that matters. There was a collection party — an ordinary crew, down for the gold the way crews still went down then, and back up filthy with the stuff they had not yet learned to want. The one who led them is a unit of measurement now; they have made her an accident and a saint and a hat. What she was, that night, was wet through and stripped to the skin by the fire, the way you strip when you have been in the deep and cannot stand your own clothes a moment longer. The clothes went near the flame to dry. The day's muck was dried into the weave of them, and so — though no one understood this for a long while after — was the honey, from the bee-side of the work, ground into the cloth with everything else.
+
+It did not burn. It *detonated*. It took the fire and a good part of the room with it, and it announced, in one flat shout of force, that the filth the whole world had been stepping over for three centuries was the most concentrated thing any of us had ever held in a hand.
+
+That is the accident. *Where there's muck there's brass*, the old people used to say, and they meant it small — a saying for getting by, for making do. They did not know they were naming the foundation of the world. But an accident is not a discovery. An accident is a question shouted once and never repeated. I made it repeat.
+
+I brought the stuff to the bench and I asked it the only questions I know how to ask. Wet, it does nothing: it is muck, it drinks your flame and ruins your boots, and there is a mercy in that, or the pits would have gone up generations ago. *Dried*, it will burn. Dried *and* met with the catalyst — the honey, the same sweetness the tasters now murmur over, abundant and mundane and in everything — it does not burn, it *answers*, all at once. And I found the dial between the two: how the packing and the pressing decide whether you draw a long honest heat to turn a wheel through the night, or a single blow to take down a wall. This muck shines brighter than the sun and hits harder than any metal, and it does either on command, once it has been asked properly. I asked it properly. That is the assay, and the assay is the only honest part.
+
 So I proposed the trials, and I proposed the terms, and the terms are the part they will never forgive me, because the terms were fair.
 
 Hear what I gave them. I did not ask the mages to debase themselves at some task chosen to humiliate. I let them name the work. They named the stamps — the great iron heads that lift and fall and crush ore to meal — because the stamps are honest labour made visible, and because lifting is the oldest thing their art can do and the proudest. Good. Lift them, then. We will count the strikes, and we will count them past the first hour, past the second, into the night and out the other side, and whoever's stamps are still falling at the dawn count has proved the only thing a power is ever asked to prove, which is *can you do it again, and again, and again, without rest, without a temper, without a soul that gets tired.*
@@ -23,3 +31,9 @@ Because here is the thing I did not assay, and I assay everything. I won the flo
 They will give me a throne for this, in time. I can feel it coming the way I felt the curve coming. And I will take it, because the only thing worse than sitting in that chair would be leaving it for one of them. And the day I sit in it I will have proved, with my whole life, the one proposition I most wanted to disprove:
 
 that the chair was real all along, and that even I would climb over the gold to reach it.
+
+So the trials are over, and found — let the histories dress it however they like — in favour of muck over magic. The curve crossed. The old power sat down on a stool and drank its water, and there is nothing left to prove in a yard with stamps and a clock.
+
+What remains is to show the rest of them what the curve means. The neighbours across the water who still burn wood and field their brave ranked lines of men. The walls that still believe they are arguments. The trials settled what the stuff *is*. Now we settle what it *does* — at distance, in quantity, to anyone who has not yet had it explained.
+
+Now onto the demonstrations.

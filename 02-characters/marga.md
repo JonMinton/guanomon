@@ -19,12 +19,15 @@ Guild now has **two voices in opposite registers** — the laundered annual repo
 lie) and the shoveller's realism (maximal truth). Same institution; the Rashomon engine
 running through one guild. (Fills the collection-crew gap in [[guilds]].)
 
-## Pays off Scene 1
+## Pays off Scene 1 — and now opens straight off it
 The cold-open crew — **Marga** (shovelling), **Aldric** (the watcher, the veteran), **Kael**
-(the wry one, *"another day in paradise"*) — return here named and known. The prologue's
-anonymous labour gets a face and an interior; on a reread, Scene 1 is revealed as *her shift.*
-Answers the standing structural question (does the crew reappear?) — **yes, as Marga's
-account** ([[plot-beats]]).
+(the wry one, *"another day in paradise"*) — return named and known. In the first-iteration
+draft (2026-05-30) Marga's account is placed **first of the accounts, directly after the
+prologue**, so the anonymous labour of the cold open is claimed as *her shift* almost
+immediately — *"that was me, by the way"* — rather than as a late reread. The **genericness of
+the prologue is exactly what she fleshes out**: the drudgery of the new normal, stated flat,
+before any other narrator gets to dramatise themselves. Answers the standing structural
+question (does the crew reappear?) — **yes, as Marga's account** ([[plot-beats]]).
 
 ## The Dalla rhyme (load-bearing, quiet)
 Marga and [[dalla|Dalla]] began in the same place: a raiding crew, going down into the dung.
@@ -109,6 +112,8 @@ old/new motif. Flag and decide later.
   does the work.)
 - One brushed encounter with a named principal (a [[garran|Peacekeeper]] action, [[dalla|Dalla]]
   in person, a [[grundrak|Guild]] inspection) could be devastating; more would over-connect.
-- Placement: she pairs powerfully **right after [[the-guild|the Guild's]] laundered account**
-  — the corporate lie immediately answered by the worker's truth, same institution. See
-  [[plot-beats]].
+- Placement — **CHANGED (2026-05-30): moved to *first* of the accounts** (opening straight off
+  the prologue), trading the old "right after [[the-guild|the Guild's]] laundered account" seat
+  (corporate lie answered immediately by the worker's truth) for a ground-truth *opening*. The
+  two Guild registers now **bookend** the book rather than abut. Live question: does opening on
+  Marga spend the un-genre's truth-check too early? See [[plot-beats]].

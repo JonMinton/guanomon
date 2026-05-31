@@ -10,8 +10,9 @@
 >
 > **This is the general rule, not a one-off:** *every* guild is a concept; each guild's
 > **human** story is told through an individual representative. See [[guilds]] for the full
-> concept→character map — including the Guano Guild's own missing human face (the
-> collection-crew labourer).
+> concept→character map — the Guano Guild's own human face is [[marga|Marga]] (the
+> collection-crew shoveller), and the Sappers' Guild's *institutional* voice is the
+> confederated address itself (chapter 10), delivered by their chair.
 
 **Voice register (when it narrates):** corporate annual report / official history —
 bureaucratic, smoothing, relentlessly positive; the prose of an institution describing
@@ -19,8 +20,11 @@ itself.
 
 > **Its human counter-voice: [[marga]].** The Guano Guild's *truth* is the shoveller's hands
 > in the dung. The institution thus reaches the reader in **two opposite registers** — this
-> faceless corporate voice (maximal lie) and Marga's plain realism (maximal truth) — placed
-> adjacent in the running order so each indicts the other. Same guild; opposite truth-values.
+> faceless corporate voice (maximal lie) and Marga's plain realism (maximal truth). *(In the
+> first-iteration draft these no longer abut: Marga now **opens** the accounts and the Guild
+> sits **penultimate**, so the two registers **bookend** the book rather than indicting each
+> other side-by-side — a trade made to let Marga ground the prologue. See [[plot-beats]].)*
+> Same guild; opposite truth-values.
 
 ## What it is, in the world
 The dominant institution of the new order: it owns the [[guano]] supply chain end to
@@ -28,9 +32,14 @@ end, sets the [[story-bible|Dalla]] as a unit, schedules collection, licenses th
 and (with [[the-hum|the Hum]]) controls the official story. Where [[grundrak|Grundrak]]
 holds *political* power and the dwarves hold the [[above-and-below|underground]], the
 Guild is the *administrative* layer that makes the energy economy run and narrates itself
-as progress. *(Worldbuilding open question: relationship between the Guild and the older
-pre-existing guilds — magicians', adventurers', sappers', slayers'. Is "the Guild" one
-body or the victorious umbrella over them? See [[story-bible]] energy-economy note.)*
+as progress. *(Relationship to the older pre-existing guilds — **RESOLVED (2026-05-31):** not
+one body but a **confederation**. The pre-existing guilds survived by changing their target
+from treasure to guano: the Magicians' → Alchemists' (now spinning off a **Hummers' Guild** to
+tend the [[the-hum|Hum]]), the **Sappers'** (feedpipes, power, engineering), the much-enlarged
+**Beekeepers'** (footbee honey), the **Slayers'** (force-projection abroad, begetting the
+**Peacekeepers'**). The **Sappers' Guild now holds the balance of power** — it runs the
+infrastructure the age rests on — and the confederation's annual address is delivered by the
+**Sappers' chair**. See [[guilds]] and [[story-bible]].)*
 
 ## Role as a voice in the system
 Not a person but a **voice** — the Guild's official account of itself. Its narrative
@@ -77,10 +86,17 @@ consequences worth exploiting:
   positive externality. The blindness is total and is the source of the irony.
 
 ## Form & placement — DECIDED
-**A single document, placed late** (2026-05-30): one Guild account — a charter / anniversary
-address — sitting as the **penultimate flattening**, just before [[marga|Marga's]] worker's
-truth and the [[the-dragon|Dragon's]] outer frame reopen everything. The reader arrives with
-all the costs in hand and watches them laundered in one unbroken official voice. *(The
+**A single document, placed late** (2026-05-30): one Guild account — an **anniversary address to
+the confederated guilds, delivered by the Chair of the Sappers' Guild** (2026-05-31), "hummed
+across the provinces" — sitting as the **penultimate** account, just before the
+[[the-dragon|Dragon's]] outer frame reopens everything. The sapper-chair frame lets the *voice
+of the new balance of power* survey each guild in turn (mages'→alchemists' and the new Hummers',
+the beekeepers', the slayers' and their Peacekeepers') and launder each in the same breath — and
+it lets the address half-admit the drying-floor deaths that fall on the sappers' *own* people,
+then insist they "are not the story." *(In the first-iteration draft [[marga|Marga's]] worker's truth
+**opens** the accounts rather than following the Guild, so the Guild is answered across the whole
+book by Marga's opening, not immediately after it.)* The reader arrives with all the costs in
+hand and watches them laundered in one unbroken official voice. *(The
 rejected alternative — recurring interleaved interludes — was more relentless but would have
 diluted the single-hit irony and complicated the order.)* Recorded in [[plot-beats]] and
 [[decisions]].

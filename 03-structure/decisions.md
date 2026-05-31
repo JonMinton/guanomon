@@ -28,6 +28,26 @@
 - **Peacekeeper: folded** into [[garran|Garran's]] chapter; **beekeeper:** texture in [[labour-and-order]].
 - **The Guild account: a single document, penultimate** (not interleaved interludes). [[the-guild]]
 - **[[sennet|Sennet]]'s private fact: a failed maker** (lonely; explains the sincerity).
+- **First-iteration draft written (2026-05-30):** all parts in `04-chapters/`, **Marga-first**
+  order. Convention: chapter files are **auto-numbered by the website**
+  (titles are bare names; the running number derives from filename order), so reordering = renaming
+  files. No analytic standfirsts in the prose (subtext stays subtext) — diegetic frames only.
+- **Prologue folded into Marga (2026-05-31):** the standalone unattributed prologue *The Descent*
+  was **merged into [[marga|Marga's]] account** and retold in her first person (per Jon's chapter
+  notes), so the book now **opens on Marga** with no separate cold open. The old prologue file is
+  archived in `.archive/`. Net: **11 accounts, 9 narrators** (was 12 parts). The
+  ignored-treasure image (the dragons'-ending seed) now lives inside Marga's opening.
+- **Grundrak expanded (2026-05-31):** his account now also carries the **discovery** (the
+  collection party's accident — dried guano + footbee honey + flame) and the **assay of explosive
+  conditions** (wet inert / dried burns / dried + catalyst detonates; packing tunes slow-burn vs
+  blast), closing on *"in favour of muck over magic — now onto the demonstrations,"* a deliberate
+  handoff into the King's coup and [[garran|Garran's]] foreign "demonstrations."
+- **The Guild account is now *the Guilds* (2026-05-31):** rewritten as the **Sappers' Guild
+  chair's** anniversary address to the confederated guilds (sappers hold the balance of power),
+  explicitly naming the Magicians'→Alchemists' (spinning off the **Hummers' Guild**), the
+  **Beekeepers'** (footbee honey), and the **Slayers'** (foreign force-projection, begetting the
+  **Peacekeepers'**). *(Knock-on: the "Sappers' = GAP / no POV" line in [[guilds]] is now stale —
+  the sapper voice is the Guild address; update [[guilds]] when convenient.)*
 
 ## LOCKED — world & story spine (recorded across the notes)
 - **Discovery gate:** the **lampshade**, spoken by [[dalla|Dalla]] (soft, not literal 4th-wall). [[discovery-gating]]
@@ -37,8 +57,10 @@
 - **Risk inversion** (danger flows up); **Hobbesian** mortality bargain; the **Leviathan's fist & voice**. [[above-and-below]] · [[labour-and-order]]
 
 ## DEFERRED BY DESIGN (the writing decides — leans recorded)
-- **Final account order** — lock *after* the first two chapters are drafted. Working order = the
-  [[plot-beats]] genre map.
+- **Final account order** — **first-iteration order set (2026-05-30): Marga-first**, per the
+  [[plot-beats]] genre map; the complete draft lives in `04-chapters/`. The earlier "does
+  Marga-first reveal the cold open too early?" worry is **resolved (2026-05-31):** there is no
+  separate cold open any more — the descent is now Marga's opening, in her voice. Order still tunable.
 - **"How much does X articulate vs. the reader infer"** (prose decides each):
   - [[grundrak|Grundrak]]: how much of the hollowness he voices (lean: mostly the reader's).
   - [[vesser|Vesser]]: does he glimpse his own self-flattery (lean: mostly the reader's).

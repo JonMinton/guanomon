@@ -2,32 +2,39 @@
 
 ## The accounts (genre map)
 
+*(First-iteration draft order, 2026-05-30 — the website auto-numbers from this sequence.)*
+
 | # | Account   | Genre                     | Arc-peak beat                        |
 |---|-----------|---------------------------|--------------------------------------|
-| – | *(Scene 1)* | unattributed cold open  | present-day routine collection       |
-| 1 | [[grundrak\|Grundrak]]  | political thriller        | the trials (vindication)             |
-| 2 | [[vesser\|Vesser]] — *I, the elegy* | elegy | the trials (the beginning of the end)|
-| 3 | [[dalla\|Dalla]] — *on air* | **broadcast transcript / play-script** (interviewed by [[sennet\|the Host]]) | the public personality, performing "I fell" as charm |
-| 4 | [[the-king\|The King]]  | horror                    | the throne-room coup                 |
-| 5 | [[the-princess\|The Princess]] | conversion / bildungsroman | the strategic marriage; her naturalised conversion |
-| 6 | [[vesser\|Vesser]] — *II, watching [[brask\|Brask]]* | elegy-as-observer narrating the technical sublime | Brask building the Hum |
-| 7 | [[garran\|Garran]]    | war confession / disillusioned memoir | "I once killed a dragon"; the Hummingbird demonstration |
-| 8 | [[dalla\|Dalla]] — *private* | interior monologue, to no one | the weary irony; the cost of chapter 3 |
-| 9 | [[the-guild\|The Guild]] | corporate annual report   | the normalisation montage            |
-| 10| [[marga\|Marga]] | working-class realism — *the un-genre* | the shoveller's truth; Scene 1 revealed as her shift |
-| 11| [[the-dragon\|The Dragon]]| undecided / fable-outside | the metabolic decline; gaze reopens; the dragon-Hum |
+| I | [[marga\|Marga]] | working-class realism — *the un-genre* | the shoveller's truth; **opens on the descent** (formerly the standalone prologue), retold in her first person |
+| II | [[grundrak\|Grundrak]]  | political thriller        | the trials (vindication)             |
+| III | [[vesser\|Vesser]] — *the elegy* | elegy | the trials (the beginning of the end)|
+| IV | [[dalla\|Dalla]] — *on air* | **broadcast transcript / play-script** (interviewed by [[sennet\|the Host]]) | the public personality, performing "I fell" as charm |
+| V | [[the-king\|The King]]  | horror                    | the throne-room coup                 |
+| VI | [[the-princess\|The Princess]] | conversion / bildungsroman | the strategic marriage; her naturalised conversion |
+| VII | [[vesser\|Vesser]] — *watching [[brask\|Brask]]* | elegy-as-observer narrating the technical sublime | Brask building the Hum |
+| VIII | [[garran\|Garran]]    | war confession / disillusioned memoir | "I once killed a dragon"; the Hummingbird demonstration |
+| IX | [[dalla\|Dalla]] — *private* | interior monologue, to no one | the weary irony; the cost of the on-air account |
+| X | [[the-guild\|The Guild]] | corporate annual report   | the normalisation montage            |
+| XI | [[the-dragon\|The Dragon]]| first person — fable-outside | the metabolic decline; gaze reopens; the dragon-Hum |
 
-**Eleven accounts across nine narrators** (counting Scene 1's prologue separately). Two
-narrators carry **two non-adjacent chapters each** — [[dalla|Dalla]] (on-air persona /
+**Eleven accounts across nine narrators.** *(The former Scene 1 prologue is no longer a
+separate part: as of 2026-05-31 it is the opening movement of [[marga|Marga's]] account, in her
+first person — see below.)* Two narrators carry **two non-adjacent chapters each** — [[dalla|Dalla]] (on-air persona /
 private monologue) and [[vesser|Vesser]] (his own elegy / observing [[brask]]). **Two strong non-POV characters** appear *inside* others' chapters rather than narrating:
 **[[brask|Brask]]** (seen in Vesser's second chapter — too un-introspective to narrate) and
 **[[sennet|the Host]]** (seen in Dalla's on-air transcript chapter — the unctuous
 interviewer who surfaces her front stage). **[[marga|Marga]]** (the shoveller from Scene 1) is the
-newest — the proletarian voice and the human face of the [[the-guild|Guano Guild]], placed
-**right after the Guild's account** so the corporate lie is answered immediately by the
-worker's truth (same institution, opposite truth-values). Numbering is *illustrative order*,
-not locked — but keep each pair's two chapters **apart**. At this size, **length discipline
-matters** — some accounts may be short; audit for the "inert glue" failure mode below.
+proletarian voice and the human face of the [[the-guild|Guano Guild]]. **In the first-iteration
+draft she is placed *first* of the accounts** (directly after the prologue), so her plain
+ground-truth claims the generic cold open as her own shift and sets the drudgery of the new
+normal against everything the later accounts dramatise. *(This trades away the earlier plan of
+seating her right after the [[the-guild|Guild]] — corporate lie answered immediately by the
+worker's truth; that adjacency is gone, the two Guild registers now **bookending** instead.
+Revisit if the opening proves to spend the truth-check too early.)* The running order is **set
+for the first draft but still tunable** — keep each pair's two chapters **apart**. At this size,
+**length discipline matters** — some accounts may be short; audit for the "inert glue" failure
+mode below.
 
 > **The two structural pairings to protect** (old-world grief ↔ new-world fluency):
 > [[the-king|King]] ↔ [[the-princess|Princess]] (sovereignty) and [[vesser|Vesser]] ↔
@@ -44,43 +51,53 @@ matters** — some accounts may be short; audit for the "inert glue" failure mod
 > *more, more character-focused* chapters rather than fewer institutional ones. Hold
 > this open; it interacts with the "single document vs. interludes" question below.
 
-Scene 1 stays as an **unattributed prologue** — present tense, genre disorientation,
-the shovelling crew (Marga, Aldric, Kael) treating the treasure with indifference.
-It poses the question the accounts then answer from their several angles. *(It is also
-where the [[discovery-gating|"why was this never found before?" lampshade]] is seeded —
-the crew's trained indifference to the dung is the very habit that gated the discovery.
-[[dalla|Dalla]] pays it off later, bitterly, in her own account.)*
+Scene 1 / *The Descent* is **no longer a separate unattributed prologue** — as of 2026-05-31 it
+opens [[marga|Marga's]] account, retold in her first person (same beats, same worldbuilding, same
+shovelling crew of Marga, Aldric, Kael treating the treasure with indifference; the sting and the
+widowing now sit in the same voice). The genre disorientation of an unattributed cold open is
+traded away for grounding the book in the clearest eyes in it from the first line. *(The
+[[discovery-gating|"why was this never found before?" lampshade]] is still seeded here — the crew's
+trained indifference to the dung is the habit that gated the discovery — and [[dalla|Dalla]] still
+pays it off later, bitterly, in her own account.)*
 
-> **Scene 1 plants a second payoff** (the dragons' ending — [[dragons]]). The crew steps
+> **Marga's opening plants a second payoff** (the dragons' ending — [[dragons]]). The crew steps
 > over the glittering hoard to shovel filth: the humans no longer *look* at treasure. That
 > devalued, unwatched gold is exactly where the dragons will later hide their
-> [[the-hum|resonance devices]]. Consider letting the prologue **linger one beat** on the
-> ignored treasure — an image that reads as throwaway now and detonates at the end. The
-> reader who rereads sees the conspiracy was sitting in the cold open the whole time.
+> [[the-hum|resonance devices]]. Marga's opening **lingers one beat** on the ignored treasure
+> (the levered-aside crown; the closing image of gold "throwing the last of the light back … to
+> nobody at all") — an image that reads as throwaway now and detonates at the end. The reader who
+> rereads sees the conspiracy was sitting in the opening the whole time.
 
-## Ordering logic (a starting proposal, not a verdict)
+## Ordering logic — the first-iteration draft order
 
 The accounts are **not** chronological; each enters the timeline where its own arc
-peaks. A defensible order:
+peaks. The order as drafted (2026-05-30):
 
-1. **Grundrak** then **Vesser** as a *paired* treatment of the trials — same scene,
-   opposite arc positions, shared concrete detail. This teaches the reader how to
-   read the whole book: events are fixed, meanings are not.
-2. **Dalla** — pivots from the *makers* of the system to one of its *products*;
-   introduces the unit/source theme. {This should probably be a later chapter, but not the penultimate one as otherwise parallels between Dalla and the Dragon may become too obvious}
-3. **The King** — escalates to hard power and the coup; the system turns on its own
-   sovereign.
-4. **The Princess** — the generational turn: picks up from the King's "decade on" but
-   from *inside* the new order. Where the King narrates the marriage as a forced
-   concession, she narrates it as belonging. Placing her *after* the King lets the
-   reader feel the conversion happen across one generation. See [[the-princess]].
-5. **The Guild** — flattens all of the above into official history (penultimate, so
-   the reader has the costs in hand). {There are aspects of this which fit into the Princess's story. There are other aspects that relate to the adaptation of the Magicians' Guild into alchemists. This is likely at least two separate more character focused chapters.}
-6. **The Dragon** — the outermost frame; reopens everything the Guild just closed,
-   on a genuinely unresolved note.
+- **I · [[marga|Marga]]** — **opens the book.** Her account now *contains* the descent
+  (formerly the standalone prologue), retold in her first person, then sets the *drudgery of the
+  new normal* as the ground truth the later self-dramatisations are measured against. The un-genre
+  first inoculates the reader against the genres to come.
+- **II · [[grundrak|Grundrak]]** + **III · [[vesser|Vesser]] (the elegy)** — the trials
+  told twice, opposite arc positions, shared concrete detail. Teaches the book's method:
+  events fixed, meanings not.
+- **IV · [[dalla|Dalla]] (on air)** — pivots from the system's *makers* to one of its
+  *products*; pure front-stage. {This should probably be a later chapter, but not the penultimate one as otherwise parallels between Dalla and the Dragon may become too obvious}
+- **V · [[the-king|The King]]** — hard power and the coup.
+- **VI · [[the-princess|The Princess]]** — the same marriage from *inside* the new order;
+  conversion across one generation. See [[the-princess]].
+- **VII · [[vesser|Vesser]] (watching [[brask|Brask]])** — the magecraft pair's second
+  half; the mourner narrates the Hum's builder.
+- **VIII · [[garran|Garran]]** — the third displaced incumbent; the Hummingbird demonstration.
+- **IX · [[dalla|Dalla]] (private)** — the weary monologue that dismantles the on-air
+  account; rhymed forward to the Dragon.
+- **X · [[the-guild|The Guild]]** — flattens all of it into official history (penultimate,
+  costs already in hand). {There are aspects of this which fit into the Princess's story. There are other aspects that relate to the adaptation of the Magicians' Guild into alchemists. This is likely at least two separate more character focused chapters.}
+- **XI · [[the-dragon|The Dragon]]** — the outer frame; reopens everything, unresolved.
 
-> Alternative: interleave Guild interludes between human chapters for a more
-> relentless institutional drip. Trade-off noted in [[the-guild]].
+> Earlier alternative (superseded): seat Marga *right after the Guild* (corporate lie
+> answered immediately by the worker's truth) and/or interleave Guild interludes for a more
+> relentless institutional drip. The **Marga-first** opening was chosen instead; the
+> single-document Guild stands. Trade-offs noted in [[the-guild]].
 
 ## The two organising rhymes
 
@@ -189,9 +206,10 @@ for Vesser. Track each character's circle in their character file as you draft.
   redundant. Force the disagreement.
 
 ## Open structural questions
-- **Final account order — DEFERRED BY DESIGN:** lock it *after* the first two chapters are
-  drafted, not before (the illustrative order in the genre map is the working hypothesis). See
-  [[decisions]].
+- **Final account order — first-iteration order set (2026-05-30):** Marga-first, per the
+  genre-map table above; the complete draft lives in `04-chapters/`. Still tunable — the chief
+  open call is whether Marga-first gives the game away too early (vs the old Guild-adjacent
+  seat). See [[decisions]].
 - ~~Guild: single document vs. interludes?~~ **DECIDED: single document, penultimate** (see
   [[the-guild]]).
 - ~~Does Scene 1's crew reappear named?~~ **RESOLVED: yes** — [[marga]] (the shoveller) gets

@@ -2,6 +2,8 @@
 
 ---
 
+- [ ] Combine into Marga's chapter. 
+
 The good torches go down first, lowered on a line, and the light finds the gold before it finds the floor.
 
 It always finds the gold. The hoard throws it back in a hundred colours — coin and plate and the long teeth of fallen crowns, one king's ransom drifted over another like snow that has learned to gleam. A century ago men died on this slope for a single armful of it. They came with songs and good steel and most of them stayed, and the ones who climbed out climbed out rich or not at all.

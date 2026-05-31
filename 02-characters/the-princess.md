@@ -50,10 +50,10 @@ industrial-revolution parallel.)
   unit/source rhyme or extends it.
 
 ## Open questions
-- **Is she a seventh voiced account, or a section within the King's?** The current
-  structure ([[plot-beats]]) plans **six** accounts and gestures at a "seventh, silent
-  perspective the structure implies but never voices." Making the Princess a full
-  account is a real structural change — resolve before locking order.
+- ~~Is she a seventh voiced account, or a section within the King's?~~ **RESOLVED: a full
+  voiced account** (**Account VI** in the first-iteration draft — see [[plot-beats]],
+  [[decisions]]). The old "six accounts + a silent seventh perspective" framing is superseded;
+  the cast is now eleven accounts, and the implied unvoiced vantage is the reader's, not hers.
 - What genre is her chapter? (If the King's is horror, hers as *comfortable* inheritance
   is the strongest contrast — possibly the only account without an elegiac undertow.)
 - Does she know what was done to [[dalla]] / the Dragon, and does she care? Her

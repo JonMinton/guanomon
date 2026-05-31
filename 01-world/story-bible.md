@@ -54,6 +54,13 @@ fantasy: the optimal move was never heroism.)
     Given a full account: see [[garran|Garran]]. It also **spins off a Peacekeepers' Guild** that
     turns *inward* — violently suppressing the dissent the upheaval breeds. See
     [[labour-and-order]].
+  - **Sappers' Guild — now the balance of power (2026-05-31):** feedpipes, power, engineering,
+    [[guano|repotentiation]], explosives. As the order's *infrastructure* became its foundation,
+    the sappers rose to the top of the confederation; the annual **confederated Guild address**
+    ([[the-guild]], chapter 10) is delivered by the **Sappers' chair**. The new chair's voice is
+    that of the people who literally lay and tend the apparatus the age runs on.
+  - **Mages' → Alchemists' Guild** is meanwhile **spinning off a Hummers' Guild** to tend the
+    [[the-hum|Hum]] apparatus — the old craft giving birth to the broadcast trade. See [[guilds]].
 - Geopolitics reorganises around dragon territory: not conquest but **land rights,
   grazing disputes, breeding programmes**.
 - **The "Dalla"** — the unit of energy output, named after the woman whose
