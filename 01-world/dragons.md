@@ -36,6 +36,60 @@ The young dragons volunteering for the cage is the **darkest** instance of the p
 assimilation reaching the apex predator itself, the way the [[the-princess|Princess]]
 hopes her children are born to fit the tunnels. The system's victory looks total.
 
+## Dragon society — the farm made the flock *(proposed rev. 2026-06-10, branch)*
+
+> New canon proposed in answer to "develop the dragon sociology further." Four claims, each
+> doing determinist work. Nothing below contradicts the locked material; it *mechanises* it.
+
+1. **Wild dragons were solitaries.** Territorial, hoard-keeping, meeting rarely and badly —
+   the hoard is an individual's possession; there was never a "dragon nation." This is why
+   the discipline of three centuries of raids could exist at all (you raided *a* dragon, not
+   a people), and why no dragon ever warned another. *(What culture wild dragons had ran
+   **vertically only** — dam to clutch, never dragon to dragon. So the species' single line
+   of cultural inheritance is exactly the one clutch-separation cuts — see 4 below.)*
+2. **The keeping concentrated them — and so *created* dragon society.** Managed lairs,
+   breeding programmes, nursery caves, sanitoriums: for the first time in the species'
+   history, dragons live within **rock-contact range** of one another, permanently. **The
+   [[the-hum|murmur]] is only possible because of the cage.** Coordination requires
+   concentration, and the husbandry economy supplied it — the system gathered its own
+   foundation into one connected body. *(The industrial rhyme — the mill-floor assembling
+   the hands it would later face — is carried entirely by the mechanism. Boxer guard:
+   never state it.)* This sharpens "why now" beyond the Hummingbird impetus: the defection
+   wasn't *possible* earlier. Wild dragons had the faculty and no network; kept dragons
+   have the network, and the Dragon supplies the **memory** (never "the will" — the will
+   must stay emergent, or the leaderless ending breaks).
+
+   > **Mechanics ruling (resolves the channel-vs-cage seam — 2026-06-10).** Three layers,
+   > kept distinct: the **faculty** (rock-sense, the deep voice — ancient, species-innate;
+   > this is [[the-hum]]'s "what's new is coordination, not the channel"); the **network**
+   > (conspecifics permanently in range — new, the cage's accident); the **pattern** (the
+   > murmuration, and the Dragon's seeded content — new, the work). And the biological
+   > murmur is **short-range**: it needs the cage's density. The built devices
+   > ([[dragons|Concealment]] §§1–3) are **repeaters** — they bridge site to site, which is
+   > what the decade of requisitioned wire and crystal was *for*, and why the conspiracy
+   > needed building at all. The dragons, too, must lay conduits through the deep — the
+   > [[above-and-below|Hum-conduit]] inversion, run from below, in the dark.
+3. **Managed breeding is domestication in progress.** The programmes select for
+   temperament and output — docile lines are bred forward (the same selection logic as the
+   [[guano|dragonfire-inert]] note, now run *deliberately by humans*). The herd is being
+   bred toward livestock in real time, and only the [[the-dragon|Dragon]] is old enough to
+   see the direction of the curve. Her murmur-myth is **memetic counter-breeding**: culture
+   transmitted against the grain of husbandry selection — the one inheritance the breeding
+   programme can't reach.
+4. **Clutch separation severed the transmission.** Cage-born young are removed to nursery
+   caves and raised to the hand (framed as welfare: the dams' "distress indices" improve —
+   see [[the-physician|the Physician's]] "settling"). So the young's ignorance of wildness
+   is not mere circumstance but **an engineered cut in cultural inheritance** — and the
+   murmur is precisely the severed line re-spliced: the Dragon re-parenting a generation
+   the system orphaned on purpose. (This gives the "old infects the young with the past"
+   inversion its mechanism.)
+
+**Names.** Solitaries need no names — there was never anyone to address. The murmur has
+none either: identity in a murmuration is *position in the pattern*. "A name is a throat,
+and a throat can be found" — the namelessness that humans read as the Dragon's
+pre-linguistic deficiency ([[the-dragon]] stays unnamed) is, below, an operational
+security the species never had to invent.
+
 ## The finitude problem — and why it's an *upgrade*, not a hole
 Younger dragons joining seems to break the original **fossil-fuel reading** (guano as a
 finite stock that slowly depletes; the diabetes as the unpriced externality). If the herd

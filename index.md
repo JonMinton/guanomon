@@ -18,11 +18,13 @@ brief is in [[background]]; the orientation is in the [README](README.md).*
 - [[above-and-below]] — the human (above) / dwarf (below) vertical power axis; the First Novum inverted it
 - [[dragons]] — the species/herd (vs [[the-dragon]] the narrator): longevity, the golden cages, the resource's hidden fragility, and the project's biggest open ending
 - [[labour-and-order]] — the reorganised economy (dwarven slurry-works, apiaries) and the monopoly of violence (the Hobbesian trade-off; the Peacekeepers)
+- [[hummingbirds]] — the fused novum (guano + Hum as guided munitions); breadcrumb-ladder audit *(branch: second-iteration)*
 - [[guilds]] — the guild concepts and their character representatives; the principle (guild = concept, not character) and the casting gaps
 
 ## Theory (research-backed)
 - [[genre-theory]] — novum & cognitive estrangement (Suvin); SF vs fantasy; hard/soft magic (Sanderson); the **bridge thesis**
 - [[discovery-gating]] — "why now, not centuries earlier?" — economic-history mechanisms + the storyboarded fix
+- [[voice-differentiation]] — the multi-axis register map: document type, metaphor domains, abstraction budgets, forbidden moves *(branch: second-iteration)*
 
 ## The accounts (each a different genre reading of one deterministic process)
 *Old-world grief ↔ new-world fluency pairings noted in [[plot-beats]].*
@@ -35,6 +37,7 @@ brief is in [[background]]; the orientation is in the [README](README.md).*
 - [[marga]] — the shoveller; the Guano Guild's human face · *working-class realism (the un-genre)*
 - [[brask]] — the systems-genius who built the Hum & co-built the Hummingbirds · *technological-progress account* (penultimate; promoted to POV 2026-05-31)
 - [[the-dragon]] — the source · *undecided / fable-from-outside*
+- *(Proposed, branch second-iteration — see [[second-iteration-proposals]]):* [[the-bride|Liesse]] — the conquered surety-bride · *censored letters home*; and [[the-physician]] — the dragons' doctor · *clinical case-book*
 
 *Non-POV characters (seen inside others' chapters): **[[sennet|Sennet]]** — Dalla's unctuous
 interviewer — in her on-air transcript chapter; and **[[korrin]]** — Brask's dwarf fuel-engineer
@@ -46,6 +49,7 @@ Brask's own inside view.)*
 ## Structure
 - [[plot-beats]] — account order, genre map, the two organising rhymes, failure-mode watch-list
 - [[decisions]] — the decisions ledger: every locked call and every deliberate deferral
+- [[second-iteration-proposals]] — *(branch)* the decision menu: two proposed accounts, the ch. 14 diet, the dossier frame, the voice pass — with the [[writers-room-2026-06-10|writers' room]] synthesis behind it
 
 ## Drafting
 - [[_chapter-template]] — copy per account into `04-chapters/` when (and only when) drafting begins
