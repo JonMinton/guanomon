@@ -2,6 +2,8 @@
 
 ---
 
+> *Set down in his own hand, begun in the second year of the keeping; one leaf added later. Found among his working papers.*
+
 Measure a thing and it stops lying to you. That's my whole trade, and my whole crime, depending who you ask, and I stopped minding which a long time back.
 
 I'm setting this down early, you should know. The stuff is still a curiosity on my bench, not yet the wage that lights every house and gets charged back to it. Before the chair. Before the towns go bright of an evening. The afternoon the old world ended has already happened. The old world just hasn't been told. Seems I'm the one telling it.
@@ -10,7 +12,7 @@ Start with what I am, because the people upstairs spent three hundred years arra
 
 The assay, then. You hand me a thing and I don't ask what it's for, or whose it is, or what the songs say about it. I ask what's in it. I ask what it does — under load, under heat, in quantity. That's all an assay is. The mages asked what a thing *meant*. I ask what it *does*. Get up close to an "arcane art" with a scale and a flame and most of the time it's a plain trick with a rule round it saying nobody else is allowed to learn the trick. Take the rule off and you've got an ordinary man doing an ordinary job, and a lot of people kneeling for no reason. That's what an assay does to a mage. It makes you enemies. I could carry that.
 
-How it came to me was an accident, and I'll set it down straight, because the tellings that come later will be prettier and they'll be wrong. They'll want a saint in it. People always want a saint over a sum. A crew came up from the deep, filthy with the stuff nobody had learned to want yet — down for the gold, the way crews went down then, and back up sick of everything that wasn't gold. The woman who led them stripped off by the fire, the way you do when you've been in the deep and can't stand your own clothes another minute. Her clothes went near the flame to dry. The day's muck was dried into the weave of them, and so was the honey, ground in off the bee-side of the work — though it took us a long while to work that part out.
+How it came to me was an accident, and I'll set it down straight, because the tellings that come later will be prettier and they'll be wrong. They'll want a saint in it. A crew came up from the deep, filthy with the stuff nobody had learned to want yet — down for the gold, the way crews went down then, and back up sick of everything that wasn't gold. The woman who led them stripped off by the fire, the way you do when you've been in the deep and can't stand your own clothes another minute. Her clothes went near the flame to dry. The day's muck was dried into the weave of them, and so was the honey, ground in off the bee-side of the work — though it took us a long while to work that part out.
 
 It didn't burn. It blew. Took the fire and a good part of the workshop with it, and it said, in one flat bang, that the filth the whole world had spent three hundred years stepping over to get at the gold was the strongest thing any of us had ever held in a hand. The old valuers had it half right. Gold the treasure, this the filth. They just kept the wrong half.
 

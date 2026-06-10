@@ -26,6 +26,31 @@
     of. The banality of the monstrous: they named the foot-long killer after its length and got
     on with the harvest.
 
+- **The Sappers' Guild — composition CANONISED (2026-06-10, per Jon):** the guild is
+  **predominantly dwarven** — moving and displacing earth is dwarven expertise, and the
+  impetus, knowledge and work of the occupation were always primarily dwarven. But
+  **pre-novum it was often *human-headed***: the chair was a political appointment, the
+  court's man set over work he could not have described. Post-novum the headship is dwarven
+  (the [[the-guild|confederated address]] is the dwarven chair's, and it permits itself one
+  smug sentence about the correction), while the guild's **human minority tier works the
+  surface operations** — the drying-floors and compression-works, where the deaths are. So
+  the [[above-and-below|risk inversion]] runs *inside* the guild itself: dwarven core below
+  (safe, controlling), human members above (junior, exposed) — which is what makes the
+  address's "it is our own people on the drying-floors" **technically true and structurally
+  obscene**. *(Supersedes the writers'-room historian's "dwarf-officered, human-manned"
+  formulation — most sappers are dwarves; the human tier is real but a minority.)*
+
+> **Decided-and-filed (2026-06-10; no page time unless wanted):** the welfare/feed
+> **committee** is dominated by the fellowships of supply (the physician's counterweight
+> doesn't exist — see next); the old **Physicians' College** was a crown charter and fell
+> with the court, its remnant absorbed as the Guild's medical office (which is why
+> [[the-physician|the Physician]] answers to a committee, not a College); **religion** in
+> this world was courtly ceremony — the rites were the crown's domain, never a guild, which
+> is why reverence fell with the court (the [[the-princess|Princess's]] unfelt rite) and no
+> church survives to object to anything; the **Compact** is a guild instrument issued under
+> the royal seal (the powerless King's face on the wax that presses [[the-bride|Liesse]] —
+> the seal/coin rhyme, available, unused).
+
 ## New hazards (the death the progress narrative doesn't count)
 The **footbees** are a **violent, lethal kind** (and a foot long), so apiary work kills and
 maims at rates the old agrarian economy never did. The **above-ground compressor stations**

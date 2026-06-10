@@ -2,6 +2,8 @@
 
 ---
 
+> *From the first volume of his memoirs, dictated to spool in the twenty-ninth year of the keeping.*
+
 There was an hour, on the floor, when I was everything I had ever been told I was.
 
 I should like to keep the account honest, and so I will not pretend I went into the stamping-yard already defeated, a wise old man composing himself for loss. I went in to *win*. I had spent fifty years learning the lift — the true lift, the one that begins below the breastbone and goes out through the open hand, that asks the whole self and gives the whole self back — and I believed, because I had been given no reason in half a century not to believe, that a thing done with the whole self could not be beaten by a thing done with no self at all.
@@ -16,13 +18,13 @@ I felt it first as a question my wrist asked, around the third hour — *are we 
 
 The smoke is what I cannot forget. The fuel they fed the engine has a smell — I will not dignify it by describing it kindly — and it came across the floor and got into the lift, into my last good hour going bad, so that the end of everything I was tastes, in memory, of *that*. They beat my craft with the leavings of an animal, and made me breathe it while they did.
 
-He stopped the clock himself. The dwarf. He sent a boy with a stool and a cup of water and a face full of what I am sure he believed was respect, and I sat, in front of all of them, and drank, because my hands would not lift another head and there was no longer any use pretending they might. I have been asked since whether I hated him in that moment. I did not. You cannot hate the tide for being higher than your wall. I hated the *stool*. I hated that he was kind. Contempt I could have carried out of that yard with my back straight; mercy I had to be helped to.
+He stopped the clock himself. The dwarf. He sent a boy with a stool and a cup of water and a face full of what I am sure he believed was respect, and I sat, in front of all of them, and drank, because my hands would not lift another head and there was no longer any use pretending they might. I have been asked since whether I hated him in that moment. I did not. There is no hating a tide. I hated the *stool*. I hated that he was kind. Contempt I could have carried out of that yard with my back straight; mercy I had to be helped to.
 
 Here is what I tell myself, and here is where you must watch me, because this is the part of an elegy that lies.
 
 I tell myself that something true died on that floor — that there had been a world in which the whole self mattered, in which a thing made slowly and at cost was worth more than a thing made fast and cheap, and that the world ended that night, and I am its last honest mourner. It is a beautiful thing to tell oneself. It has dignity. It lets the loss be a *tragedy* rather than a *correction*.
 
-But I have had years to sit with it now, in the workshop they let me keep, and on the colder mornings I can almost see the other shape of it: that my craft was never the golden age I am grieving. That it was always the narrow gate, the slow hand, the bottleneck the whole world was waiting, without knowing it, for someone to widen. That I spent fifty years being magnificent at a thing whose only real property was that *not many people could do it* — and that scarcity is not the same as worth, however much it feels like worth from the inside. The dwarf did not destroy a beautiful thing. He revealed that the beauty had been a toll-gate, and that I had been the man at the gate, mistaking the queue for love.
+But I have had years to sit with it now, in the workshop they let me keep, and on the colder mornings I can almost see the other shape of it: that my craft was never the golden age I am grieving. That it was always the narrow gate, the slow hand, the bottleneck the whole world was waiting, without knowing it, for someone to widen. That I spent fifty years being magnificent at a thing whose only real property was that *not many people could do it*. The dwarf did not destroy a beautiful thing. He revealed that the beauty had been a toll-gate, and that I had been the man at the gate, mistaking the queue for love.
 
 I cannot hold that shape for long. It is too cold to keep in the hand. So I let it go and return to the elegy, which is warmer, and which is mine, and which is — I am almost certain — not quite true.
 

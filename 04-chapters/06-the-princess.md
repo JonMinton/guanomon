@@ -2,6 +2,8 @@
 
 ---
 
+> *Taken down from her own telling, in the twentieth year of the keeping.*
+
 My father thinks I was taken. It is the kindest thing about him and the thing I can least forgive, because it means that to the end of his life he will believe I am somewhere far away being held, when in fact I am exactly where I chose to be, and happy, and home.
 
 Let me tell you when I knew. It was not the marriage; the marriage was paperwork I happened to like the look of. It was the first time I rode the Underway.
@@ -22,4 +24,4 @@ I am to have children. I find I think about their height. Is that a strange thin
 
 I said this aloud once, to my husband, lightly, over supper — *I do hope they don't grow too tall* — and he laughed, because he thought I was joking, and I laughed too, because it is the sort of thing one laughs about. And only later, alone, did I notice that I had meant it, and that there was nothing in me that minded having meant it, and that this, precisely this, was the thing my father keeps watch all night to prevent and has already, completely, lost.
 
-He keeps a worn coin in his hand. I have seen him do it. He thinks I do not notice things; he thinks noticing is *his*. But I notice. I simply notice different things, and love them.
+He keeps a worn coin in his hand. I have seen him do it. He thinks I do not notice things; he thinks noticing is *his*. But I notice. I simply notice different things.

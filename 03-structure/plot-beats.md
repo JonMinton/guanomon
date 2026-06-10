@@ -13,12 +13,20 @@
 | V | [[the-king\|The King]]  | horror                    | the throne-room coup                 |
 | VI | [[the-princess\|The Princess]] | conversion / bildungsroman | the strategic marriage; her naturalised conversion |
 | VII | [[vesser\|Vesser]] — *watching [[brask\|Brask]]* | elegy-as-observer narrating the technical sublime | Brask building the Hum |
-| VIII | [[garran\|Garran]]    | war confession / disillusioned memoir | "I once killed a dragon"; the Hummingbird demonstration |
-| IX | [[dalla\|Dalla]] — *private* | interior monologue, to no one | the weary irony; the cost of the on-air account |
-| X | [[the-guild\|The Guild]] | corporate annual report   | the normalisation montage            |
-| XI | [[the-dragon\|The Dragon]]| first person — fable-outside | the metabolic decline; gaze reopens; the dragon-Hum |
+| VIII | [[garran\|Garran]]    | war confession / disillusioned memoir | "I once killed a dragon"; the Hummingbird demonstration; the Peacekeeper shame |
+| IX | [[the-bride\|Liesse]] *(added 2026-06-10)* | **epistolary — the Censor's fair copies**, struck passages on the page | the fist's receiving end; the surety marriage; "it sounds like me" |
+| X | [[dalla\|Dalla]] — *private* | interior monologue, to no one | the weary irony; the cost of the on-air account |
+| XI | [[the-physician\|The Physician]] *(added 2026-06-10)* | **clinical case-book**, years 18–31 of the keeping | the laundering sincerely inhabited; the herd-wide decline; "the patient sings" |
+| XII | [[the-guild\|The Guild]] | corporate annual report   | the normalisation montage            |
+| XIII | [[brask\|Brask]] | technological-progress account | the Hummingbirds; "only a question of mass and number" |
+| XIV | [[the-dragon\|The Dragon]]| first person — fable-outside | the metabolic decline; gaze reopens; the murmur |
 
-**Eleven accounts across nine narrators.** *(The former Scene 1 prologue is no longer a
+**Fourteen chapters: thirteen personal accounts across eleven narrators, plus the Guild's
+institutional address.** *(Rev. 2026-06-10: [[the-bride|Liesse]] and [[the-physician]]
+adopted — see [[second-iteration-proposals]] and [[writers-room-2026-06-10]]. The tail's
+**document quota is full**: any future transcript/ledger/filed-form chapter is presumptively
+rejected. Exactly two chapters carry no provenance epigraph — X and XIV, the unit and the
+source, the two accounts the apparatus never filed. Never mark the gaps.)* *(The former Scene 1 prologue is no longer a
 separate part: as of 2026-05-31 it is the opening movement of [[marga|Marga's]] account, in her
 first person — see below.)* Two narrators carry **two non-adjacent chapters each** — [[dalla|Dalla]] (on-air persona /
 private monologue) and [[vesser|Vesser]] (his own elegy / observing [[brask]]). **Two strong non-POV characters** appear *inside* others' chapters rather than narrating:

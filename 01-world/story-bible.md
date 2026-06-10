@@ -280,6 +280,14 @@ externality nobody priced in — but it is never stated. The mechanism carries i
 
 ## Timeline (anchor dates as relative beats)
 
+> **The in-world era — "the year of the keeping" (added 2026-06-10, branch):** documents in
+> the new order date from the start of husbandry (≈ the discovery, T0). Introduced on-page by
+> the [[the-bride|Censor's]] filing note (year 26) and the [[the-physician|Physician's]]
+> case-book (years 18–31). Use it for any filed/diegetic document; it doubles as the
+> temporal-anchor device the GPT review asked for. Cross-check before reuse: the +10
+> colonial beat ≈ years 10–26; the +30 decline ≈ years 28–31; [[garran|Garran's]] dragon-kill
+> must sit within a year or two of T0 (any later and he killed inside the keeping).
+
 1. *T−6 months* (rel. to Scene 1): the accidental discovery and the schism — a
    *conventional* treasure-raid, on the same old rules (toward the gold, away from the
    dragon and its filth), until [[dalla|someone is soiled for the first time]]. See the

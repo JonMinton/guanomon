@@ -2,7 +2,7 @@
 
 ---
 
-> *Transcribed from the Hour. Seventh bell. The mark on the spool reads: a national treasure, returning.*
+> *Transcribed from the Hour. Seventh bell, in the twenty-fourth year of the keeping. The mark on the spool reads: a national treasure, returning.*
 
 **SENNET.** — and she needs no further announcing, which has never once stopped me announcing her. Friends, you know the voice. You have known it longer than you have known some of your own family, and I will wager it has been kinder to you. Will you welcome, to the Hour, the woman the whole age is built upon — Dalla.
 
