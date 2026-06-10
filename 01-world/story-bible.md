@@ -57,7 +57,7 @@ fantasy: the optimal move was never heroism.)
   - **Sappers' Guild — now the balance of power (2026-05-31):** feedpipes, power, engineering,
     [[guano|repotentiation]], explosives. As the order's *infrastructure* became its foundation,
     the sappers rose to the top of the confederation; the annual **confederated Guild address**
-    ([[the-guild]], chapter 10) is delivered by the **Sappers' chair**. The new chair's voice is
+    ([[the-guild]], chapter 12) is delivered by the **Sappers' chair**. The new chair's voice is
     that of the people who literally lay and tend the apparatus the age runs on.
   - **Mages' → Alchemists' Guild** is meanwhile **spinning off a Hummers' Guild** to tend the
     [[the-hum|Hum]] apparatus — the old craft giving birth to the broadcast trade. See [[guilds]].
@@ -66,8 +66,8 @@ fantasy: the optimal move was never heroism.)
     Butchers' guilds swell into the *input* side of the energy economy — the mirror of the
     collection crews and Beekeepers' on the output/catalyst side. The **Confectioners' Guild** buys
     the dragons' sweet by-products ("essence of drake" — the [[story-bible|diabetes]] tell sold as a
-    luxury). All three are folded as texture, named in the Guild address ([[the-guild]], ch.10) and
-    in [[the-dragon]] (ch.11). Source: [[earlier-dragon-and-food-economy]].
+    luxury). All three are folded as texture, named in the Guild address ([[the-guild]], ch.12) and
+    in [[the-dragon]] (ch.14). Source: [[earlier-dragon-and-food-economy]].
 - Geopolitics reorganises around dragon territory: not conquest but **land rights,
   grazing disputes, breeding programmes**.
 - **The "Dalla"** — the unit of energy output, named after the woman whose

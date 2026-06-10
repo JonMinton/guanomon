@@ -1,7 +1,7 @@
 # Brask — the alchemy-native mage
 
 > **NOW A POV NARRATOR** *(rev. 2026-05-31; reverses the earlier non-POV call).* Brask narrates
-> the **penultimate chapter** (`04-chapters/11-brask.md`) — a flat, un-introspective
+> the **penultimate chapter** (`04-chapters/13-brask.md`) — a flat, un-introspective
 > *technological-progress account* in which the obliviousness **is** the characterisation. He is
 > still **observed from outside** in [[vesser|Vesser's second chapter]] (the Hum's dawn); that
 > chapter now **sets up** his inside view rather than being the sole window onto him. The study
