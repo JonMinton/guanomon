@@ -8,6 +8,8 @@
 
 The office I hold was the crown's once. Physician-in-ordinary: taster to the royal body, keeper of its waters. My grandmother held the post, and her father before her, back along the whole line of kings. The art is unchanged — the cup, the finger, the tongue, the ledger. The body that matters has moved, and the office moved with it, downward. The patient is larger.
 
+My warrant names two duties: the health of the source, and the steadiness of its yield. No provision is made for any case in which the two part company. I have not asked for one. The warrant is renewed yearly, at the Guild's pleasure.
+
 Routine attendance. The sample was taken at the usual hour, from the usual channel. Sweet — and sweeter than the spring quarter, which was itself sweeter than the winter. I have entered *mellituria*, early presentation, and recommended a reduction of feed.
 
 The recommendation goes to the committee. *(Appended, fourth quarter: the committee thanks me for my diligence. The schedule is unchanged. Output considerations are cited.)*

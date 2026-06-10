@@ -56,6 +56,17 @@ in clinical form — so the final chapter can shed exposition and keep dread:
   misreading institutionalised, one chapter before the [[the-guild|Guild]] cites it and two
   before the [[the-dragon|Dragon]] decodes it.
 
+## The dual mandate (per Jon, 2026-06-10 — load-bearing)
+His office holds **two conflicting duties**: the **care of the patient** (pushes against
+overfeeding) and the **steadiness of the yield** (pushes toward it). **He is guided by the
+former, and mindful he serves only at the pleasure of the Guilds** — his warrant names both
+duties, "no provision is made for any case in which the two part company," and it is renewed
+yearly. Every overridden recommendation in the case-book is the two duties parting company
+while he keeps the post. His compromise is never corrupt advice — the recommendations stay
+honest — it is *compliance with the verdict*: he records, files, renews, and does not pursue.
+The committee exists so that the choice between his duties is never formally his; the
+chapter's quiet horror is how grateful he is for that.
+
 ## What he sees
 Everything, numerically. He is the best-informed human in the book about the thing the book
 is about — the only one holding the aggregate data of the herd's decline.
