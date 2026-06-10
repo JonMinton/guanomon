@@ -1,11 +1,11 @@
 # Liesse — the bride (the conquered voice)
 
-> **PROPOSED ACCOUNT (branch: second-iteration, 2026-06-10).** Answers Jon's direction (4):
-> a perspective from a territory "demonstrated to" and forced into protectorate terms — the
-> receiving end of the Leviathan's fist, which the book currently voices only through its
-> perpetrators ([[garran|Garran]]'s confession, the [[the-king|King's]] planning table, the
-> [[the-guild|Guild's]] laundering). Draft chapter: `04-chapters/09-liesse.md`, slotted
-> directly after [[garran|Garran]].
+> **ADOPTED (2026-06-10, wholesale).** Answers Jon's direction (4): a perspective from a
+> territory "demonstrated to" and forced into protectorate terms — the receiving end of the
+> Leviathan's fist, which the book otherwise voices only through its perpetrators
+> ([[garran|Garran]]'s confession, the [[the-king|King's]] planning table, the
+> [[the-guild|Guild's]] laundering). Chapter: `04-chapters/09-liesse.md`, directly after
+> [[garran|Garran]].
 
 **Name:** **Liesse** *(provisional — soft, vowel-led, deliberately from another phonology
 than the consonant-heavy new-world names: Brask, Grundrak, Korrin).* The conquerors call her

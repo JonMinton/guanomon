@@ -1,10 +1,14 @@
 # Second-iteration proposals — the decision menu
 
-> **Branch: `second-iteration` (2026-06-10).** Everything on this branch is additive —
-> no existing chapter prose was edited. This note indexes what was built, what the
-> [[writers-room-2026-06-10|writers' room]] found, and the calls that are **Jon's to
-> make**. Leans recorded throughout. The canonical [[decisions]] ledger is untouched;
-> adopting any item below means promoting it there.
+> **STATUS: ADOPTED WHOLESALE (Jon, 2026-06-10) — all items below are executed** and
+> promoted to the [[decisions]] ledger ("Second iteration — 2026-06-10"). §§1–6 are done:
+> both accounts adopted; the ch. XIV diet run (ends on "They think it is docility.");
+> dossier epigraphs on all chapters except X and XIV; the materialist one-liners placed
+> (sapper composition per Jon's correction — predominantly dwarven, pre-novum human-headed
+> — NOT the room's "dwarf-officered, human-manned"); the aphorism-engine voice pass run on
+> chs. 01–03, 05, 06, 08, 10, 13; the sentence-length axis added to
+> [[voice-differentiation]] per Jon's direction. This note is retained as the record of
+> the menu as it was decided.
 
 ## What's on the branch
 

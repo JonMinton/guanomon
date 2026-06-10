@@ -2,11 +2,13 @@
 
 ---
 
+> *Found among his papers, in his own hand. The sixteenth year of the keeping.*
+
 I have set the night down so many times that I no longer trust my memory of it, only my record. So I will give you the record. It is precise. Precision is the one sovereignty they left me.
 
 The first charge came at the third hour after midnight, against the outer curtain wall, on the northeast face, forty feet of granite that had stood through two sieges and a bad century. I did not yet know it was a charge. I knew it as a sound that should not exist — a sound with no army in front of it, no engines, no months of sapping, no warning from any watch. One sound, and then a silence in which forty feet of granite was simply no longer a fact about the world.
 
-The second came against the inner gate at the fourth hour. The third against the doors of the keep itself. I have since had it explained to me, courteously, how little of the substance each one required. A man can carry a coup in a satchel now. I had spent my whole reign defending a perimeter that had ceased, without my being told, to mean anything at all. A wall is a sentence in an argument about who can reach whom. They had stopped arguing.
+The second came against the inner gate at the fourth hour. The third against the doors of the keep itself. I have since had it explained to me, courteously, how little of the substance each one required. A man can carry a coup in a satchel now. I had spent my whole reign defending a perimeter that had ceased, without my being told, to mean anything at all. A wall is a sentence in an argument between besieger and besieged. They had stopped arguing.
 
 I want to record what I did, because it is the only thing in the whole account that was mine. I dressed.
 

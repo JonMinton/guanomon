@@ -37,7 +37,8 @@ brief is in [[background]]; the orientation is in the [README](README.md).*
 - [[marga]] — the shoveller; the Guano Guild's human face · *working-class realism (the un-genre)*
 - [[brask]] — the systems-genius who built the Hum & co-built the Hummingbirds · *technological-progress account* (penultimate; promoted to POV 2026-05-31)
 - [[the-dragon]] — the source · *undecided / fable-from-outside*
-- *(Proposed, branch second-iteration — see [[second-iteration-proposals]]):* [[the-bride|Liesse]] — the conquered surety-bride · *censored letters home*; and [[the-physician]] — the dragons' doctor · *clinical case-book*
+- [[the-bride|Liesse]] — the conquered surety-bride · *censored letters home* (adopted 2026-06-10; the recurrence thesis's negative case)
+- [[the-physician]] — the dragons' doctor · *clinical case-book* (adopted 2026-06-10; carries the finale's clinical payload forward)
 
 *Non-POV characters (seen inside others' chapters): **[[sennet|Sennet]]** — Dalla's unctuous
 interviewer — in her on-air transcript chapter; and **[[korrin]]** — Brask's dwarf fuel-engineer

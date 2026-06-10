@@ -51,13 +51,27 @@ remaining voice-collisions can be solved without touching elevation at all:
    - Liesse (proposed) — proverbs of her own tongue, rendered literally, slightly wrong.
 
 5. **Abstraction budget** — how often image is allowed to rise into thesis. This is where
-   the four high narrators collide. Proposed rationing: **Vesser unlimited** (essayistic
-   beauty is his *flaw*, confessed in-chapter: "this is the part of an elegy that lies");
-   **King two or three**, each delivered as a forensic finding, not a meditation;
-   **Dragon several, but every abstraction must pass through the body** (appetite,
-   weight, taste) before it may generalise; **Grundrak one**, the chair line, already
-   locked. **Marga: one per account, immediately deflated** ("a true thought and a
-   useless one").
+   the four high narrators collide. *(Budgets renegotiated 2026-06-10 against the actual
+   page, per the writers'-room line edit — the original numbers described "a book that
+   hasn't been written yet.")* **Vesser unlimited** (essayistic beauty is his *flaw*,
+   confessed in-chapter: "this is the part of an elegy that lies"); **King five, and the
+   epigram-shape is exclusively HIS** — when any other narrator compresses, it must not
+   click like the King; **Dragon several, but every abstraction must pass through the
+   body** (appetite, weight, taste) before it may generalise; **Grundrak three**, all in
+   assay-domain, the chair line the only polished one ("saint over a sum" cut 2026-06-10
+   as salon writing); **Marga: one per account, immediately deflated** ("a true thought
+   and a useless one"). **The aphorism-engine rule (the room's strongest converged
+   finding): Garran, the Princess and Marga get NO perfect closing clause — their chapters
+   end flat or not at all.**
+
+   **Register of licensed rhymes** *(cross-voice repetitions that are design, not
+   trespass; everything not listed here is a bug)*: the King/Princess worn coin; the
+   Garran/Dragon arithmetic-of-reach (the King's wall sentence rehoused out of it,
+   2026-06-10); the Liesse/Princess warmth-and-low-doors counterpoint (same furniture,
+   opposite valence); the Physician/Guild/Dragon column vocabulary (truth, laundering and
+   decode sharing one ledger); the Marga/Dragon ignored-gold seam (her levered crown, her
+   "nobody at all" → the hoard as hiding place); dead-metaphor tides only (the Guild's
+   "dependable as the tides" boilerplate is licensed; live tides are Vesser's alone).
 
 6. **Irony stance** — how willing the narrator is to state their own irony:
    - States it as analysis: King.
@@ -90,10 +104,38 @@ remaining voice-collisions can be solved without touching elevation at all:
    - Liesse: the over-correct formality of the careful second-language writer — never
      broken grammar; *too-perfect* grammar.
 
-8. **Forbidden moves** — the cheapest enforcement mechanism. One per narrator:
+8. **Sentence & paragraph length** *(added 2026-06-10, per Jon's direction: "different
+   general tendencies towards short over long sentences being a defining characteristic of
+   first hand accounts" — and variety WITHIN chapters, so no account is metronomic).*
+   Each narrator gets a home tempo and a licensed deviation:
+   - **Short-tending:** Marga (short flat declaratives in long unbroken paragraphs — the
+     shift as a single block; deviation: the rare run-on when the work takes over the
+     sentence). Garran (short statement, then the longer sentence that takes it back).
+     Brask (short, de-contracted, full stops as bench-discipline; deviation: the one long
+     sentence when describing a mechanism he loves). The Physician (clipped entries;
+     deviation: the appended committee notes run longer than his own).
+   - **Long-tending:** Vesser (the suspended musical period; deviation: the abrupt short
+     sentence when the body interrupts the elegy — "I want that hour."). The Princess (the
+     long sentence that arrives somewhere warm; deviation: short only when pricing
+     something). Sennet (florid, never silent). The Dragon (clauses stacked with predatory
+     patience before the strike — and the strike itself is SHORT; her paragraphs should
+     alternate tidal length with two-word kills).
+   - **Mixed-by-design:** the King (forensic short findings inside long analytic
+     architecture — "I dressed." is the model); Grundrak (oral — hammering short triplets
+     against run-on accumulations); Dalla-private (the joke is short, the audit is long);
+     Liesse (over-correct medium sentences; under pressure she goes SHORTER, never longer
+     — fracture, not flow).
+   - **Audit rule:** within any chapter, consecutive paragraphs should not share the same
+     shape; every long-tending narrator needs at least two one-line paragraphs, and every
+     short-tending narrator at least one sentence that runs past three clauses.
+
+9. **Forbidden moves** — the cheapest enforcement mechanism. One per narrator:
    - King: no organic imagery (water, growth, breath — those are Vesser's and the
      Dragon's).
-   - Vesser: no numbers. He never counts; the count was the thing that beat him.
+   - Vesser: no NEUTRAL numbers (prices, distances, dates). Wound-numbers are not only
+     allowed but compulsory — the hour, the third hour, his age, the count itself: a man
+     destroyed by a count counts compulsively. *(Rule inverted 2026-06-10; the original
+     "no numbers" was psychologically backwards and contradicted by the page.)*
    - Grundrak: no beauty except the one spike.
    - Princess: no grief. Not suppressed — absent.
    - Garran: no glory-vocabulary, even negated.

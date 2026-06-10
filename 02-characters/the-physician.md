@@ -1,10 +1,11 @@
 # The Physician — the dragons' doctor
 
-> **PROPOSED ACCOUNT (branch: second-iteration, 2026-06-10).** Answers two standing needs at
-> once: the GPT review's §2 ("the Dragon chapter explains too much too late — seed one or
-> two of these elements earlier") and Jon's direction to spread the final chapter's payload
-> onto other carriers, naming the dragons' physician specifically. Draft chapter:
-> `04-chapters/11-the-physician.md`, slotted directly before [[the-guild|the Guild]].
+> **ADOPTED (2026-06-10, wholesale).** Answers two standing needs at once: the GPT review's
+> §2 ("the Dragon chapter explains too much too late — seed one or two of these elements
+> earlier") and Jon's direction to spread the final chapter's payload onto other carriers,
+> naming the dragons' physician specifically. Chapter: `04-chapters/11-the-physician.md`,
+> directly before [[the-guild|the Guild]]. The corresponding ch. XIV diet is executed —
+> see [[decisions]].
 
 **Account genre:** clinical case-book — extracts from a professional log spanning ~13 years.
 The laundering register *sincerely inhabited*: where the [[the-guild|Guild]] launders for an

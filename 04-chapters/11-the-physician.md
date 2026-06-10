@@ -2,7 +2,7 @@
 
 ---
 
-> *Extracts from the case-book of the Physician-in-Ordinary to the Source. The entries span thirteen years. The case-book is the property of the Guild.*
+> *Extracts from the case-book of the Physician-in-Ordinary to the Source, the eighteenth to the thirty-first years of the keeping. The case-book is the property of the Guild.*
 
 **Eighteenth year of the keeping; second quarter.**
 

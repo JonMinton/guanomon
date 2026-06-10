@@ -12,7 +12,7 @@ They tell me you will have this before the feast of the lamps, if the fleets are
 
 You will have heard by now what happened at the river meadow. I was not there. I will not write here what was told to me by those who were, […] and afterwards it was very quiet, they say, for a long time, and the birds came back before anyone moved.
 
-The terms were read out in the square in both tongues. Theirs is the shorter tongue. Everything in it takes fewer words than it deserves. Father stood very straight, and signed, and I am part of the signing — there is a word for it which the interpreter rendered as *surety*, and Father says it is an honour, and that I am the seal upon a great peace. A seal is a thing pressed, Mother. I looked it up in their tongue, to be certain. It is the same word.
+The terms were read out in the square in both tongues. Theirs is the shorter tongue. Everything in it takes fewer words than it deserves. Men came with the delegation who went up to the old mountain before the signing, and counted, and came down satisfied. What it was they went to count, and what is to be done with […]. Father says it is not ours to ask now. Father stood very straight, and signed, and I am part of the signing — there is a word for it which the interpreter rendered as *surety*, and Father says it is an honour, and that I am the seal upon a great peace. A seal is a thing pressed, Mother. I looked it up in their tongue, to be certain. It is the same word.
 
 I write in their tongue, as we are asked to; the office must be able to read what it carries. Forgive the shape of my sentences. You taught me better ones.
 

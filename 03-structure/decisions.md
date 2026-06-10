@@ -53,6 +53,49 @@
   **Peacekeepers'**). *(Knock-on: the "Sappers' = GAP / no POV" line in [[guilds]] is now stale —
   the sapper voice is the Guild address; update [[guilds]] when convenient.)*
 
+## Second iteration — 2026-06-10 (adopted wholesale; writers'-room pass)
+Jon adopted the [[second-iteration-proposals]] menu wholesale. Locked:
+- **Two accounts ADOPTED:** [[the-bride|Liesse]] (ch. IX — censored letters; the conquered
+  surety-bride; the recurrence thesis's *negative case*) and [[the-physician]] (ch. XI —
+  clinical case-book; redistributes the finale's clinical payload). **Cast: 14 chapters,
+  13 personal accounts / 11 narrators + the Guild address.** Female-instrument-body rhyme
+  deliberately extended to a fourth term (Liesse), across the power gradient.
+- **The ch. XIV diet executed** (3,364 → ~2,830 words): portion-control paragraph cut
+  (salvaged "I understand them…"); stimulus-trial restaging halved; wing-breaking keeper
+  procedure cut (her-side doublethink kept whole); sanitorium generalisation to one clause;
+  requisition list trimmed (hoard-return mechanism kept entire); murmur tutorial trimmed.
+  **Ends on "They think it is docility."** — the "Soon, now. / Soon." sting cut.
+- **Dossier frame ADOPTED, minimum dose:** one-line provenance epigraphs, dated in **the
+  year of the keeping** (now in [[story-bible]]), on every chapter EXCEPT X (Dalla-private)
+  and XIV (the Dragon) — the two unfiled accounts. **Never mark the gaps.** Marga's
+  square-bracket aside regularised; [[garran|Garran's]] kill re-dated ("thirty years gone")
+  to sit at ≈T0.
+- **Voice pass (aphorism-engine fixes):** the epigram shape is the [[the-king|King's]]
+  alone; his "who can reach whom" rehoused (Garran/Dragon keep the reach rhyme); Vesser's
+  wall-epigram and scarcity-thesis cut; Grundrak's "saint over a sum" cut; the Princess's
+  closer flattened; Garran's and Dalla-private's identical ironic-denial endings split
+  (his flattened, hers kept); the cage epigram settled on the Dragon (Dalla's reworked as
+  joke-then-audit); Marga's "snow that's learned to gleam" cut, tide → bellows; Brask's
+  three interiority-ban breaches repaired. **Sentence-length axis added** to
+  [[voice-differentiation]] (Jon's direction): per-narrator short/long tendencies + the
+  within-chapter variety audit rule.
+- **Materialist one-liners:** Guild address gains the revenue clause ("nothing crosses the
+  water empty in either direction") + the chair's correction-of-history sentence + ¶5/¶6
+  trims; [[garran|Garran]] gains the Peacekeeper paragraph canon promised; Marga gains the
+  dwarf pipe-crews half-line and a *seen* footbee ("a foot of bee… you hear them coming");
+  Liesse gains the struck-lair passage (the counted mountain).
+- **Sappers' composition (per Jon, supersedes the room's version):** predominantly
+  **dwarven** guild (earth-displacement is dwarven expertise); **pre-novum often
+  human-headed** (political appointment); post-novum dwarf-chaired, with the **human
+  minority tier** working the surface drying/compression — the risk inversion inside one
+  guild. [[labour-and-order]]
+- **Dragon society canon** ([[dragons]] §society): wild solitaries; **the farm made the
+  flock** (concentration precedes coordination); breeding as domestication; clutch
+  separation as the severed (murmur-respliced) inheritance; the **faculty/network/pattern**
+  mechanics ruling — biological murmur short-range, the built devices are **repeaters**.
+- **Hummingbird ladder CLOSED** ([[hummingbirds]]): seven rungs, add nothing, no second
+  demonstration scene ever; Liesse stays channel-less permanently.
+
 ## Revision pass — 2026-05-31 (two-model review: GPT + Gemini)
 Acting on a combined external review (in `reviews/`). Key calls:
 - **[[brask|Brask]] promoted to a POV** (penultimate chapter): a flat, un-introspective
