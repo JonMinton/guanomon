@@ -52,6 +52,7 @@ Brask's own inside view.)*
 - [[plot-beats]] — account order, genre map, the two organising rhymes, failure-mode watch-list
 - [[decisions]] — the decisions ledger: every locked call and every deliberate deferral
 - [[second-iteration-proposals]] — *(branch)* the decision menu: two proposed accounts, the ch. 14 diet, the dossier frame, the voice pass — with the [[writers-room-2026-06-10|writers' room]] synthesis behind it
+- [[murmur-interlude]] — *(proposed)* an early interstitial of banal dragon dialogue through the murmur; rationale, placement options (A early/ambiguous vs B back-third), myth-guard
 
 ## Drafting
 - [[_chapter-template]] — copy per account into `04-chapters/` when (and only when) drafting begins

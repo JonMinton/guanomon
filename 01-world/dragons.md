@@ -71,7 +71,9 @@ distance in **low, slow song carried through the air** — long-wavelength, sub-
 the human ear, which registers it (when at all) as weather, as the noise of a large animal,
 as nothing. That humans hear it and file it under *animal* is the oldest instance of the
 book's master-pattern: **the conspiracy was always audible and always illegible, because the
-listeners decided in advance what it meant.**
+listeners decided in advance what it meant.** *(For the murmur shown **lived and banal** —
+ordinary dragon traffic, the seeding-of-memory happening in plain sight — see the proposed
+interlude [[murmur-interlude]].)*
 
 **4. Ancestral memory and the long view — the buried portent.** Dragons carry something like
 **inherited memory**: each remembers, dimly, far further back than it has lived — through the
@@ -92,7 +94,11 @@ have a strong gift for **written** language: they read the humans who write and 
 in front of "livestock." (This is why [[the-dragon|the Dragon]] "understands them" so
 completely — she has been reading them for thirty years.) The asymmetry is total and
 unsuspected: the keepers have never learned a word of dragon, and never imagined there was
-one to learn.
+one to learn. **Comprehension is widespread; *speech* (producing human sound) is rare** —
+"the gift runs only the one way." Witnessed from the human blind side in
+[[the-physician|the Physician's]] case-book (he sees her read the day-board and track
+disputing keepers, files it as "conditioned to routine"), so the Dragon's own "I understand
+them" lands as confirmation, not assertion.
 
 **6. What domestication actually changed — and why the murmur exists.** Not the *existence*
 of dragon society, but its conditions:

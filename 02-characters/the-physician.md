@@ -52,6 +52,16 @@ in clinical form — so the final chapter can shed exposition and keep dread:
   none observed, "the old hunger has gone out of her" — corroborating the Dragon's "I gave
   him nothing" from the blind side. His margin note (*"I have never once known her to show us
   anything she did not choose to show"*) is the chapter's one spike.
+- **Comprehension / literacy, witnessed and laundered** *(added 2026-06-11, per Jon).* He
+  records behaviours that prove the dragon **reads human language and follows it** — she
+  positions to see the chalked day-board, tracks which of two disputing keepers proves right
+  — and files them as "conditioned to routine," the truth escaping only to the margin
+  (*"she reads us… in a tongue we never once thought to ask whether she had learned"*). This
+  carries the dragons' literacy ([[dragons]] §5) **from the human blind side**, so the
+  [[the-dragon|Dragon's]] own "I understand them. I have always understood them" lands as
+  confirmation, not assertion. Note the **asymmetry**: comprehension is widespread among
+  dragons; *speech* (producing human sound) is rare and she never does it — "the gift runs
+  only the one way."
 - **The singing** adopted as the welfare committee's *leading contentment index* — the
   misreading institutionalised, one chapter before the [[the-guild|Guild]] cites it and two
   before the [[the-dragon|Dragon]] decodes it.

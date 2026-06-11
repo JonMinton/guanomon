@@ -53,6 +53,21 @@
   **Peacekeepers'**). *(Knock-on: the "Sappers' = GAP / no POV" line in [[guilds]] is now stale —
   the sapper voice is the Guild address; update [[guilds]] when convenient.)*
 
+## Physician + murmur interlude — 2026-06-11 (per Jon)
+- **Physician carries the dragons' literacy (LIVE).** New case-book entry (26th year): the
+  patient reads the chalked day-board and tracks which disputing keeper proves right; filed
+  as "conditioned to routine," truth in the margin. Carries [[dragons]] §5 from the human
+  blind side → the [[the-dragon|Dragon's]] "I understand them" lands as confirmation. The
+  asymmetry noted: comprehension widespread, *speech* rare ("the gift runs only the one way").
+- **Murmur interlude (PROPOSED, not live).** Draft `04-chapters/_proposed-the-murmur-interlude.md`
+  ("The Singing") — banal dragon dialogue through the murmur, shown *earlier* than the
+  finale decode; the seeding-of-memory happening in plain sight; subtle pre-smartphone
+  teens-evading-parents inspiration. Held as `_`-prefixed (Story build skips it) pending
+  Jon's placement call: **(A) early & ambiguous (recommended)** vs **(B) before the
+  Physician (safe)**. Myth-guard + open Qs in [[murmur-interlude]]. If adopted it is a
+  **third unfiled chapter** (no provenance epigraph) — reframes the two-gap dossier design
+  as "the record has holes shaped like what it cannot hear."
+
 ## Dragon-society revision — 2026-06-11 (per Jon)
 Reworked the dragon sociology/biology on a richer, research-backed model.
 - **SUPERSEDED: "the farm made the flock."** New canon ([[dragons]] §society): dragons

@@ -42,6 +42,14 @@ The separation of clutches is now general policy across the sites, on welfare gr
 
 I record it as settling. There is no other column.
 
+**Twenty-sixth year; first quarter.**
+
+A note on comprehension, which I set down because it troubles me and there is nowhere else to set it.
+
+The patient anticipates. She is at her station before the carts are in the passage. She turns the printed face of the day-board toward herself — she, who can have no use for printing. And twice now, when two keepers have disputed a date within her hearing, her eye has gone to the one who proved right *before* the matter was settled between them. The wild-caught never did these things. The committee records it as successful gentling, and I have written, in the column provided, *conditioned to routine*.
+
+She has never made a sound any of us could call a word; the gift, if it is one, runs only the one way. But conditioning does not turn a page toward itself. I will not write that twice. The margin may hold it the once: she reads us. She has read us all along, and we have spent thirty years settling her feed across her open ear, in a tongue we never once thought to ask whether she had learned.
+
 **Twenty-seventh year; fourth quarter.**
 
 The source's requisitions continue, and grow more particular — a cup bound with one kind of wire and not another; a reliquary set with the named crystal only; each indulged, enjoyed a while, and returned to the hoard when she tires of it. The committee is charmed. The indulgence costs nothing we still count. For my part I have scored the behaviour highly, under *engagement*: an animal that takes an interest is a well animal. It is the one appetite of hers the schedule did not make, and the only one we can afford to feed.
