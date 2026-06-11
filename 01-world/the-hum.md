@@ -64,13 +64,17 @@ remotely directed munitions (a drone-warfare parallel). The two novums, split be
 hard and soft power, reconverge as the means of killing at a distance, and threaten to
 end [[garran|the slayer's]] last role.
 
-## Discovered twice — the mages, then the dragons
-The Hum is not a one-off invention. The displaced **mages** find it; later the suppressed
-**[[dragons]]** find their own version — a resonance channel in the [[above-and-below|
-un-wired deep]] humans can't monitor (the project's chosen ending lean). Coordination is so
-decisive that *whoever the system corners reaches for it*; the novum **recurs** because the
-pressure recurs. That recurrence is a determinist point, not a coincidence — same pressure,
-same answer, different species. See [[dragons]].
+## Discovered twice — the mages, then the dragons *(refined 2026-06-11)*
+The Hum is not a one-off invention. The displaced **mages** invent broadcast from nothing;
+the suppressed **[[dragons]]** do something subtler — they **already had** a long-distance
+voice (air-borne **song**, which humans always misread as animal noise), and under
+domestication they **transpose it into the rock** as **the murmur** (full model:
+[[dragons]] §society, [[dragons-hard-magic]]). So the "discovered twice" point sharpens:
+the mages discover the *channel*; the dragons discover a *new medium for a channel they
+always had*, driven into the [[above-and-below|un-wired deep]] humans can't monitor.
+Coordination is so decisive that *whoever the system corners reaches for it* — the mages
+build it, the dragons **relocate** it. Same pressure, same answer, different species; a
+determinist point, not a coincidence. See [[dragons]].
 
 ## The murmur — the dragons' register-counterpart (rev. 2026-05-31)
 The dragons' version has its own name: **the murmur**. It is the Hum's opposite in every
@@ -82,7 +86,15 @@ load-bearing dimension, and the contrast **mirrors the two political orders**:
 - **The murmur is rock-borne, deep / low-frequency, *emergent and leaderless*.** No source,
   no conductor, no broadcaster. Each dragon merely **senses the others**; coordination
   wheels out of that mutual awareness the way a **starling murmuration** does — no centre,
-  no commander, **uncommandable**. *You cannot break the wings of a pattern.*
+  no commander, **uncommandable**. *You cannot break the wings of a pattern.* **Not a brand-new
+  faculty:** it is the dragons' **ancient air-song** (always long-range, always social)
+  **re-coupled into the earth** — low frequencies carry *further* through rock than air **and
+  on far less power**, so the dragons can murmur *quieter* (below the human noise floor) than
+  their old sky-song allowed; the deep is un-wired and un-watched. The *channel* always
+  existed; what is new is the **medium** (rock), the **economy** (denser = cheaper to whisper
+  in), and the **concealment** — they fold their timing into the humans' own industrial
+  vibration (blasting, the [[story-bible|Underway]], the digging). See [[dragons]] §society
+  and the [[dragons-hard-magic]] seismic backbone.
 
 This is why the defection at the end **cannot be ordered** — there is no one to order it. It
 can only *emerge*, which is exactly what keeps the ending **cold and unconfirmed**: a

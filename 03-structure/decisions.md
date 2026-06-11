@@ -53,6 +53,37 @@
   **Peacekeepers'**). *(Knock-on: the "Sappers' = GAP / no POV" line in [[guilds]] is now stale —
   the sapper voice is the Guild address; update [[guilds]] when convenient.)*
 
+## Dragon-society revision — 2026-06-11 (per Jon)
+Reworked the dragon sociology/biology on a richer, research-backed model.
+- **SUPERSEDED: "the farm made the flock."** New canon ([[dragons]] §society): dragons
+  **always had a dispersed society and long-distance communication** (air-borne **song**,
+  which humans misread as animal noise/weather). Solitary **by arithmetic** (apex-predator
+  territory energetics), not temperament. They met for **rites** — matings, births,
+  funerals, territory negotiation, and the **collective putting-down of upstarts** (a
+  leaderless balance of power). Domestication didn't *create* their society; it
+  **concentrated** it (dense rock-contact), **threatened** it (captivity → the threat is now
+  to the kind), and **surveilled** the air (the Hum) — forcing the song **underground** as
+  the **murmur**.
+- **The murmur = the air-song transposed into rock** (not a new faculty). Real physics
+  ([[dragons-hard-magic]]): low frequencies carry **further through denser/stiffer media**
+  (rock, water) than air, with much lower attenuation — so the same reach costs **less
+  power**. Per Jon (2026-06-11): this means the dragons can be **quieter and more covert** —
+  murmuring below the human noise floor and **folding their timing into industrial
+  vibration** (blasting, the Underway, the digging). The conspiracy hides in the noise of
+  the machine.
+- **Balance-of-power instinct, turned inward:** the wing-breaking is the *ancient* "converge
+  on the upstart" reflex, its target redirected by the keeping's incentives — inherited, not
+  invented by the cage.
+- **Ancestral memory + cyclic-history portent (easter egg):** dragons remember past their own
+  lives; the oldest hold a **cyclic view** (humans were this advanced before, and fell) →
+  a third option, **wait it out**; the Hummingbird is what makes mere waiting unsafe.
+  Delivered once, understated, in ch. 14. **Literacy:** some dragons read/learn human
+  language (gift for *written* language) — why the Dragon "understands them."
+- **Determinism preserved/sharpened**, leaderless quality intact (Dragon supplies *memory*,
+  not command). New theory note [[dragons-hard-magic]] (lit survey + real-animal models);
+  light prose touches in ch. 14 (air-song heritage, vibration-concealment, the wait-it-out
+  beat). [[the-hum]] and [[the-dragon]] updated.
+
 ## Second iteration — 2026-06-10 (adopted wholesale; writers'-room pass)
 Jon adopted the [[second-iteration-proposals]] menu wholesale. Locked:
 - **Two accounts ADOPTED:** [[the-bride|Liesse]] (ch. IX — censored letters; the conquered

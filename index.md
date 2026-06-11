@@ -24,7 +24,8 @@ brief is in [[background]]; the orientation is in the [README](README.md).*
 ## Theory (research-backed)
 - [[genre-theory]] — novum & cognitive estrangement (Suvin); SF vs fantasy; hard/soft magic (Sanderson); the **bridge thesis**
 - [[discovery-gating]] — "why now, not centuries earlier?" — economic-history mechanisms + the storyboarded fix
-- [[voice-differentiation]] — the multi-axis register map: document type, metaphor domains, abstraction budgets, forbidden moves *(branch: second-iteration)*
+- [[voice-differentiation]] — the multi-axis register map: document type, metaphor domains, abstraction budgets, forbidden moves
+- [[dragons-hard-magic]] — literature survey (Pern, Pratchett, Hobb, Novik, Le Guin…) + real-animal models (apex-predator energetics; elephant/whale seismic & low-frequency communication; longevity) behind the dragon-society revision
 
 ## The accounts (each a different genre reading of one deterministic process)
 *Old-world grief ↔ new-world fluency pairings noted in [[plot-beats]].*

@@ -31,6 +31,22 @@ threatens to *reopen* — the only character whose ending is genuinely unresolve
   gain is the cause.
 - People who think they own her, watching her. (This is the observational rhyme with
   Dalla.)
+- **The humans, read like a book** *(rev. 2026-06-11).* She *understands them* completely
+  because dragons have a strong gift for **written** language and she has spent thirty years
+  reading the keepers who write and talk freely in front of "livestock" — the asymmetry is
+  total (they never imagined there was a dragon tongue to learn). See [[dragons]] §5.
+
+## The long view — ancestral memory & the wait-it-out option *(rev. 2026-06-11)*
+She carries **inherited memory** reaching past her own long life (the song-culture; perhaps
+the blood — kept mysterious), and with it a **cyclic view of history**: the human kind stood
+about *here* before, lords of a power they thought final, and the power went out of them.
+This gives her a third option no human imagines a predator could hold — **not to fight, not
+to flee, but to wait** and outlast the civilisation as her kind has outlasted others. The
+[[hummingbirds|Hummingbird]] is what makes mere waiting unsafe (a mature swarm could keep her
+*for* the next turn of the wheel), which is why the cold calculus tips toward *leaving before
+the bars go in* rather than simply enduring. Keep it an **easter-egg portent**, delivered
+once and understated (ch. 14). Basis & hard/soft fork: [[dragons-hard-magic]] §longevity,
+§memory; full model [[dragons]] §4.
 
 ## What she's structurally blind to
 - That she is the diabetic externality of her own success — though by the end the
