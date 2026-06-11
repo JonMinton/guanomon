@@ -45,7 +45,7 @@ to flee, but to wait** and outlast the civilisation as her kind has outlasted ot
 [[hummingbirds|Hummingbird]] is what makes mere waiting unsafe (a mature swarm could keep her
 *for* the next turn of the wheel), which is why the cold calculus tips toward *leaving before
 the bars go in* rather than simply enduring. Keep it an **easter-egg portent**, delivered
-once and understated (ch. 14). Basis & hard/soft fork: [[dragons-hard-magic]] §longevity,
+once and understated (ch. 15). Basis & hard/soft fork: [[dragons-hard-magic]] §longevity,
 §memory; full model [[dragons]] §4.
 
 ## What she's structurally blind to

@@ -1,11 +1,14 @@
 # The murmur interlude — rationale, placement, guards
 
-> **PROPOSED (2026-06-11, per Jon):** an interstitial chapter rendering **banal dialogue
-> between dragons through the murmur**, placed *earlier* than the [[the-dragon|Dragon's]]
-> finale, so the channel is **shown lived** before it is explained. Draft:
-> `04-chapters/_proposed-the-murmur-interlude.md` ("The Singing"). Subtle inspiration (Jon):
-> pre-smartphone teenagers finding ways to coordinate out of earshot of parents — *subtle at
-> most.* This note holds the case for it and the open calls.
+> **ADOPTED (2026-06-11, per Jon) — now CHAPTER II, "[[02-murmurations|Murmurations]]."** An
+> interstitial rendering **banal dialogue between dragons through the murmur**, placed
+> **early and unframed** (placement A) so the channel is **shown lived** long before the
+> [[the-dragon|Dragon's]] finale (XV) decodes it. File: `04-chapters/02-murmurations.md`.
+> Subtle inspiration (Jon): pre-smartphone teenagers coordinating out of earshot of parents
+> — *subtle at most.* **Title "Murmurations"** — the starling-flock figure the murmur rests
+> on; a *murmur + conversations* pun; innocuous/atmospheric to a first reader; secretly rhymes
+> forward to [[brask|Brask's]] **Hummingbird** swarm (the same murmuration principle, one
+> built to kill, one humming to escape). This note records the case and the settled calls.
 
 ## Why it earns a slot
 1. **Spreads the finale's payload** (the standing GPT-review §2 goal, and the same logic
@@ -57,28 +60,19 @@ draft, to protect on revision:
 - **Title — provisional "The Singing"** (the humans' word for it — ironic, and avoids
   over-spelling "murmur" for an early reader). Alternatives: "The Deep," "Below," untitled.
 
-## Placement — the open call (materially changes the architecture)
-The draft works at two very different positions; this is the decision for Jon.
+## Placement — DECIDED: A, at Chapter II (Jon, 2026-06-11)
+Placed **early and unframed**, immediately after [[marga|Marga]]. Rendered so a first-time
+reader can't be sure it's load-bearing (banal traffic, no signposting) — the book's
+delayed-decode technique (Marga's ignored gold; the husband's sting) applied to its biggest
+secret. It pays off only at XV. **Bonus the slot bought:** a **surface/deep opening diptych**
+— Marga (the shoveller, the surface) then Murmurations (the deep source, awake) — the two
+ends of the vertical axis established as the present "now," both unaware of each other, before
+[[grundrak|Grundrak]] flashes the book back to the discovery. Spending the "dragons are
+sapient and coordinating" card early is a feature, not a cost: a **determinist** book *wants*
+its ending foreseen — the finale now confirms, it does not twist.
 
-- **(A) Early & ambiguous — RECOMMENDED.** Slot it after the Hum is established (~after
-  [[dalla|Dalla-on-air]] / [[the-king|the King]]), rendered so a first-time reader isn't
-  certain it's even *communication* (it could be instinct, dream, ambient creature-life).
-  It pays off only at the finale. *Pros:* maximal "planted early, inevitable," the book's
-  beloved delayed-decode technique (Marga's ignored gold; the husband's sting) applied to
-  its biggest secret; recolours every later dragon mention for the rereader. *Cons:* spends
-  the "dragons are sapient and coordinating" card early — the finale becomes decode, not
-  reveal (acceptable, even correct, for a *determinist* book that disavows twists, but a real
-  change). Risk of early-reader confusion — mitigated by the ambiguous register.
-- **(B) Back-third seed — the safe alternative.** Slot it immediately before
-  [[the-physician]], clustering the dragon thread: lived murmur → human misreading (Physician)
-  → full decode (Dragon). *Pros:* less architectural disruption; the reader has full
-  scaffolding; the three dragon-adjacent chapters build cleanly. *Cons:* a shorter
-  seed-to-payoff gap, so less of the "it was there all along" reward; and three back-to-back
-  dragon/clinical chapters thicken an already document-heavy tail.
-
-**My recommendation: (A)**, for the delayed-decode power and because a determinist book
-*wants* the ending foreseen. But (B) is the low-risk choice and I'll implement either on your
-word. Insertion = rename the file into the sequence and renumber; held until you pick.
+> *Rejected alternative (B): a back-third seed just before [[the-physician]]. Lower-risk but
+> a shorter seed-to-payoff gap and a thicker document-tail. Not chosen.*
 
 ## Open questions
 - Placement A vs B (above).

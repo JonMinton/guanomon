@@ -12,7 +12,7 @@
 > **human** story is told through an individual representative. See [[guilds]] for the full
 > concept→character map — the Guano Guild's own human face is [[marga|Marga]] (the
 > collection-crew shoveller), and the Sappers' Guild's *institutional* voice is the
-> confederated address itself (chapter 12), delivered by their chair.
+> confederated address itself (chapter 13), delivered by their chair.
 
 **Voice register (when it narrates):** corporate annual report / official history —
 bureaucratic, smoothing, relentlessly positive; the prose of an institution describing

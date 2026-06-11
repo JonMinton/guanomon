@@ -48,13 +48,13 @@ The Hummingbird must not arrive leftfield in the Dragon's finale; equally it mus
 
 | Ch. | Account | The breadcrumb |
 |---|---|---|
-| 5 | [[the-king|King]] | "small flying engines… steered by the same trick that carries the woman's voice"; the half-written sentence |
-| 7 | [[vesser|Vesser II]] | the forks turned around — "whether a thing far off can be made to *obey*"; "cleaner than the voice was" |
-| 8 | [[garran|Garran]] | the demonstration, on-page, as climax; "it has now started on the hand" |
-| 11 | **[[the-physician|Physician]]** | the in-chamber stimulus trial, from the human side — "Response: none observed" |
-| 12 | [[the-guild|Guild]] | the boast: "small, precise… they exist, they progress, and they are ours" |
-| 13 | [[brask|Brask]] | the full inside view; "only a question of mass and number" |
-| 14 | [[the-dragon|Dragon]] | the same trial decoded; "the arithmetic of who can reach whom" |
+| 6 | [[the-king|King]] | "small flying engines… steered by the same trick that carries the woman's voice"; the half-written sentence |
+| 8 | [[vesser|Vesser II]] | the forks turned around — "whether a thing far off can be made to *obey*"; "cleaner than the voice was" |
+| 9 | [[garran|Garran]] | the demonstration, on-page, as climax; "it has now started on the hand" |
+| 12 | **[[the-physician|Physician]]** | the in-chamber stimulus trial, from the human side — "Response: none observed" |
+| 13 | [[the-guild|Guild]] | the boast: "small, precise… they exist, they progress, and they are ours" |
+| 14 | [[brask|Brask]] | the full inside view; "only a question of mass and number" |
+| 15 | [[the-dragon|Dragon]] | the same trial decoded; "the arithmetic of who can reach whom" |
 
 **Lean: the ladder is now complete — add nothing further.** Specifically rejected:
 - Anything in chapters 1–4: Marga ignores the grand frames *by design* (don't load her —

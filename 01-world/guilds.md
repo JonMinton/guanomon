@@ -13,15 +13,15 @@
 | **Guano Guild** — *"The Guild"*, the title institution | absorbed the old adventurers' guild | collection, processing, distribution; the official story | faceless institutional voice ([[the-guild]]) **+ [[marga]] (the shoveller — its human face/truth)**; power held by [[grundrak]] | ✓ covered |
 | **Collection crews** *(ex-Adventurers')* | treasure-raiding parties | shovelling the muck | **[[marga]]** (with Aldric & Kael) | ✓ covered |
 | **Mages' → Alchemists'** | artisanal spellcraft | characterise [[guano]]; build the [[the-hum|Hum]]; **spinning off the Hummers' Guild** | [[vesser]] (old) + [[brask]] (new, **now a POV** — penultimate ch.; see below) | ✓ covered — generational pair |
-| **Hummers'** *(Alchemists' spin-off)* | — (new) | tend the [[the-hum|Hum]] apparatus / broadcast | named in the Guild address (ch.12); performers via [[sennet|Sennet]] | folded — institutional |
+| **Hummers'** *(Alchemists' spin-off)* | — (new) | tend the [[the-hum|Hum]] apparatus / broadcast | named in the Guild address (ch.13); performers via [[sennet|Sennet]] | folded — institutional |
 | **Slayers' / Warriors'** | dragon-slaying / heroism | force-projection abroad | [[garran|Garran]] | ✓ covered |
 | **Peacekeepers'** *(Slayers' spin-off)* | — (new) | domestic repression of dissent | subplot inside [[garran|Garran]] | folded — own face optional |
-| **Sappers'** | dwarven mining / demolition *(predominantly dwarven; pre-novum often **human-headed** as a political appointment — see [[labour-and-order]])* | feedpipes, power, engineering, [[guano|repotentiation]], [[story-bible|Hummingbird]] ordnance; **now hold the balance of power**; human minority tier works the surface drying/compression | **institutional voice = the confederated Guild address (now ch.12), delivered by the (dwarven) Sappers' chair**; [[grundrak]] for applied-guano violence | ✓ covered (institutional) |
+| **Sappers'** | dwarven mining / demolition *(predominantly dwarven; pre-novum often **human-headed** as a political appointment — see [[labour-and-order]])* | feedpipes, power, engineering, [[guano|repotentiation]], [[story-bible|Hummingbird]] ordnance; **now hold the balance of power**; human minority tier works the surface drying/compression | **institutional voice = the confederated Guild address (now ch.13), delivered by the (dwarven) Sappers' chair**; [[grundrak]] for applied-guano violence | ✓ covered (institutional) |
 | **Bards' / Entertainers'** | court praise-singers / story-tellers | broadcast hosts & performers on the [[the-hum|Hum]] | [[sennet|Sennet]] *(non-POV; in Dalla's chapter)* | ✓ covered (old→new repurposing) |
 | **Beekeepers' / Apiarists'** *(new)* | — | farm the honey catalyst (lethal work) | texture in [[labour-and-order]] | folded — not a POV |
-| **Farmers'** *(food input)* | village agriculture | raise the livestock that **feeds the dragons** (pork/beef/mutton at scale) | named in the Guild address (ch.12); [[earlier-dragon-and-food-economy]] | folded — minor, input-side |
-| **Butchers'** *(food input)* | village trade | slaughter & deliver the source's feed | named in the Guild address (ch.12); [[earlier-dragon-and-food-economy]] | folded — minor, input-side |
-| **Confectioners'** | sweets / luxuries | buy the dragons' sweet by-products ("essence of drake") | ch.12 & [[the-dragon]] (ch.14); [[earlier-dragon-and-food-economy]] | folded — minor |
+| **Farmers'** *(food input)* | village agriculture | raise the livestock that **feeds the dragons** (pork/beef/mutton at scale) | named in the Guild address (ch.13); [[earlier-dragon-and-food-economy]] | folded — minor, input-side |
+| **Butchers'** *(food input)* | village trade | slaughter & deliver the source's feed | named in the Guild address (ch.13); [[earlier-dragon-and-food-economy]] | folded — minor, input-side |
+| **Confectioners'** | sweets / luxuries | buy the dragons' sweet by-products ("essence of drake") | ch.13 & [[the-dragon]] (ch.15); [[earlier-dragon-and-food-economy]] | folded — minor |
 | **Dwarven logistics** *(slurry / repotentiation / transit)* | mining / tunnelling | pipe slurry, arm it on site, run the subway | [[grundrak]] (broadly) | partial |
 
 ## The gaps, ranked (recommendations)
@@ -33,7 +33,7 @@
    un-genre* — plain realism as the truth-check on everyone else's self-dramatisation.
 2. **A sapper — RESOLVED at the institutional level (2026-05-31).** No dedicated personal POV
    (cast size), but the sappers are no longer faceless: as the guild that now **holds the balance
-   of power**, the **Sappers' chair delivers the confederated Guild address** (chapter 12), so the
+   of power**, the **Sappers' chair delivers the confederated Guild address** (chapter 13), so the
    sapper voice *is* the official voice of the age. [[grundrak]] still carries applied-guano
    violence from the inside; a personal sapper POV remains a strong-optional revisit only.
 3. **Peacekeeper — fold into [[garran|Garran]]** (already a subplot) unless it earns its own face.
@@ -66,7 +66,7 @@ the institution.
 ## Sappers' voice — note (rev. 2026-05-31)
 Earlier framing treated the **Sappers'** as a flat GAP / "no POV." Superseded: as the guild
 that now **holds the balance of power**, the **Sappers' chair delivers the confederated Guild
-address (ch.12)** — so the institution *does* have a voice, the official voice of the age.
+address (ch.13)** — so the institution *does* have a voice, the official voice of the age.
 (A dedicated *personal* sapper POV remains a strong-optional revisit only; see gap 2 above.)
 
 ## See also

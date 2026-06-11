@@ -70,7 +70,7 @@ stop.
 
 ## What she's structurally blind to
 That her country was never the point. The "demonstrations" are *signals* — addressed to the
-next territory, and to the home audience, and to history ([[garran]], [[the-king]] ch. 5).
+next territory, and to the home audience, and to history ([[garran]], [[the-king]] ch. 6).
 She believes she married a peace; **she married a message.** She decodes everything except
 her own function as punctuation.
 

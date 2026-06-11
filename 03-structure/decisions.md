@@ -21,6 +21,12 @@
 | Wet vs dried guano | **muck** (wet) vs **guano** (dried) | the dull-naming principle, all of the above |
 
 ## LOCKED — structure & casting
+> **CURRENT (rev. 2026-06-11): 15 chapters** — 13 personal accounts + the [[the-guild|Guild]]
+> institutional address + the **[[murmur-interlude|Murmurations]]** dragon-ensemble interlude
+> (II), across 11 named narrators plus the dragon-collective voice. Running order in
+> [[plot-beats]]. Three chapters are **unfiled** (no provenance epigraph): II Murmurations,
+> XI Dalla-private, XV the Dragon. The block below preserves the earlier casting history.
+
 - **Cast: 12 accounts across 10 narrators** *(rev. 2026-05-31: [[brask]] promoted to a POV).*
   Two narrators carry two non-adjacent chapters each — [[dalla|Dalla]] (on-air transcript /
   private monologue) and [[vesser|Vesser]] (elegy / observing [[brask]]).
@@ -59,14 +65,19 @@
   as "conditioned to routine," truth in the margin. Carries [[dragons]] §5 from the human
   blind side → the [[the-dragon|Dragon's]] "I understand them" lands as confirmation. The
   asymmetry noted: comprehension widespread, *speech* rare ("the gift runs only the one way").
-- **Murmur interlude (PROPOSED, not live).** Draft `04-chapters/_proposed-the-murmur-interlude.md`
-  ("The Singing") — banal dragon dialogue through the murmur, shown *earlier* than the
-  finale decode; the seeding-of-memory happening in plain sight; subtle pre-smartphone
-  teens-evading-parents inspiration. Held as `_`-prefixed (Story build skips it) pending
-  Jon's placement call: **(A) early & ambiguous (recommended)** vs **(B) before the
-  Physician (safe)**. Myth-guard + open Qs in [[murmur-interlude]]. If adopted it is a
-  **third unfiled chapter** (no provenance epigraph) — reframes the two-gap dossier design
-  as "the record has holes shaped like what it cannot hear."
+- **Murmur interlude ADOPTED — now CHAPTER II, "Murmurations" (per Jon, placement A).**
+  `04-chapters/02-murmurations.md` — banal dragon dialogue through the murmur, dropped in
+  **early and unframed** (no provenance epigraph), the seeding-of-memory in plain sight long
+  before the finale decodes it. **Title "Murmurations"** (the starling-flock figure the
+  murmur rests on; a *murmur + conversations* pun; reads as innocuous/atmospheric for the
+  first reader; secretly rhymes forward to [[brask|Brask's]] **Hummingbird** swarm — same
+  murmuration principle, one built to kill, one humming to escape). **Placed at II, after
+  [[marga|Marga]]:** a "present-day, top and bottom" opening diptych (surface shoveller →
+  deep source, neither aware of the other) before [[grundrak|Grundrak]] flashes back to the
+  discovery. It is the **third unfiled chapter** (with [[dalla|Dalla-private]] XI and
+  [[the-dragon|the Dragon]] XV) — the dossier's record now has **three holes shaped like
+  what it cannot hear** (a private self; the dragons, twice). Myth-guard + form notes in
+  [[murmur-interlude]]. **Cast is now 15 chapters** (see the LOCKED block update below).
 
 ## Dragon-society revision — 2026-06-11 (per Jon)
 Reworked the dragon sociology/biology on a richer, research-backed model.
@@ -92,11 +103,11 @@ Reworked the dragon sociology/biology on a richer, research-backed model.
 - **Ancestral memory + cyclic-history portent (easter egg):** dragons remember past their own
   lives; the oldest hold a **cyclic view** (humans were this advanced before, and fell) →
   a third option, **wait it out**; the Hummingbird is what makes mere waiting unsafe.
-  Delivered once, understated, in ch. 14. **Literacy:** some dragons read/learn human
+  Delivered once, understated, in ch. 15. **Literacy:** some dragons read/learn human
   language (gift for *written* language) — why the Dragon "understands them."
 - **Determinism preserved/sharpened**, leaderless quality intact (Dragon supplies *memory*,
   not command). New theory note [[dragons-hard-magic]] (lit survey + real-animal models);
-  light prose touches in ch. 14 (air-song heritage, vibration-concealment, the wait-it-out
+  light prose touches in ch. 15 (air-song heritage, vibration-concealment, the wait-it-out
   beat). [[the-hum]] and [[the-dragon]] updated.
 
 ## Second iteration — 2026-06-10 (adopted wholesale; writers'-room pass)

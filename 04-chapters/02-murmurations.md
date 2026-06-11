@@ -1,10 +1,4 @@
-# The Singing
-
-> **PROPOSED INTERLUDE — not yet in the running order** *(draft 2026-06-11; `_`-prefixed so
-> the site's Story build skips it). Rationale, placement options, and the myth-guard live in
-> [[murmur-interlude]]. This is the murmur shown *lived and banal*, much earlier than its
-> finale decode — dragon society as ordinary traffic, with the seeding-of-memory mechanism
-> happening in plain sight before the reader knows to watch for it.*
+# Murmurations
 
 ---
 

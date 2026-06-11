@@ -40,6 +40,7 @@ brief is in [[background]]; the orientation is in the [README](README.md).*
 - [[the-dragon]] — the source · *undecided / fable-from-outside*
 - [[the-bride|Liesse]] — the conquered surety-bride · *censored letters home* (adopted 2026-06-10; the recurrence thesis's negative case)
 - [[the-physician]] — the dragons' doctor · *clinical case-book* (adopted 2026-06-10; carries the finale's clinical payload forward)
+- [[murmur-interlude|Murmurations]] — the deep, overheard · *dragon-ensemble interlude* (ch. II; adopted 2026-06-11; the murmur shown lived and unframed, decoded only at the finale)
 
 *Non-POV characters (seen inside others' chapters): **[[sennet|Sennet]]** — Dalla's unctuous
 interviewer — in her on-air transcript chapter; and **[[korrin]]** — Brask's dwarf fuel-engineer
@@ -52,7 +53,7 @@ Brask's own inside view.)*
 - [[plot-beats]] — account order, genre map, the two organising rhymes, failure-mode watch-list
 - [[decisions]] — the decisions ledger: every locked call and every deliberate deferral
 - [[second-iteration-proposals]] — *(branch)* the decision menu: two proposed accounts, the ch. 14 diet, the dossier frame, the voice pass — with the [[writers-room-2026-06-10|writers' room]] synthesis behind it
-- [[murmur-interlude]] — *(proposed)* an early interstitial of banal dragon dialogue through the murmur; rationale, placement options (A early/ambiguous vs B back-third), myth-guard
+- [[murmur-interlude]] — the rationale/guards behind **[[murmur-interlude|Murmurations]]** (ch. II): the early, unframed dragon-dialogue interlude
 
 ## Drafting
 - [[_chapter-template]] — copy per account into `04-chapters/` when (and only when) drafting begins

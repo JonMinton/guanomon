@@ -7,26 +7,31 @@
 | # | Account   | Genre                     | Arc-peak beat                        |
 |---|-----------|---------------------------|--------------------------------------|
 | I | [[marga\|Marga]] | working-class realism — *the un-genre* | the shoveller's truth; **opens on the descent** (formerly the standalone prologue), retold in her first person |
-| II | [[grundrak\|Grundrak]]  | political thriller        | the trials (vindication)             |
-| III | [[vesser\|Vesser]] — *the elegy* | elegy | the trials (the beginning of the end)|
-| IV | [[dalla\|Dalla]] — *on air* | **broadcast transcript / play-script** (interviewed by [[sennet\|the Host]]) | the public personality, performing "I fell" as charm |
-| V | [[the-king\|The King]]  | horror                    | the throne-room coup                 |
-| VI | [[the-princess\|The Princess]] | conversion / bildungsroman | the strategic marriage; her naturalised conversion |
-| VII | [[vesser\|Vesser]] — *watching [[brask\|Brask]]* | elegy-as-observer narrating the technical sublime | Brask building the Hum |
-| VIII | [[garran\|Garran]]    | war confession / disillusioned memoir | "I once killed a dragon"; the Hummingbird demonstration; the Peacekeeper shame |
-| IX | [[the-bride\|Liesse]] *(added 2026-06-10)* | **epistolary — the Censor's fair copies**, struck passages on the page | the fist's receiving end; the surety marriage; "it sounds like me" |
-| X | [[dalla\|Dalla]] — *private* | interior monologue, to no one | the weary irony; the cost of the on-air account |
-| XI | [[the-physician\|The Physician]] *(added 2026-06-10)* | **clinical case-book**, years 18–31 of the keeping | the laundering sincerely inhabited; the herd-wide decline; "the patient sings" |
-| XII | [[the-guild\|The Guild]] | corporate annual report   | the normalisation montage            |
-| XIII | [[brask\|Brask]] | technological-progress account | the Hummingbirds; "only a question of mass and number" |
-| XIV | [[the-dragon\|The Dragon]]| first person — fable-outside | the metabolic decline; gaze reopens; the murmur |
+| II | [[murmur-interlude\|Murmurations]] *(added 2026-06-11)* | **dragon-ensemble interlude** — banal murmur-traffic, no single narrator, unfiled | the deep heard *lived*; the seeding-of-memory in plain sight; the surface/deep diptych with Marga |
+| III | [[grundrak\|Grundrak]]  | political thriller        | the trials (vindication)             |
+| IV | [[vesser\|Vesser]] — *the elegy* | elegy | the trials (the beginning of the end)|
+| V | [[dalla\|Dalla]] — *on air* | **broadcast transcript / play-script** (interviewed by [[sennet\|the Host]]) | the public personality, performing "I fell" as charm |
+| VI | [[the-king\|The King]]  | horror                    | the throne-room coup                 |
+| VII | [[the-princess\|The Princess]] | conversion / bildungsroman | the strategic marriage; her naturalised conversion |
+| VIII | [[vesser\|Vesser]] — *watching [[brask\|Brask]]* | elegy-as-observer narrating the technical sublime | Brask building the Hum |
+| IX | [[garran\|Garran]]    | war confession / disillusioned memoir | "I once killed a dragon"; the Hummingbird demonstration; the Peacekeeper shame |
+| X | [[the-bride\|Liesse]] *(added 2026-06-10)* | **epistolary — the Censor's fair copies**, struck passages on the page | the fist's receiving end; the surety marriage; "it sounds like me" |
+| XI | [[dalla\|Dalla]] — *private* | interior monologue, to no one | the weary irony; the cost of the on-air account |
+| XII | [[the-physician\|The Physician]] *(added 2026-06-10)* | **clinical case-book**, years 18–31 of the keeping | the laundering sincerely inhabited; the herd-wide decline; "the patient sings" |
+| XIII | [[the-guild\|The Guild]] | corporate annual report   | the normalisation montage            |
+| XIV | [[brask\|Brask]] | technological-progress account | the Hummingbirds; "only a question of mass and number" |
+| XV | [[the-dragon\|The Dragon]]| first person — fable-outside | the metabolic decline; gaze reopens; the murmur |
 
-**Fourteen chapters: thirteen personal accounts across eleven narrators, plus the Guild's
-institutional address.** *(Rev. 2026-06-10: [[the-bride|Liesse]] and [[the-physician]]
-adopted — see [[second-iteration-proposals]] and [[writers-room-2026-06-10]]. The tail's
+**Fifteen chapters: thirteen personal accounts + the Guild's institutional address + the
+[[murmur-interlude|Murmurations]] dragon-ensemble interlude, across eleven named narrators plus
+the dragon-collective voice.** *(Rev. 2026-06-11: **Murmurations** inserted at II — the murmur
+shown lived and unframed, early, so the finale confirms rather than introduces it; it makes a
+surface/deep **opening diptych** with Marga before [[grundrak|Grundrak]] flashes back to the
+discovery. Rev. 2026-06-10: [[the-bride|Liesse]] and [[the-physician]] adopted.) The tail's
 **document quota is full**: any future transcript/ledger/filed-form chapter is presumptively
-rejected. Exactly two chapters carry no provenance epigraph — X and XIV, the unit and the
-source, the two accounts the apparatus never filed. Never mark the gaps.)* *(The former Scene 1 prologue is no longer a
+rejected. **Three chapters carry no provenance epigraph — II, XI and XV** (the murmur, the
+unit's private self, and the source — the things the apparatus cannot record). Never mark the
+gaps.* *(The former Scene 1 prologue is no longer a
 separate part: as of 2026-05-31 it is the opening movement of [[marga|Marga's]] account, in her
 first person — see below.)* Two narrators carry **two non-adjacent chapters each** — [[dalla|Dalla]] (on-air persona /
 private monologue) and [[vesser|Vesser]] (his own elegy / observing [[brask]]). **Two strong non-POV characters** appear *inside* others' chapters rather than narrating:
@@ -85,22 +90,34 @@ peaks. The order as drafted (2026-05-30):
   (formerly the standalone prologue), retold in her first person, then sets the *drudgery of the
   new normal* as the ground truth the later self-dramatisations are measured against. The un-genre
   first inoculates the reader against the genres to come.
-- **II · [[grundrak|Grundrak]]** + **III · [[vesser|Vesser]] (the elegy)** — the trials
+- **II · [[murmur-interlude|Murmurations]]** *(added 2026-06-11)* — the **deep**, answering Marga's
+  **surface**: banal dragon murmur-traffic, dropped in early and unframed. The reader meets the
+  source *awake and talking* one chapter after Marga called it a sleeping mountain — a
+  surface/deep present-day diptych, and the book's biggest secret seeded in plain sight before
+  the history even begins. Decodes only at XV.
+- **III · [[grundrak|Grundrak]]** + **IV · [[vesser|Vesser]] (the elegy)** — the trials
   told twice, opposite arc positions, shared concrete detail. Teaches the book's method:
-  events fixed, meanings not.
-- **IV · [[dalla|Dalla]] (on air)** — pivots from the system's *makers* to one of its
+  events fixed, meanings not. (Here the book flashes back from the present to the discovery.)
+- **V · [[dalla|Dalla]] (on air)** — pivots from the system's *makers* to one of its
   *products*; pure front-stage. {This should probably be a later chapter, but not the penultimate one as otherwise parallels between Dalla and the Dragon may become too obvious}
-- **V · [[the-king|The King]]** — hard power and the coup.
-- **VI · [[the-princess|The Princess]]** — the same marriage from *inside* the new order;
+- **VI · [[the-king|The King]]** — hard power and the coup.
+- **VII · [[the-princess|The Princess]]** — the same marriage from *inside* the new order;
   conversion across one generation. See [[the-princess]].
-- **VII · [[vesser|Vesser]] (watching [[brask|Brask]])** — the magecraft pair's second
+- **VIII · [[vesser|Vesser]] (watching [[brask|Brask]])** — the magecraft pair's second
   half; the mourner narrates the Hum's builder.
-- **VIII · [[garran|Garran]]** — the third displaced incumbent; the Hummingbird demonstration.
-- **IX · [[dalla|Dalla]] (private)** — the weary monologue that dismantles the on-air
+- **IX · [[garran|Garran]]** — the third displaced incumbent; the Hummingbird demonstration.
+- **X · [[the-bride|Liesse]]** — the fist's receiving end; the surety marriage from underneath
+  (the [[the-princess|Princess]] inverted). See [[the-bride]].
+- **XI · [[dalla|Dalla]] (private)** — the weary monologue that dismantles the on-air
   account; rhymed forward to the Dragon.
-- **X · [[the-guild|The Guild]]** — flattens all of it into official history (penultimate,
+- **XII · [[the-physician|The Physician]]** — the source's decline in clinical form; the
+  laundering sincerely inhabited; pre-pays the finale's exposition.
+- **XIII · [[the-guild|The Guild]]** — flattens all of it into official history (antepenultimate,
   costs already in hand). {There are aspects of this which fit into the Princess's story. There are other aspects that relate to the adaptation of the Magicians' Guild into alchemists. This is likely at least two separate more character focused chapters.}
-- **XI · [[the-dragon|The Dragon]]** — the outer frame; reopens everything, unresolved.
+- **XIV · [[brask|Brask]]** — the uncredited builder; the Hummingbirds; "only a question of
+  mass and number."
+- **XV · [[the-dragon|The Dragon]]** — the outer frame; reopens everything, unresolved. Now
+  **confirms** the murmur the reader half-glimpsed at II.
 
 > Earlier alternative (superseded): seat Marga *right after the Guild* (corporate lie
 > answered immediately by the worker's truth) and/or interleave Guild interludes for a more

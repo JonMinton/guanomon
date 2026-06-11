@@ -90,10 +90,10 @@ catastrophe and files them where records are filed. The one thing he never does 
 the thought* — and he says so.
 
 ## Rhymes
-- **The Guild** (ch. 12): his ledger-definitions ("there is no other column") set up the
+- **The Guild** (ch. 13): his ledger-definitions ("there is no other column") set up the
   Guild's measurement creed ("a figure in a column is a figure in a column") — truth and
   laundering sharing a vocabulary.
-- **The Dragon** (ch. 14): four shared concrete details (portion control, the joint, the
+- **The Dragon** (ch. 15): four shared concrete details (portion control, the joint, the
   rest-caves word, the stimulus trial), each told twice across the two chapters with
   opposite meaning.
 - **[[marga|Marga]]**: both keep flat professional registers over uncounted death; hers
@@ -108,7 +108,7 @@ the thought* — and he says so.
   quantities vague).
 
 ## Open questions
-- Gendered male (per the [[the-dragon|Dragon's]] "they have a man who tastes it", ch. 14);
+- Gendered male (per the [[the-dragon|Dragon's]] "they have a man who tastes it", ch. 15);
   also keeps the female-body rhyme ([[dalla|Dalla]]/[[the-dragon|Dragon]]/[[the-princess|Princess]])
   uncrowded. Confirm.
 - Does the Dragon's chapter acknowledge him at all beyond the taster line? (Lean: no — to
