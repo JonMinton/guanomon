@@ -106,7 +106,7 @@
   /* ---------------- story: single page, side nav, auto-numbered ---------------- */
   // The running number is derived from order, not stored in the files: index 0 is the
   // prologue; indices 1..n are the numbered accounts.
-  var ROMAN = ["", "I", "II", "III", "IV", "V", "VI", "VII", "VIII", "IX", "X", "XI", "XII", "XIII"];
+  var ROMAN = ["", "I", "II", "III", "IV", "V", "VI", "VII", "VIII", "IX", "X", "XI", "XII", "XIII", "XIV", "XV", "XVI", "XVII", "XVIII", "XIX", "XX"];
   function roman(n) { return ROMAN[n] || String(n); }
   function chapterKicker(idx) { return idx === 0 ? "Prologue" : "Account " + roman(idx); }
 
